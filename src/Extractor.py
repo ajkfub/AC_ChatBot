@@ -20,6 +20,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 data_directory = os.path.join(parent_dir, "data/raw_data")
 
+
 class WebScrapper(ABC):
     """
     Abstract base class for web scrapers.
@@ -48,7 +49,9 @@ class WebScrapper(ABC):
         Args:
             data (List[Dict[str, str]]): The data to export.
         """
-        with open(f"{data_directory}/{self.__class__.__name__}.json", "w", encoding="utf-8") as f:
+        with open(
+            f"{data_directory}/{self.__class__.__name__}.json", "w", encoding="utf-8"
+        ) as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
 
     def run(self) -> None:
@@ -67,7 +70,12 @@ class WebScrapper(ABC):
 class IFRSScraper(WebScrapper):
     """A web scraper for extracting IFRS standards from the official IFRS website."""
 
-    def __init__(self, index_page: str = "https://www.ifrs.org", username: str = "dilac63789@chainds.com", password: str = "Stat7008"):
+    def __init__(
+        self,
+        index_page: str = "https://www.ifrs.org",
+        username: str = "dilac63789@chainds.com",
+        password: str = "Stat7008",
+    ):
         super().__init__(index_page)
         self.username = username
         self.password = password
@@ -77,7 +85,9 @@ class IFRSScraper(WebScrapper):
 
     def __enter__(self):
         """Initialize WebDriver and login."""
-        self.driver = webdriver.Chrome(service=self.service, options=self.chrome_options)
+        self.driver = webdriver.Chrome(
+            service=self.service, options=self.chrome_options
+        )
         self._login()
         return self
 
@@ -89,30 +99,52 @@ class IFRSScraper(WebScrapper):
     def _login(self) -> None:
         """Log in to the IFRS website."""
         self.driver.get(f"{self.index_page}/login/?resource=/content/ifrs/home.html")
-        cookie_button = WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="cc-accept-cookies"]')))
+        cookie_button = WebDriverWait(self.driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, '//*[@id="cc-accept-cookies"]'))
+        )
         cookie_button.click()
 
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, "//input[@type='email']"))).send_keys(self.username)
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, "//input[@type='password']"))).send_keys(self.password)
-        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[@type='submit']"))).click()
+        WebDriverWait(self.driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, "//input[@type='email']"))
+        ).send_keys(self.username)
+        WebDriverWait(self.driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, "//input[@type='password']"))
+        ).send_keys(self.password)
+        WebDriverWait(self.driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, "//button[@type='submit']"))
+        ).click()
 
         time.sleep(5)  # wait for browser to redirect
 
     def _get_all_urls(self) -> List[str]:
         """Get all IFRS standard URLs from the main page."""
         self.driver.get(f"{self.index_page}/issued-standards/list-of-standards/")
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "#ifrs-cmp-standards-results")))
+        WebDriverWait(self.driver, 10).until(
+            EC.presence_of_element_located(
+                (By.CSS_SELECTOR, "#ifrs-cmp-standards-results")
+            )
+        )
 
-        section = self.driver.find_element(By.XPATH, '//*[@id="ifrs-cmp-standards-results"]/div/div[4]')
+        section = self.driver.find_element(
+            By.XPATH, '//*[@id="ifrs-cmp-standards-results"]/div/div[4]'
+        )
         soup = BeautifulSoup(section.get_attribute("outerHTML"), "html.parser")
-        urls = [link["href"].replace("/content/ifrs/home/issued-standards/", f"{self.index_page}/issued-standards/") for link in soup.find_all("a", href=True)]
+        urls = [
+            link["href"].replace(
+                "/content/ifrs/home/issued-standards/",
+                f"{self.index_page}/issued-standards/",
+            )
+            for link in soup.find_all("a", href=True)
+        ]
         return urls
 
     def _get_subpage_data(self, url: str) -> Dict[str, str]:
         """Get content from an IFRS standard page."""
         self.driver.get(url)
         section_xpath = "/html/body/div/div/div[2]/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/section"
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, section_xpath)))
+        WebDriverWait(self.driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, section_xpath))
+        )
 
         section = self.driver.find_element(By.XPATH, section_xpath)
         soup = BeautifulSoup(section.get_attribute("outerHTML"), "html.parser")
@@ -149,7 +181,11 @@ class AccountingCoachScrapper(WebScrapper):
             response = requests.get(url, timeout=10)
             soup = BeautifulSoup(response.content, "html.parser")
 
-            urls = [a["href"] for a in soup.find_all("a", href=True) if re.match("https://www.accountingcoach.com/blog/.*", a["href"])]
+            urls = [
+                a["href"]
+                for a in soup.find_all("a", href=True)
+                if re.match("https://www.accountingcoach.com/blog/.*", a["href"])
+            ]
             all_urls.extend(urls)
 
         return all_urls
@@ -184,7 +220,11 @@ class ReadyRatiosScrapper(WebScrapper):
         """Get all URLs from the main page."""
         response = requests.get(self.index_page, timeout=10)
         soup = BeautifulSoup(response.content, "html.parser")
-        urls = [i["href"] for i in soup.find_all("a", href=True) if re.match("/reference/.*/\Z", i["href"])]
+        urls = [
+            i["href"]
+            for i in soup.find_all("a", href=True)
+            if re.match("/reference/.*/\Z", i["href"])
+        ]
         return [f"https://www.readyratios.com{url}" for url in urls]
 
     def _get_subpage_data(self, url: str) -> Dict[str, str]:

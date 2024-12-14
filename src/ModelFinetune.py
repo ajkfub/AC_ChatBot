@@ -17,7 +17,9 @@ import pandas as pd
 from datasets import Dataset
 
 
-def initialize_model_and_tokenizer(model_name: str, max_seq_length: int, load_in_4bit: bool = True) -> tuple:
+def initialize_model_and_tokenizer(
+    model_name: str, max_seq_length: int, load_in_4bit: bool = True
+) -> tuple:
     """
     Initialize the FastLanguageModel and tokenizer.
 
@@ -38,11 +40,18 @@ def initialize_model_and_tokenizer(model_name: str, max_seq_length: int, load_in
     model = FastLanguageModel.get_peft_model(
         model,
         r=16,  # Choose any number > 0; suggested: 8, 16, 32, 64, 128
-        target_modules=["q_proj", "k_proj", "v_proj", "o_proj",
-                        "gate_proj", "up_proj", "down_proj"],
+        target_modules=[
+            "q_proj",
+            "k_proj",
+            "v_proj",
+            "o_proj",
+            "gate_proj",
+            "up_proj",
+            "down_proj",
+        ],
         lora_alpha=16,
         lora_dropout=0,  # Supports any, but 0 is optimized
-        bias="none",     # Supports any, but "none" is optimized
+        bias="none",  # Supports any, but "none" is optimized
         use_gradient_checkpointing="unsloth",  # True or "unsloth" for long context
         random_state=3407,
         use_rslora=False,  # Supports rank stabilized LoRA
@@ -85,7 +94,9 @@ def format_prompts(data: dict, token: str) -> dict:
     return {"text": texts}
 
 
-def configure_trainer(model: FastLanguageModel, tokenizer, dataset: Dataset, max_seq_length: int) -> SFTTrainer:
+def configure_trainer(
+    model: FastLanguageModel, tokenizer, dataset: Dataset, max_seq_length: int
+) -> SFTTrainer:
     """
     Configure the SFTTrainer with the given model, tokenizer, and dataset.
 
@@ -98,12 +109,7 @@ def configure_trainer(model: FastLanguageModel, tokenizer, dataset: Dataset, max
     Returns:
         SFTTrainer: The configured trainer for fine-tuning.
     """
-    lora_config = LoraConfig(
-        r=16,
-        lora_alpha=32,
-        lora_dropout=0.05,
-        bias="none"
-    )
+    lora_config = LoraConfig(r=16, lora_alpha=32, lora_dropout=0.05, bias="none")
 
     training_args = TrainingArguments(
         per_device_train_batch_size=2,
@@ -150,7 +156,12 @@ def save_model(model: FastLanguageModel, tokenizer, access_token: str) -> None:
 
     # Save to q4_k_m GGUF
     model.save_pretrained_gguf("AC_ChatBot", tokenizer, quantization_method="f16")
-    model.push_to_hub_gguf("SamHunghaha/AC_ChatBot", tokenizer, quantization_method="f16", token=access_token)
+    model.push_to_hub_gguf(
+        "SamHunghaha/AC_ChatBot",
+        tokenizer,
+        quantization_method="f16",
+        token=access_token,
+    )
 
 
 def get_dataset(filename: str, token: str) -> Dataset:
@@ -169,7 +180,14 @@ def get_dataset(filename: str, token: str) -> Dataset:
 
     data = [json.loads(i) for i in data]
     reshaped = [[i for i in data[j]["messages"]] for j in range(len(data))]
-    formatted = [{"instruction": i[0]["content"], "input": i[1]["content"], "output": i[2]["content"]} for i in reshaped]
+    formatted = [
+        {
+            "instruction": i[0]["content"],
+            "input": i[1]["content"],
+            "output": i[2]["content"],
+        }
+        for i in reshaped
+    ]
 
     final = pd.DataFrame(formatted).to_dict("list")
     training_data = format_prompts(final, token)
@@ -190,7 +208,9 @@ def main() -> None:
 
     # Initialize model and tokenizer
     model_name = "unsloth/llama-3-8b-bnb-4bit"
-    model, tokenizer = initialize_model_and_tokenizer(model_name, max_seq_length, load_in_4bit)
+    model, tokenizer = initialize_model_and_tokenizer(
+        model_name, max_seq_length, load_in_4bit
+    )
 
     # Get EOS token
     eos_token = tokenizer.eos_token  # Must add EOS_TOKEN
