@@ -1,9 +1,7 @@
 # Accounting ChatBot
 ---
 
-# Accounting Chatbot using Llama3
-
-## Overview
+## Overview -- Accounting Chatbot using Llama3
 ---
 This project fine-tunes the Llama3 model to create a specialized chatbot for accounting inquiries. Using a dataset of responses from accounting professionals, the model is trained to generate accurate and contextually relevant answers.
 
