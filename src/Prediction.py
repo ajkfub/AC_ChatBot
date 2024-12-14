@@ -40,11 +40,11 @@ def find_optimal_k(X, max_k, plot):
 
     # Get the optimal k
     optimal_k = k_values[silhouette_scores.index(max(silhouette_scores))]
-    print(f"Optimal number of clusters (k): {optimal_k}")
+    # print(f"Optimal number of clusters (k): {optimal_k}")
     return optimal_k
 
 # Step 3: Suggest similar questions based on user input
-def suggest_similar_questions(user_question, enquiries, optimal_k):
+def suggest_similar_questions(vectorizer, user_question, enquiries, optimal_k, X):
     # Add the user question to the list of inquiries
     all_inquiries = enquiries + [user_question]
 
@@ -86,7 +86,7 @@ if __name__ == "__main__":
 
     # Example usage
     user_input = "What is EBITDA?"  # Replace with dynamic user input
-    suggestions = suggest_similar_questions(user_input, enquiries, optimal_k)
+    suggestions = suggest_similar_questions(vectorizer, user_input, enquiries, optimal_k, X)
 
     print(f"Suggested questions for '{user_input}':")
     for question in suggestions:

@@ -45,7 +45,7 @@ class DataGenerator:
 
         self.text_data = data
 
-    def _generate_question(self, text: str, num_questions: int = 1) -> List[str]:
+    def _generate_question(self, text: str, num_questions: int = 1) -> List[dict]:
         """
         Generate questions from a given text.
 
@@ -54,7 +54,7 @@ class DataGenerator:
             num_questions (int): The number of questions to generate.
 
         Returns:
-            List[str]: A list of generated questions.
+            List[dict]: A list of generated questions.
         """
         qa_list = self.qg.generate(
             text, num_questions=num_questions, answer_style="sentences"
@@ -72,12 +72,12 @@ class DataGenerator:
 
         logging.info(f"Start generating {len(text_list)} questions")
 
-        for text in tqdm(text_list):
+        for text in tqdm(text_list[:5]):
             question_list = self._generate_question(text)
-            result.append(question_list)
+            result = result + question_list
 
         df = pd.DataFrame(result)
-        df.to_csv(f"../data/processed_data/{self.name}.csv", index=False)
+        df.to_csv(f"{parent_dir}/data/processed_data/{self.name}.csv", index=False)
 
     def run(self, filepath: str, name: str) -> None:
         """
@@ -107,6 +107,7 @@ if __name__ == "__main__":
     # Get all JSON files from the raw data directory
     directory = os.path.join(parent_dir, "data/raw_data")
     files = os.listdir(directory)
+    files = [f for f in files if not f.startswith(".")]
 
     for file in files:
         fname = file.replace(".json", "")
