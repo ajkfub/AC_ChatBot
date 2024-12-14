@@ -1,234 +1,212 @@
-import json
-import logging
-import re
-import unicodedata
-import itertools
-from concurrent.futures import ThreadPoolExecutor
-from functools import reduce
-
+from abc import ABC, abstractmethod
 import requests
+import re
 from bs4 import BeautifulSoup
-from tenacity import retry, stop_after_attempt
+import json
+import unicodedata
 from tqdm import tqdm
-import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+from typing import Dict, List
+import os
 
-class Extractor:
-    '''
-    A class to extract data from Accounting Coach and Ready Ratios websites.
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+data_directory = os.path.join(parent_dir, "data/raw_data")
 
-    It retrieves URLs from the Accounting Coach blog and extracts question-answer
-    data, as well as extracts content from the Ready Ratios website.
-    '''
+class WebScrapper(ABC):
+    """
+    Abstract base class for web scrapers.
 
-    def __init__(self) -> None:
+    Attributes:
+        index_page (str): The URL of the main page to scrape.
+    """
 
-        '''
-        Initializes the Extractor with base URLs and retrieves all relevant URLs.
-        '''
-        self.accounting_coach_url: str = "https://www.accountingcoach.com"
-        self.ready_ratio_url: str = "https://www.readyratios.com"
-        self.njobs: int = 5
-        self.all_ac_urls = self.__get_all_ac_urls()
-        self.all_rr_urls = self.__get_all_rr_urls()
+    def __init__(self, index_page: str):
+        self.index_page = index_page
 
-    @retry(stop=stop_after_attempt(3))
-    def __get_all_ac_urls(self) -> list[str]:
+    @abstractmethod
+    def _get_all_urls(self) -> List[str]:
+        """Retrieve all URLs from the main page."""
+        pass
+
+    @abstractmethod
+    def _get_subpage_data(self, url: str) -> Dict[str, List[str]]:
+        """Extract data from a subpage given its URL."""
+        pass
+
+    def export_data(self, data: List[Dict[str, str]]) -> None:
         """
-        Retrieves all blog URLs from the Accounting Coach website.
-
-        Returns:
-            list: A list of blog URLs found on the Accounting Coach website.
-        """
-        response = requests.get(f"{self.accounting_coach_url}/blog")
-        soup = BeautifulSoup(response.content, 'html.parser')
-        topics = soup.find("div", {"id": "archive-topics"})
-        topics = topics.find_all("li", {"class": "all-topics__topics__topic sorted"})
-
-        logging.info(f"[Task: Account Coach]# of topics available: {len(topics)}")
-
-        with ThreadPoolExecutor(max_workers=self.njobs) as executor:
-            results = executor.map(self._get_url_from_topic, topics)
-
-        all_urls = [res for res in results]
-        all_urls = list(itertools.chain(*all_urls))
-
-        logging.info(f"[Task: Account Coach]# of urls available: {len(all_urls)}")
-
-        return all_urls
-
-    def _get_url_from_topic(self, topic: str) -> list[str]:
-        '''
-        Extracts all blog URLs from a given topic.
+        Export scraped data to a JSON file.
 
         Args:
-            topic (BeautifulSoup object): A BeautifulSoup object representing a blog topic.
+            data (List[Dict[str, str]]): The data to export.
+        """
+        with open(f"{data_directory}/{self.__class__.__name__}.json", "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
 
-        Returns:
-            list: A list of blog URLs associated with the given topic.
-        '''
-        object = topic.find("a", href=True)
-        href = object["href"]
-        title = object["title"]
+    def run(self) -> None:
+        """Execute the scraping process."""
+        print(f"Scraping {self.__class__.__name__}...")
+        urls = self._get_all_urls()
 
-        response = requests.get(f"{self.accounting_coach_url}{href}")
-        soup = BeautifulSoup(response.content, 'html.parser')
+        data = {}
+        for url in tqdm(urls):
+            data.update(self._get_subpage_data(url))
 
-        urls = [
-            i["href"]
-            for i in soup.find_all("a", href=True)
-            if re.match(f"{self.accounting_coach_url}/blog/.*", i["href"])
-        ]
+        self.export_data(data)
+        print(f"Exported {len(data)} items to {self.__class__.__name__}.json")
 
+
+class IFRSScraper(WebScrapper):
+    """A web scraper for extracting IFRS standards from the official IFRS website."""
+
+    def __init__(self, index_page: str = "https://www.ifrs.org", username: str = "dilac63789@chainds.com", password: str = "Stat7008"):
+        super().__init__(index_page)
+        self.username = username
+        self.password = password
+        self.chrome_options = Options()
+        self.service = Service(ChromeDriverManager().install())
+        self.driver = None
+
+    def __enter__(self):
+        """Initialize WebDriver and login."""
+        self.driver = webdriver.Chrome(service=self.service, options=self.chrome_options)
+        self._login()
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb) -> None:
+        """Exit context manager and ensure driver is closed."""
+        if self.driver:
+            self.driver.quit()
+
+    def _login(self) -> None:
+        """Log in to the IFRS website."""
+        self.driver.get(f"{self.index_page}/login/?resource=/content/ifrs/home.html")
+        cookie_button = WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="cc-accept-cookies"]')))
+        cookie_button.click()
+
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, "//input[@type='email']"))).send_keys(self.username)
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, "//input[@type='password']"))).send_keys(self.password)
+        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[@type='submit']"))).click()
+
+        time.sleep(5)  # wait for browser to redirect
+
+    def _get_all_urls(self) -> List[str]:
+        """Get all IFRS standard URLs from the main page."""
+        self.driver.get(f"{self.index_page}/issued-standards/list-of-standards/")
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "#ifrs-cmp-standards-results")))
+
+        section = self.driver.find_element(By.XPATH, '//*[@id="ifrs-cmp-standards-results"]/div/div[4]')
+        soup = BeautifulSoup(section.get_attribute("outerHTML"), "html.parser")
+        urls = [link["href"].replace("/content/ifrs/home/issued-standards/", f"{self.index_page}/issued-standards/") for link in soup.find_all("a", href=True)]
         return urls
 
-    def _get_qna_data(self, url: str) -> dict[str, str]:
-        """
-        Extracts question and answer data from a specific blog URL.
+    def _get_subpage_data(self, url: str) -> Dict[str, str]:
+        """Get content from an IFRS standard page."""
+        self.driver.get(url)
+        section_xpath = "/html/body/div/div/div[2]/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/section"
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, section_xpath)))
 
-        Args:
-            url (str): The URL of the blog to extract data from.
+        section = self.driver.find_element(By.XPATH, section_xpath)
+        soup = BeautifulSoup(section.get_attribute("outerHTML"), "html.parser")
+        ifrs_number = int(url.split("/")[-1].replace("ifrs", "").replace(".html", ""))
+        table = soup.find("div", id=f"IFRS{ifrs_number:02d}_TI")
 
-        Returns:
-            dict: A dictionary containing headers as keys and corresponding paragraphs as values.
-        """
-        response = requests.get(url)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        soup = soup.find_all("div", {"class": "col-12 col-md-8"})[1]
-
-        qna_data = self._get_header_and_paragraph(soup)
-
-        return qna_data
-
-    def _get_header_and_paragraph(self, soup: BeautifulSoup) -> dict[str, str]:
-        """
-        Retrieves headers and their associated paragraphs from a BeautifulSoup object.
-
-        Args:
-            soup (BeautifulSoup object): A BeautifulSoup object containing the content to parse.
-
-        Returns:
-            dict: A dictionary mapping headers to lists of associated paragraphs.
-        """
         data = {}
-        all_headers = soup.find_all("h2")
-        for e in all_headers:
-            data[e.text] = []
-            for s in e.find_next_siblings():
-                if s.name == "p":
-                    data[e.text].append(s.text)
-                else:
-                    break
+        for div in table.find_all("div", class_="body"):
+            text = " ".join(div.text.split()).replace("\u2060", "")
+            if len(text) > 0:
+                data[f"IFRS{ifrs_number}_Item{len(data)+1}"] = text
 
         return data
 
-    @retry(stop=stop_after_attempt(3))
-    def extract_ac_data(self) -> dict[str, str]:
-        """
-        Extracts question-answer data from all Accounting Coach blog URLs and saves it to a JSON file.
 
-        Returns:
-            dict: A dictionary containing all combined question-answer data from the blog.
-        """
-        with ThreadPoolExecutor(max_workers=self.njobs) as executor:
-            results = executor.map(self._get_qna_data, self.all_ac_urls)
+class AccountingCoachScrapper(WebScrapper):
+    """Scrape accountingcoach.com for Q&A data."""
 
-        data = [i for i in results]
-        all_qna_data = reduce(lambda a, b: dict(a, **b), data)
-        all_qna_data = {
-            k: " ".join(v) for k, v in all_qna_data.items() if len(" ".join(v)) > 0
-        }
+    def __init__(self, index_page: str = "https://www.accountingcoach.com"):
+        super().__init__(index_page)
 
-        logging.info(f"[Task: Accounting Coach] Extracted {len(all_qna_data)} Question and Answers data")
+    def _get_all_urls(self) -> List[str]:
+        """Get all blog post URLs from the main page."""
+        response = requests.get(f"{self.index_page}/blog", timeout=10)
+        soup = BeautifulSoup(response.content, "html.parser")
+        topics = soup.find("div", {"id": "archive-topics"})
+        topics = topics.find_all("li", {"class": "all-topics__topics__topic sorted"})
 
-        with open("data/raw_data/accountingcoach.json", "w") as fp:
-            json.dump(all_qna_data, fp)
+        all_urls = []
+        for topic in tqdm(topics):
+            link = topic.find("a", href=True)
+            url = f"https://www.accountingcoach.com{link['href']}"
 
-        return all_qna_data
+            response = requests.get(url, timeout=10)
+            soup = BeautifulSoup(response.content, "html.parser")
 
-    # ================================================
-    # Function for ready ratios website scrapping
-    # ================================================
+            urls = [a["href"] for a in soup.find_all("a", href=True) if re.match("https://www.accountingcoach.com/blog/.*", a["href"])]
+            all_urls.extend(urls)
 
-    def __get_all_rr_urls(self) -> list[str]:
-        """
-        Retrieves all reference URLs from the Ready Ratios website.
+        return all_urls
 
-        Returns:
-            list: A list of reference URLs found on the Ready Ratios website.
-        """
-        response = requests.get(self.ready_ratio_url + "/reference")
-        soup = BeautifulSoup(response.content, 'html.parser')
+    def _get_subpage_data(self, url: str) -> Dict[str, str]:
+        """Get Q&A data from a blog post URL by extracting headers and their associated paragraphs."""
+        response = requests.get(url, timeout=10)
+        soup = BeautifulSoup(response.content, "html.parser")
+        content = soup.find_all("div", {"class": "col-12 col-md-8"})[1]
 
-        urls = [
-            i["href"]
-            for i in soup.find_all("a", href=True)
-            if re.match("/reference/.*/\Z", i["href"])
-        ]
-
-        logging.info(f"[Task: Ready Ratio]# of urls available: {len(urls)}")
-
-        return urls
-
-    def _get_rr_website_content(self, href):
-        """
-        Extracts content from a specific Ready Ratios reference URL.
-
-        Args:
-            href (str): The relative URL of the reference to extract content from.
-
-        Returns:
-            dict: A dictionary containing the title and text extracted from the reference.
-        """
         data = {}
+        for header in content.find_all("h2"):
+            paragraphs = []
+            for sibling in header.find_next_siblings():
+                if sibling.name == "p":
+                    paragraphs.append(sibling.text)
+                else:
+                    break
+            data[header.text] = paragraphs
 
-        url = self.ready_ratio_url + href
-        response = requests.get(url)
+        data = {k: " ".join(v) for k, v in data.items() if len(" ".join(v)) > 0}
+        return data
+
+
+class ReadyRatiosScrapper(WebScrapper):
+    """Scrape readyratios.com for Q&A data."""
+
+    def __init__(self, index_page: str = "https://www.readyratios.com/reference/"):
+        super().__init__(index_page)
+
+    def _get_all_urls(self) -> List[str]:
+        """Get all URLs from the main page."""
+        response = requests.get(self.index_page, timeout=10)
+        soup = BeautifulSoup(response.content, "html.parser")
+        urls = [i["href"] for i in soup.find_all("a", href=True) if re.match("/reference/.*/\Z", i["href"])]
+        return [f"https://www.readyratios.com{url}" for url in urls]
+
+    def _get_subpage_data(self, url: str) -> Dict[str, str]:
+        """Get content from readyratios.com URL."""
+        data = {}
+        # URL is already a full URL from _get_all_urls, don't prepend domain again
+        response = requests.get(url, timeout=10)
         soup = BeautifulSoup(response.content, "lxml")
 
-        items = soup.find_all("div", {"class", "item"})
-
-        for item in items:
-            title = item.find_all("h2")[0].text
-            text = item.find_all("p")[0].text
+        for item in soup.find_all("div", {"class": "item"}):
+            title = item.find("h2").text
+            text = item.find("p").text
             text = unicodedata.normalize("NFKD", text)
-
             data[title] = text
 
         return data
 
-    def extract_rr_data(self) -> dict[str, str]:
-        """
-        Extracts content from all Ready Ratios reference URLs and saves it to a JSON file.
-
-        Returns:
-            dict: A dictionary containing all combined content from the references.
-        """
-        with ThreadPoolExecutor(max_workers=4) as executor:
-            results = executor.map(self._get_rr_website_content, self.all_rr_urls)
-
-        data = [i for i in results]
-        all_qna_data = reduce(lambda a, b: dict(a, **b), data)
-
-        logging.info(f"[Task: Ready Ratio] Extracted {len(all_qna_data)} Question and Answers data")
-
-        with open("data/raw_data/ready_ratio.json", "w") as fp:
-            json.dump(all_qna_data, fp)
-
-        return all_qna_data
-
-    def run(self):
-        """
-        Executes the extraction process for both Accounting Coach and Ready Ratios.
-
-        This method orchestrates the extraction of data from both websites.
-        """
-        self.extract_ac_data()
-        self.extract_rr_data()
-
 
 if __name__ == "__main__":
-    logger = logging.getLogger(__name__)
-    logging.basicConfig(filename='log/extractor.log', encoding='utf-8', filemode='w', level=logging.DEBUG)
+    with IFRSScraper() as scraper:  # Needs "with" clause since it manages browser resources
+        scraper.run()
 
-    extractor = Extractor()
-    extractor.run()
+    AccountingCoachScrapper().run()
+
+    ReadyRatiosScrapper().run()

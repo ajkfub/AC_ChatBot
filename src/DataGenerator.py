@@ -1,20 +1,40 @@
+# !git clone https://github.com/amontgomerie/question_generator
+
 import json
 import sys
 import logging
 import torch
-# sys.path.append("/content/question_generator")
-# sys.path.append("/content/raw_data")
-from questiongenerator import QuestionGenerator
+import os
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+sys.path.append(parent_dir)
+
+from question_generator.questiongenerator import QuestionGenerator
 import pandas as pd
 from tqdm import tqdm
-
+import glob
+from typing import List
 
 class DataGenerator:
+    """
+    A class to generate questions from text data using the QuestionGenerator.
 
-    def __init__(self):
+    Attributes:
+        qg (QuestionGenerator): An instance of the QuestionGenerator class.
+    """
+
+    def __init__(self) -> None:
+        """Initialize the DataGenerator with a QuestionGenerator instance."""
         self.qg = QuestionGenerator()
 
-    def _get_text_data(self, filepath, name):
+    def _get_text_data(self, filepath: str, name: str) -> None:
+        """
+        Load text data from a JSON file.
+
+        Args:
+            filepath (str): The path to the JSON file.
+            name (str): The name of the dataset for later use.
+        """
         self.filepath = filepath
         self.name = name
 
@@ -23,7 +43,17 @@ class DataGenerator:
 
         self.text_data = data
 
-    def _generate_question(self, text: str, num_questions=1) -> list:
+    def _generate_question(self, text: str, num_questions: int = 1) -> List[str]:
+        """
+        Generate questions from a given text.
+
+        Args:
+            text (str): The text from which to generate questions.
+            num_questions (int): The number of questions to generate.
+
+        Returns:
+            List[str]: A list of generated questions.
+        """
         qa_list = self.qg.generate(
             text,
             num_questions=num_questions,
@@ -34,7 +64,8 @@ class DataGenerator:
 
         return qa_list
 
-    def generate_data(self):
+    def generate_data(self) -> None:
+        """Generate questions for the loaded text data and save them to a CSV file."""
         text_list = [v for _, v in self.text_data.items()]
 
         result = []
@@ -46,17 +77,32 @@ class DataGenerator:
             result.append(question_list)
 
         df = pd.DataFrame(result)
-        df.to_csv(f"data/processed_data/{self.name}.csv", index=False)
+        df.to_csv(f"../data/processed_data/{self.name}.csv", index=False)
 
-    def run(self, filepath, name):
+    def run(self, filepath: str, name: str) -> None:
+        """
+        Execute the data generation process.
+
+        Args:
+            filepath (str): The path to the JSON file containing text data.
+            name (str): The name of the dataset for saving the output.
+        """
         self._get_text_data(filepath, name)
         self.generate_data()
 
 
 if __name__ == "__main__":
+    # Initialize the logger
     logger = logging.getLogger(__name__)
-    logging.basicConfig(filename='log/gerenator.log', encoding='utf-8', level=logging.DEBUG, filemode="w")
+    logging.basicConfig(filename='log/generator.log', encoding='utf-8', level=logging.DEBUG, filemode="w")
 
+    # Create an instance of DataGenerator
     generator = DataGenerator()
-    generator.run(filepath="data/raw_data/accountingcoach.json", name="accountingcoach")
-    generator.run(filepath="data/raw_data/ready_ratio.json", name="ready_ratio")
+
+    # Get all JSON files from the raw data directory
+    directory = os.path.join(parent_dir, "data/raw_data")
+    files = os.listdir(directory)
+
+    for file in files:
+        fname = file.replace(".json", "")
+        generator.run(filepath=os.path.join(directory, file), name=fname)
