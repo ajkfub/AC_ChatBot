@@ -1,0 +1,6654 @@
+(S
+  (NP asset/NN)
+  (NP coverage/NN)
+  (NP ratio/JJ measure/NN)
+  (NP ability/NN)
+  (NP company/NN)
+  cover/RB
+  (NP debt/NN)
+  (NP obligation/NN)
+  (NP asset/NN)
+  (NP capitalization/NN)
+  (NP ratio/NN)
+  reflects/VBZ
+  (NP extent/JJ company/NN)
+  operating/VBG
+  (NP equity/NN)
+  (NP debt/NN)
+  (NP ratio/NN)
+  give/VB
+  (NP user/NN)
+  (NP quick/JJ measure/NN)
+  (NP amount/NN)
+  (NP debt/NN)
+  (NP company/NN)
+  (NP balance/NN)
+  (NP sheet/NN)
+  compared/VBN
+  (NP asset/NN)
+  (NP corporate/JJ finance/NN)
+  (NP example/NN)
+  (NP debtservice/NN)
+  (NP coverage/NN)
+  (NP ratio/NN)
+  explained/VBD
+  (NP amount/NN)
+  (NP assessable/JJ cash/NN)
+  (NP flow/NN)
+  congregate/VBP
+  (NP annual/JJ interest/NN)
+  (NP principal/JJ payment/NN)
+  (NP debt/NN)
+  forgetting/VBG
+  sinking/VBG
+  (NP fund/NN)
+  (NP payment/NN)
+  (NP debttoequity/NN)
+  ratio/VBP
+  (NP financial/JJ ratio/NN)
+  indicating/VBG
+  (NP relative/JJ proportion/NN)
+  (NP entity/NN)
+  (NP equity/NN)
+  (NP debt/NN)
+  used/VBN
+  (NP finance/NN)
+  (NP entity/NN)
+  (NP asset/NN)
+  (NP debttoincome/NN)
+  (NP ratio/NN)
+  expressed/VBD
+  (NP personal/JJ finance/NN)
+  (NP measure/NN)
+  helpful/JJ
+  comparing/VBG
+  (NP individual/JJ debt/NN)
+  (NP payment/NN)
+  (NP income/NN)
+  generated/VBD
+  himher/JJR
+  (NP ratio/NN)
+  facilitates/NNS
+  (NP investor/NN)
+  (NP approximate/JJ time/NN)
+  (NP period/NN)
+  required/VBN
+  (NP firm/NN)
+  (NP business/NN)
+  pay/VBP
+  (NP debt/NN)
+  (NP ignoring/NN)
+  (NP factor/NN)
+  like/IN
+  (NP interest/NN)
+  (NP depreciation/NN)
+  (NP tax/NN)
+  (NP amortization/NN)
+  (NP finance/NN)
+  (NP equity/NN)
+  (NP multiplier/NN)
+  defined/VBN
+  (NP measure/NN)
+  (NP financial/JJ leverage/NN)
+  (NP equity/NN)
+  (NP ratio/NN)
+  refers/NNS
+  (NP financial/JJ ratio/NN)
+  (NP indicative/JJ relative/JJ proportion/NN)
+  (NP equity/NN)
+  applied/VBN
+  (NP finance/NN)
+  (NP asset/NN)
+  (NP company/NN)
+  (NP financial/JJ leverage/NN)
+  aptly/RB
+  described/VBN
+  (NP extent/NN)
+  (NP business/NN)
+  (NP investor/NN)
+  using/VBG
+  borrowed/VBN
+  (NP money/NN)
+  fixed/VBN
+  (NP asset/NN)
+  (NP net/NN)
+  (NP worth/NN)
+  (NP ratio/NN)
+  measuring/VBG
+  (NP solvency/NN)
+  (NP company/NN)
+  (NP ratio/NN)
+  calculated/VBD
+  summing/JJ
+  earnings/NNS
+  (NP interest/NN)
+  (NP tax/NN)
+  (NP ebit/NN)
+  fixed/VBN
+  (NP charge/NN)
+  divided/VBD
+  (NP fixed/JJ charge/NN)
+  (NP tax/NN)
+  (NP interest/NN)
+  (NP interest/NN)
+  (NP coverage/NN)
+  (NP ratio/JJ measure/NN)
+  (NP number/NN)
+  (NP time/NN)
+  (NP company/NN)
+  could/MD
+  make/VB
+  (NP interest/NN)
+  (NP payment/NN)
+  (NP debt/NN)
+  (NP ebit/NN)
+  (NP total/JJ capital/NN)
+  (NP company/NN)
+  includes/VBZ
+  (NP long/JJ term/NN)
+  (NP debt/NN)
+  (NP stock/NN)
+  (NP company/NN)
+  (NP ratio/NN)
+  calculated/VBD
+  yearly/RB
+  (NP decrease/JJ ratio/NN)
+  would/MD
+  denote/VB
+  (NP company/NN)
+  fairing/VBG
+  well/RB
+  (NP le/JJ dependant/JJ debt/NN)
+  (NP business/NN)
+  need/VBP
+  (NP noncurrent/JJ asset/NN)
+  (NP net/JJ worth/NN)
+  (NP ratio/NN)
+  (NP isa/JJ measure/NN)
+  (NP extent/NN)
+  (NP company/NN)
+  (NP investment/NN)
+  (NP lowliquid/NN)
+  (NP noncurrent/JJ asset/NN)
+  (NP total/JJ expense/NN)
+  (NP ratio/NN)
+  ratio/VBP
+  (NP total/JJ fund/NN)
+  (NP cost/NN)
+  (NP total/JJ fund/NN)
+  (NP asset/NN)
+  (NP term/NN)
+  acidtest/VBP
+  (NP ratio/NN)
+  also/RB
+  known/VBN
+  (NP quick/JJ ratio/NN)
+  (NP potential/NN)
+  (NP creditor/NN)
+  (NP use/NN)
+  (NP ratio/NN)
+  (NP measure/NN)
+  (NP company/NN)
+  (NP liquidity/NN)
+  easily/RB
+  (NP service/JJ debt/NN)
+  (NP cover/NN)
+  (NP shortterm/JJ liability/NN)
+  (NP net/NN)
+  working/VBG
+  (NP capital/NN)
+  (NP current/JJ asset/NN)
+  (NP minus/NN)
+  (NP current/JJ liability/NN)
+  (NP quick/NN)
+  (NP ratio/NN)
+  (NP measure/NN)
+  (NP company/NN)
+  (NP ability/NN)
+  (NP meet/NN)
+  (NP shortterm/JJ obligation/NN)
+  using/VBG
+  (NP liquid/JJ asset/NN)
+  working/VBG
+  (NP capital/NN)
+  frequently/RB
+  used/VBN
+  (NP measure/NN)
+  (NP firm/NN)
+  (NP ability/NN)
+  meet/VB
+  (NP current/JJ obligation/NN)
+  working/VBG
+  (NP capital/NN)
+  (NP ratio/NN)
+  (NP alternative/JJ term/NN)
+  (NP term/NN)
+  (NP current/JJ ratio/NN)
+  (NP compare/NN)
+  (NP cash/NN)
+  earned/VBD
+  (NP money/NN)
+  invested/VBN
+  (NP dupont/JJ formula/NN)
+  (NP method/NN)
+  assessing/VBG
+  (NP company/NN)
+  (NP return/NN)
+  (NP equity/NN)
+  breaking/VBG
+  three/CD
+  (NP part/NN)
+  earnings/NNS
+  (NP interest/NN)
+  (NP tax/NN)
+  used/VBN
+  (NP measure/NN)
+  (NP ability/NN)
+  (NP firm/NN)
+  generate/VB
+  (NP income/NN)
+  (NP various/JJ operation/NN)
+  (NP specific/JJ course/NN)
+  (NP time/NN)
+  per/IN
+  (NP definition/NN)
+  earning/VBG
+  (NP retention/NN)
+  (NP ratio/NN)
+  (NP plowback/NN)
+  (NP ratio/NN)
+  (NP ratio/NN)
+  (NP measure/NN)
+  (NP amount/NN)
+  earnings/NNS
+  retained/VBD
+  (NP dividend/NN)
+  paid/VBN
+  (NP shareholder/NN)
+  (NP ebit/NN)
+  (NP measure/NN)
+  (NP entity/NN)
+  (NP profitability/NN)
+  excludes/VBZ
+  (NP interest/NN)
+  (NP income/NN)
+  (NP tax/NN)
+  (NP expense/NN)
+  (NP ebitda/NN)
+  (NP indicator/NN)
+  (NP company/NN)
+  (NP financial/JJ performance/NN)
+  short/JJ
+  earnings/NNS
+  (NP interest/NN)
+  (NP tax/NN)
+  (NP depreciation/NN)
+  (NP amortization/NN)
+  (NP rent/NN)
+  (NP management/NN)
+  (NP fee/NN)
+  (NP ebitdarm/NN)
+  refers/NNS
+  (NP financial/JJ performance/NN)
+  (NP measure/NN)
+  used/VBN
+  (NP comparison/NN)
+  (NP common/JJ measure/NN)
+  like/IN
+  (NP ebitda/DT situation/NN)
+  (NP rent/NN)
+  (NP management/NN)
+  (NP fee/NN)
+  (NP company/NN)
+  represent/VBP
+  (NP largerthannormal/JJ percentage/NN)
+  operating/VBG
+  (NP cost/NN)
+  earnings/NNS
+  (NP tax/NN)
+  defined/VBN
+  (NP money/NN)
+  retained/VBN
+  (NP company/NN)
+  deducting/VBG
+  (NP money/NN)
+  due/JJ
+  paid/VBN
+  (NP tax/NN)
+  (NP effective/JJ rate/NN)
+  (NP return/NN)
+  (NP rate/NN)
+  (NP interest/NN)
+  (NP investment/NN)
+  annually/RB
+  compounding/VBG
+  occurs/PRP
+  (NP gross/JJ margin/NN)
+  (NP reveal/NN)
+  (NP much/JJ company/NN)
+  earns/VBZ
+  taking/VBG
+  (NP consideration/NN)
+  (NP cost/NN)
+  incurs/NNS
+  producing/VBG
+  (NP product/NN)
+  (NP service/NN)
+  (NP net/JJ interest/NN)
+  (NP margin/NN)
+  expressed/VBN
+  (NP performance/NN)
+  metric/JJ
+  examines/NNS
+  (NP success/NN)
+  (NP firm/NN)
+  (NP investment/NN)
+  (NP decision/NN)
+  contrasted/VBN
+  (NP debt/NN)
+  (NP situation/NN)
+  (NP net/JJ profit/NN)
+  (NP margin/NN)
+  displayed/VBN
+  (NP percentage/NN)
+  (NP measurement/NN)
+  (NP profit/NN)
+  includes/VBZ
+  (NP cost/NN)
+  (NP tax/NN)
+  benefit/VBP
+  (NP debt/NN)
+  (NP financing/NN)
+  operating/VBG
+  (NP expense/NN)
+  (NP ratio/NN)
+  explained/VBD
+  (NP way/NN)
+  quantifying/VBG
+  (NP cost/NN)
+  operating/VBG
+  (NP piece/NN)
+  (NP property/NN)
+  compared/VBN
+  (NP income/NN)
+  brought/VBD
+  (NP property/NN)
+  operating/VBG
+  (NP margin/NN)
+  (NP ratio/NN)
+  operating/VBG
+  (NP income/NN)
+  divided/VBD
+  (NP net/JJ sale/NN)
+  (NP overhead/NN)
+  (NP ratio/NN)
+  (NP comparison/NN)
+  operating/VBG
+  (NP expense/NN)
+  (NP total/JJ income/NN)
+  related/VBN
+  (NP production/NN)
+  (NP good/JJ service/NN)
+  managerial/JJ
+  economics/NNS
+  (NP profit/NN)
+  (NP analysis/NN)
+  (NP form/NN)
+  (NP cost/NN)
+  (NP accounting/NN)
+  used/VBN
+  (NP elementary/JJ instruction/NN)
+  (NP short/JJ run/NN)
+  (NP decision/NN)
+  (NP relative/JJ return/NN)
+  refers/NNS
+  return/VBP
+  achieved/VBN
+  (NP asset/NN)
+  (NP specific/JJ time/NN)
+  (NP period/NN)
+  contrasted/VBD
+  (NP benchmark/NN)
+  (NP show/NN)
+  (NP company/NN)
+  (NP ability/NN)
+  (NP generate/NN)
+  (NP profit/NN)
+  (NP leverage/NN)
+  rather/RB
+  using/VBG
+  leverage/VB
+  (NP return/JJ average/JJ asset/NN)
+  defined/VBD
+  (NP indicator/NN)
+  used/VBN
+  (NP evaluate/JJ profitability/NN)
+  (NP asset/NN)
+  (NP firm/NN)
+  (NP return/NN)
+  (NP average/JJ capital/NN)
+  employed/VBD
+  (NP ratio/NN)
+  reveals/NNS
+  (NP profitability/NN)
+  (NP investment/NN)
+  made/VBD
+  (NP company/NN)
+  (NP return/NN)
+  (NP average/JJ equity/NN)
+  refers/NNS
+  (NP performance/NN)
+  (NP company/NN)
+  (NP financial/JJ year/NN)
+  (NP capital/NN)
+  employed/VBD
+  (NP equal/JJ company/NN)
+  (NP equity/NN)
+  plus/CC
+  (NP noncurrent/JJ liability/NN)
+  (NP word/NN)
+  longterm/VBZ
+  (NP fund/NN)
+  used/VBD
+  (NP company/NN)
+  putting/VBG
+  (NP way/NN)
+  (NP return/JJ debt/NN)
+  refers/NNS
+  amount/VBP
+  (NP profit/NN)
+  generated/VBN
+  (NP every/DT dollar/NN)
+  held/VBD
+  (NP company/NN)
+  (NP debt/NN)
+  (NP return/NN)
+  (NP equity/NN)
+  (NP amount/NN)
+  (NP net/JJ income/NN)
+  returned/VBN
+  (NP percentage/NN)
+  (NP shareholder/NN)
+  (NP equity/NN)
+  roic/VBP
+  (NP capital/NN)
+  (NP return/NN)
+  (NP investment/NN)
+  (NP business/NN)
+  (NP hightech/JJ way/NN)
+  examining/VBG
+  (NP stock/NN)
+  (NP return/NN)
+  (NP investment/NN)
+  corrects/VBZ
+  (NP specialty/JJ return/NN)
+  (NP asset/NN)
+  return/VBP
+  (NP equity/NN)
+  one/CD
+  (NP commonly/NN)
+  used/VBN
+  (NP approach/NN)
+  evaluating/VBG
+  (NP financial/JJ consequence/NN)
+  (NP business/NN)
+  (NP investment/NN)
+  (NP decision/NN)
+  (NP action/NN)
+  return/VB
+  (NP net/JJ asset/NN)
+  (NP comparison/NN)
+  (NP net/JJ income/NN)
+  (NP net/NN)
+  (NP asset/NN)
+  (NP return/NN)
+  (NP research/NN)
+  (NP capital/NN)
+  (NP element/NN)
+  (NP productivity/NN)
+  (NP growth/NN)
+  (NP research/NN)
+  (NP development/NN)
+  one/CD
+  (NP technique/NN)
+  employed/VBN
+  (NP company/NN)
+  develop/VB
+  (NP new/JJ product/NN)
+  (NP service/NN)
+  (NP sale/NN)
+  higher/JJR
+  (NP return/NN)
+  retained/VBN
+  earnings/NNS
+  indicates/NNS
+  (NP company/NN)
+  would/MD
+  better/VB
+  reinvesting/VBG
+  (NP business/NN)
+  (NP return/NN)
+  (NP revenue/NN)
+  (NP measure/NN)
+  (NP profitability/NN)
+  compare/VBP
+  (NP net/JJ income/NN)
+  (NP company/NN)
+  (NP revenue/NN)
+  return/VB
+  (NP sale/NN)
+  (NP ratio/NN)
+  widely/RB
+  used/VBN
+  (NP evaluate/NN)
+  (NP entity/NN)
+  operating/VBG
+  (NP performance/NN)
+  (NP measure/NN)
+  (NP performance/NN)
+  (NP human/JJ resource/NN)
+  (NP company/NN)
+  (NP risk/NN)
+  adjusted/VBD
+  (NP return/NN)
+  apply/VB
+  (NP investment/NN)
+  (NP fund/NN)
+  (NP portfolio/NN)
+  (NP individual/JJ security/NN)
+  (NP ratio/NN)
+  show/VB
+  (NP many/JJ time/NN)
+  given/VBN
+  (NP period/NN)
+  (NP company/NN)
+  (NP pay/NN)
+  (NP average/NN)
+  (NP account/NN)
+  (NP payable/JJ ratio/NN)
+  (NP help/NN)
+  (NP measure/NN)
+  (NP productivity/NN)
+  (NP company/NN)
+  (NP asset/NN)
+  (NP time/NN)
+  required/VBN
+  (NP business/NN)
+  (NP turn/NN)
+  (NP purchase/NN)
+  (NP cash/NN)
+  (NP receipt/NN)
+  (NP customer/NN)
+  (NP day/NN)
+  (NP payable/JJ outstanding/JJ account/NN)
+  (NP payableturnover/NN)
+  expressed/VBD
+  (NP day/NN)
+  (NP day/NN)
+  (NP sale/NN)
+  (NP outstanding/JJ average/JJ collection/NN)
+  (NP period/NN)
+  (NP day/NN)
+  (NP account/NN)
+  (NP receivable/JJ defensive/JJ interval/NN)
+  (NP ratio/NN)
+  also/RB
+  called/VBD
+  (NP defensive/JJ interval/NN)
+  (NP period/NN)
+  (NP ratio/NN)
+  tell/VBP
+  u/RB
+  effectively/RB
+  efficiently/RB
+  (NP company/NN)
+  using/VBG
+  (NP fixed/JJ asset/NN)
+  (NP generate/NN)
+  (NP revenue/NN)
+  (NP inventory/NN)
+  (NP turnover/NN)
+  (NP measure/NN)
+  (NP number/NN)
+  (NP time/NN)
+  (NP inventory/NN)
+  sold/VBN
+  used/VBN
+  given/VBN
+  (NP time/NN)
+  (NP period/NN)
+  one/CD
+  (NP year/NN)
+  (NP ratio/NN)
+  determines/NNS
+  quickly/RB
+  (NP company/NN)
+  collect/VB
+  (NP outstanding/JJ cash/NN)
+  (NP balance/NN)
+  (NP customer/NN)
+  (NP accounting/NN)
+  (NP period/NN)
+  (NP ratio/NN)
+  tell/VB
+  (NP number/NN)
+  (NP time/NN)
+  (NP financial/JJ obligation/NN)
+  (NP company/NN)
+  covered/VBD
+  earnings/NNS
+  analyzing/VBG
+  managing/VBG
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP company/NN)
+  known/VBN
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP management/NN)
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP return/NN)
+  (NP investment/NN)
+  (NP indicator/NN)
+  (NP help/NN)
+  (NP firm/NN)
+  evaluate/VB
+  (NP performance/NN)
+  (NP investment/NN)
+  (NP product/NN)
+  higher/JJR
+  (NP free/JJ cash/NN)
+  (NP flow/NN)
+  operating/VBG
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP ratio/NN)
+  (NP good/JJ indicator/NN)
+  (NP financial/JJ health/NN)
+  (NP company/NN)
+  ratio/VBP
+  (NP give/JJ analyst/NN)
+  (NP investor/NN)
+  (NP indication/NN)
+  (NP ability/NN)
+  (NP company/NN)
+  generate/VB
+  (NP cash/NN)
+  (NP sale/NN)
+  (NP pricecash/NN)
+  (NP flow/NN)
+  (NP ratio/NN)
+  (NP investment/NN)
+  (NP valuation/NN)
+  (NP ratio/NN)
+  used/VBN
+  (NP investor/NN)
+  (NP evaluate/NN)
+  attractiveness/IN
+  investing/VBG
+  (NP company/NN)
+  (NP share/NN)
+  (NP valuation/NN)
+  used/VBN
+  (NP participant/JJ financial/JJ market/NN)
+  (NP determination/NN)
+  (NP price/NN)
+  paid/VBD
+  received/VBN
+  willingly/RB
+  (NP consummate/JJ business/NN)
+  (NP sale/NN)
+  (NP dividend/NN)
+  (NP payout/NN)
+  (NP ratio/NN)
+  compare/VBP
+  (NP dividend/NN)
+  paid/VBN
+  (NP company/NN)
+  earnings/NNS
+  also/RB
+  compare/VBP
+  (NP dividend/NN)
+  (NP share/NN)
+  (NP price/NN)
+  see/VB
+  (NP much/JJ cash/NN)
+  (NP flow/NN)
+  (NP investor/NN)
+  get/VB
+  (NP investment/NN)
+  (NP company/NN)
+  (NP share/NN)
+  (NP dividend/NN)
+  (NP yield/NN)
+  (NP amount/NN)
+  (NP company/NN)
+  (NP pay/NN)
+  (NP share/NN)
+  holder/VBN
+  annually/RB
+  (NP investment/NN)
+  (NP enterprise/NN)
+  (NP value/NN)
+  (NP measure/NN)
+  (NP value/NN)
+  ongoing/VBG
+  (NP operation/NN)
+  (NP company/NN)
+  (NP enterprise/NN)
+  (NP value/NN)
+  (NP multiple/JJ comparison/NN)
+  (NP enterprise/NN)
+  (NP value/NN)
+  earnings/NNS
+  (NP interest/NN)
+  (NP tax/NN)
+  (NP depreciation/NN)
+  (NP amortization/NN)
+  evebitda/FW
+  (NP ratio/NN)
+  (NP comparison/NN)
+  (NP enterprise/NN)
+  (NP value/NN)
+  earnings/NNS
+  (NP interest/NN)
+  (NP tax/NN)
+  (NP depreciation/NN)
+  (NP amortization/NN)
+  (NP gordon/NN)
+  (NP growth/NN)
+  (NP model/NN)
+  (NP model/NN)
+  (NP determine/JJ fundamental/JJ value/NN)
+  (NP stock/NN)
+  based/VBN
+  (NP future/JJ sequence/NN)
+  (NP dividend/NN)
+  (NP mature/NN)
+  (NP constant/JJ rate/NN)
+  provided/VBD
+  (NP dividend/NN)
+  per/IN
+  (NP share/NN)
+  (NP payable/JJ year/NN)
+  (NP assumption/NN)
+  (NP growth/NN)
+  (NP dividend/NN)
+  (NP constant/JJ rate/NN)
+  (NP eternity/NN)
+  (NP model/NN)
+  (NP help/NN)
+  solving/VBG
+  (NP present/JJ value/NN)
+  (NP infinite/JJ series/NN)
+  (NP future/NN)
+  (NP dividend/NN)
+  also/RB
+  known/VBN
+  (NP risk/NN)
+  (NP assessment/NN)
+  made/VBD
+  (NP mortgage/NN)
+  (NP accepted/JJ net/JJ asset/NN)
+  (NP value/NN)
+  per/IN
+  (NP share/NN)
+  defined/VBN
+  (NP expression/NN)
+  (NP net/NN)
+  (NP asset/NN)
+  (NP value/NN)
+  indicates/VBZ
+  (NP value/NN)
+  per/IN
+  (NP share/NN)
+  (NP fund/NN)
+  (NP company/NN)
+  peg/VBZ
+  ratio/JJ
+  priceearnings/NNS
+  (NP growth/NN)
+  ratio/VBP
+  used/VBN
+  (NP determine/NN)
+  (NP relative/JJ tradeoff/NN)
+  (NP price/NN)
+  (NP stock/NN)
+  earnings/NNS
+  per/IN
+  (NP share/NN)
+  expected/VBN
+  (NP growth/NN)
+  (NP company/NN)
+  pe/VB
+  (NP ratio/JJ valuation/NN)
+  (NP ratio/NN)
+  (NP company/NN)
+  (NP current/JJ price/NN)
+  per/IN
+  (NP share/NN)
+  compared/VBN
+  earnings/NNS
+  per/IN
+  (NP share/NN)
+  (NP pricetoresearch/NN)
+  (NP ratio/NN)
+  expressed/VBN
+  (NP measure/NN)
+  (NP relationship/NN)
+  (NP company/NN)
+  (NP market/NN)
+  (NP capitalization/NN)
+  expense/FW
+  (NP research/NN)
+  (NP development/NN)
+  (NP pricebook/NN)
+  (NP value/NN)
+  (NP ratio/NN)
+  (NP investment/NN)
+  (NP valuation/NN)
+  (NP ratio/NN)
+  used/VBN
+  (NP investor/NN)
+  (NP finance/NN)
+  (NP provider/NN)
+  (NP compare/NN)
+  (NP market/NN)
+  (NP value/NN)
+  (NP company/NN)
+  (NP share/NN)
+  (NP book/NN)
+  (NP value/NN)
+  (NP ratio/NN)
+  usually/RB
+  used/VBN
+  (NP valuation/NN)
+  (NP share/NN)
+  (NP every/DT country/NN)
+  (NP economy/NN)
+  (NP finance/NN)
+  (NP play/NN)
+  (NP important/JJ role/NN)
+  (NP stock/NN)
+  (NP market/NN)
+  adjusted/VBD
+  (NP present/JJ value/NN)
+  delineated/VBN
+  (NP net/JJ present/JJ value/NN)
+  (NP project/NN)
+  financed/VBD
+  exclusively/RB
+  (NP equity/NN)
+  added/VBD
+  (NP present/JJ value/NN)
+  (NP financing/NN)
+  (NP benefit/NN)
+  commonly/RB
+  lower/JJR
+  (NP score/NN)
+  reflects/VBZ
+  higher/JJR
+  odds/NNS
+  (NP bankruptcy/NN)
+  (NP interest/NN)
+  calculated/VBN
+  (NP determine/JJ return/NN)
+  (NP person/NN)
+  get/VBP
+  adding/VBG
+  (NP interest/NN)
+  (NP payment/NN)
+  (NP amount/NN)
+  originally/RB
+  deposited/VBN
+  (NP next/JJ interest/NN)
+  (NP payment/NN)
+  established/VBN
+  marginally/RB
+  higher/JJR
+  (NP account/NN)
+  (NP balance/NN)
+  annualized/VBN
+  (NP rate/NN)
+  calculated/VBN
+  multiplying/VBG
+  (NP change/NN)
+  (NP rate/NN)
+  return/VB
+  one/CD
+  (NP month/NN)
+  (NP get/NN)
+  (NP rate/NN)
+  (NP year/NN)
+  (NP finance/NN)
+  (NP theory/JJ term/NN)
+  (NP annuity/NN)
+  used/VBN
+  (NP refer/NN)
+  terminating/VBG
+  (NP stream/NN)
+  fixed/VBN
+  (NP payment/NN)
+  (NP particular/JJ time/NN)
+  (NP period/NN)
+  (NP average/JJ annual/JJ growth/NN)
+  (NP rate/NN)
+  evaluated/VBN
+  (NP kind/NN)
+  (NP investment/NN)
+  include/VBP
+  (NP measure/NN)
+  (NP overall/JJ risk/NN)
+  involved/VBN
+  (NP investment/NN)
+  calculated/VBN
+  (NP volatility/NN)
+  (NP price/NN)
+  (NP average/JJ annual/JJ return/NN)
+  defined/VBN
+  (NP percentage/NN)
+  (NP figure/NN)
+  used/VBN
+  reporting/VBG
+  (NP previous/JJ return/NN)
+  like5/VBZ
+  10year/CD
+  (NP average/JJ return/NN)
+  (NP mutual/JJ fund/NN)
+  (NP bad/JJ debt/NN)
+  defined/VBN
+  explained/VBD
+  (NP amount/NN)
+  written/VBN
+  (NP business/NN)
+  (NP loss/NN)
+  categorized/VBN
+  (NP expense/JJ debt/NN)
+  owed/VBN
+  (NP business/NN)
+  collected/VBD
+  (NP effort/NN)
+  made/VBD
+  (NP failed/JJ collect/NN)
+  owed/VBD
+  (NP amount/JJ balance/NN)
+  (NP sheet/NN)
+  (NP analysis/NN)
+  defined/VBD
+  (NP analysis/NN)
+  (NP asset/NN)
+  (NP liability/NN)
+  (NP equity/NN)
+  (NP company/NN)
+  (NP bankruptcy/NN)
+  explained/VBD
+  (NP legal/JJ proceeding/NN)
+  involves/VBZ
+  (NP business/NN)
+  (NP individual/JJ unable/JJ repay/NN)
+  (NP outstanding/JJ debt/NN)
+  (NP simple/NN)
+  (NP word/NN)
+  (NP book/NN)
+  (NP value/NN)
+  per/IN
+  (NP equity/NN)
+  (NP share/NN)
+  give/VB
+  (NP snap/NN)
+  (NP shot/NN)
+  (NP firm/NN)
+  (NP present/JJ situation/NN)
+  including/VBG
+  (NP future/JJ consideration/NN)
+  (NP firm/NN)
+  breakeven/RB
+  point/VB
+  (NP point/NN)
+  (NP total/JJ cost/NN)
+  (NP total/JJ sale/NN)
+  (NP equal/JJ capital/NN)
+  (NP asset/NN)
+  (NP pricing/NN)
+  (NP model/NN)
+  refers/NNS
+  model/VBP
+  delineates/VBZ
+  (NP relationship/NN)
+  (NP risk/NN)
+  expected/VBD
+  (NP return/NN)
+  used/VBN
+  (NP pricing/NN)
+  (NP risky/JJ security/NN)
+  (NP capital/NN)
+  (NP budgeting/NN)
+  refers/NNS
+  process/VBP
+  involves/VBZ
+  (NP business/NN)
+  (NP determine/NN)
+  whether/IN
+  (NP project/NN)
+  like/IN
+  investing/VBG
+  (NP longterm/JJ venture/NN)
+  building/VBG
+  (NP new/JJ plant/NN)
+  (NP worth/NN)
+  following/VBG
+  generally/RB
+  capital/JJ
+  employed/VBN
+  presented/VBN
+  deducting/VBG
+  (NP current/JJ liability/NN)
+  (NP total/JJ asset/NN)
+  (NP rate/NN)
+  (NP company/NN)
+  utilizes/VBZ
+  (NP cash/NN)
+  (NP supply/NN)
+  (NP specific/JJ period/NN)
+  (NP time/NN)
+  known/VBN
+  (NP cash/NN)
+  (NP burn/NN)
+  (NP rate/NN)
+  (NP coefficient/NN)
+  (NP variation/NN)
+  refers/NNS
+  (NP statistical/JJ measure/NN)
+  (NP distribution/NN)
+  data/NNS
+  (NP point/NN)
+  data/NNS
+  (NP series/NN)
+  around/IN
+  (NP mean/JJ company/NN)
+  (NP analysis/NN)
+  (NP process/NN)
+  carried/VBD
+  (NP investor/NN)
+  (NP evaluate/JJ security/NN)
+  collecting/VBG
+  (NP info/NN)
+  related/VBN
+  (NP company/NN)
+  (NP profile/JJ product/NN)
+  (NP service/NN)
+  well/RB
+  (NP profitability/NN)
+  (NP compound/NN)
+  (NP annual/JJ growth/NN)
+  (NP rate/NN)
+  (NP company/NN)
+  refers/VBZ
+  (NP growth/NN)
+  (NP rate/NN)
+  (NP investment/NN)
+  (NP year/NN)
+  (NP year/NN)
+  (NP particular/JJ time/NN)
+  (NP period/NN)
+  (NP method/NN)
+  (NP addition/NN)
+  (NP interest/NN)
+  (NP principle/NN)
+  known/VBN
+  (NP compounding/JJ measure/NN)
+  (NP profit/NN)
+  (NP margin/NN)
+  (NP focus/NN)
+  (NP proportion/NN)
+  (NP sale/NN)
+  (NP revenue/NN)
+  left/VBD
+  (NP deduction/NN)
+  (NP variable/JJ cost/NN)
+  associated/VBN
+  (NP product/NN)
+  (NP cost/NN)
+  (NP debt/NN)
+  generally/RB
+  refers/NNS
+  effective/JJ
+  paid/VBN
+  (NP company/NN)
+  (NP debt/NN)
+  (NP risk/NN)
+  included/VBD
+  (NP exchange/NN)
+  (NP rate/NN)
+  (NP risk/NN)
+  (NP economic/JJ risk/NN)
+  (NP political/JJ risk/NN)
+  (NP sovereign/NN)
+  (NP risk/NN)
+  (NP transfer/NN)
+  (NP risk/NN)
+  (NP risk/NN)
+  (NP capital/NN)
+  (NP frozen/JJ government/NN)
+  (NP action/NN)
+  (NP investor/NN)
+  rewarded/VBD
+  presuming/VBG
+  (NP credit/NN)
+  (NP risk/NN)
+  (NP way/NN)
+  (NP interest/NN)
+  (NP payment/NN)
+  (NP issuer/NN)
+  (NP borrower/NN)
+  (NP debt/NN)
+  (NP contract/NN)
+  (NP credit/NN)
+  (NP score/NN)
+  (NP indicator/NN)
+  (NP creditworthiness/NN)
+  used/VBN
+  (NP lender/NN)
+  (NP access/NN)
+  (NP chance/NN)
+  (NP person/NN)
+  repaying/VBG
+  hisher/JJR
+  (NP debt/NN)
+  putting/VBG
+  (NP simple/JJ currency/NN)
+  (NP risk/NN)
+  defined/VBD
+  (NP possibility/NN)
+  (NP currency/NN)
+  (NP depreciation/NN)
+  (NP show/NN)
+  (NP negative/JJ effect/NN)
+  (NP value/NN)
+  (NP asset/NN)
+  (NP investment/NN)
+  related/VBN
+  (NP interest/NN)
+  (NP dividend/NN)
+  (NP payment/NN)
+  (NP stream/NN)
+  specifically/RB
+  (NP security/NN)
+  denominated/VBN
+  (NP foreign/JJ currency/NN)
+  (NP every/DT year/NN)
+  (NP number/NN)
+  (NP fraud/NN)
+  (NP case/NN)
+  increasing/VBG
+  (NP reason/NN)
+  may/MD
+  attributed/VB
+  (NP technological/JJ development/NN)
+  (NP annuity/NN)
+  essentially/RB
+  finance/RB
+  related/VBN
+  (NP contract/NN)
+  (NP permit/NN)
+  (NP person/NN)
+  buying/VBG
+  (NP pay/NN)
+  (NP lumpsum/JJ basis/NN)
+  make/VBP
+  (NP payment/NN)
+  (NP series/NN)
+  return/VBP
+  acquiring/VBG
+  (NP disbursement/NN)
+  (NP regular/JJ interval/JJ future/NN)
+  (NP ratio/NN)
+  (NP help/NN)
+  ascertaining/VBG
+  best/RBS
+  (NP possible/JJ financial/JJ operational/JJ leverage/NN)
+  used/VBN
+  (NP firm/NN)
+  (NP business/NN)
+  degree/VBP
+  (NP financial/JJ leverage/NN)
+  (NP leverage/NN)
+  (NP ratio/NN)
+  (NP sum/NN)
+  (NP effect/NN)
+  (NP amount/NN)
+  (NP financial/JJ leverage/NN)
+  earning/VBG
+  per/IN
+  (NP share/NN)
+  (NP company/NN)
+  (NP degree/NN)
+  operating/VBG
+  (NP leverage/NN)
+  (NP leverage/NN)
+  (NP ratio/NN)
+  (NP sum/NN)
+  (NP effect/NN)
+  (NP amount/NN)
+  operating/VBG
+  (NP leverage/NN)
+  (NP company/NN)
+  earnings/NNS
+  (NP interest/NN)
+  (NP tax/NN)
+  (NP finance/NN)
+  (NP discount/NN)
+  (NP rate/NN)
+  (NP different/JJ meaning/NN)
+  important/JJ
+  one/CD
+  mentioned/VBN
+  discounted/VBN
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP analysis/NN)
+  involves/VBZ
+  use/VBP
+  (NP future/JJ free/JJ cash/NN)
+  (NP flow/NN)
+  (NP protrusion/NN)
+  (NP discount/NN)
+  reach/VBP
+  (NP present/JJ value/NN)
+  used/VBN
+  calculate/VB
+  (NP potential/JJ investment/NN)
+  underlying/VBG
+  (NP idea/NN)
+  (NP value/NN)
+  obtained/VBN
+  (NP dividend/NN)
+  (NP discount/NN)
+  (NP model/NN)
+  greater/JJR
+  (NP value/NN)
+  (NP share/NN)
+  already/RB
+  traded/VBN
+  (NP stock/NN)
+  considered/VBN
+  (NP undervalued/JJ main/JJ aim/NN)
+  (NP diversification/NN)
+  (NP company/NN)
+  allow/VB
+  (NP company/NN)
+  establish/VB
+  apart/RB
+  (NP current/JJ operation/NN)
+  (NP term/NN)
+  (NP due/JJ diligence/NN)
+  generally/RB
+  used/VBN
+  (NP various/JJ concept/NN)
+  involving/VBG
+  (NP investigation/NN)
+  (NP either/DT person/NN)
+  (NP business/NN)
+  (NP signing/NN)
+  (NP contract/NN)
+  (NP act/NN)
+  involving/VBG
+  (NP certain/JJ standard/NN)
+  (NP care/NN)
+  using/VBG
+  (NP model/NN)
+  (NP company/NN)
+  minimize/VB
+  (NP cost/NN)
+  associated/VBN
+  ordering/VBG
+  (NP inventory/NN)
+  holding/VBG
+  generally/RB
+  speaking/VBG
+  (NP economic/JJ risk/NN)
+  described/VBD
+  (NP likelihood/JJ investment/NN)
+  affected/VBD
+  (NP macroeconomic/JJ condition/NN)
+  (NP government/NN)
+  (NP regulation/NN)
+  (NP exchange/NN)
+  (NP rate/NN)
+  (NP political/JJ stability/NN)
+  commonly/RB
+  one/CD
+  (NP foreign/JJ country/NN)
+  (NP elasticity/NN)
+  (NP demand/NN)
+  refers/NNS
+  degree/VBP
+  (NP responsiveness/JJ change/NN)
+  (NP demand/NN)
+  (NP product/NN)
+  (NP service/NN)
+  (NP price/NN)
+  (NP explicit/NN)
+  (NP cost/NN)
+  defined/VBD
+  (NP direct/JJ payment/NN)
+  supposed/VBN
+  made/VBN
+  others/NNS
+  (NP due/JJ course/NN)
+  running/VBG
+  (NP business/NN)
+  (NP factor/NN)
+  (NP analysis/NN)
+  reduce/VB
+  set/VBN
+  variable/JJ
+  set/VBN
+  (NP new/JJ variable/JJ financial/JJ analysis/NN)
+  (NP report/NN)
+  basically/RB
+  document/JJ
+  attracts/NNS
+  (NP high/JJ interest/NN)
+  (NP investor/NN)
+  contains/VBZ
+  (NP detailed/JJ appraisal/NN)
+  (NP company/NN)
+  (NP financial/JJ health/NN)
+  (NP financial/JJ model/NN)
+  generally/RB
+  featured/VBN
+  performing/VBG
+  (NP calculation/NN)
+  making/VBG
+  (NP recommendation/JJ basis/NN)
+  (NP information/NN)
+  putting/VBG
+  (NP simple/JJ process/NN)
+  estimating/VBG
+  (NP amount/NN)
+  required/VBN
+  (NP capital/NN)
+  determining/VBG
+  (NP competition/NN)
+  (NP financial/JJ ratio/NN)
+  well/RB
+  defined/VBD
+  (NP comparative/JJ magnitude/NN)
+  two/CD
+  selected/VBN
+  (NP statistical/JJ value/NN)
+  taken/VBN
+  (NP financial/JJ statement/NN)
+  (NP business/NN)
+  (NP enterprise/NN)
+  besides/IN
+  essentially/RB
+  important/JJ
+  understand/VBP
+  (NP various/JJ basic/JJ principle/NN)
+  achieve/VBP
+  (NP high/JJ level/NN)
+  (NP financial/JJ responsibility/NN)
+  (NP ratio/NN)
+  include/VBP
+  (NP asset/NN)
+  (NP utilization/NN)
+  ratio/VBP
+  (NP profitability/NN)
+  (NP ratio/NN)
+  (NP leverage/NN)
+  (NP ratio/NN)
+  (NP liquidity/NN)
+  (NP ratio/NN)
+  (NP valuation/NN)
+  (NP ratio/NN)
+  fixed/VBD
+  (NP cost/NN)
+  economics/NNS
+  explained/VBD
+  (NP business/NN)
+  (NP expense/NN)
+  depend/VBP
+  (NP level/NN)
+  (NP good/JJ service/NN)
+  proffered/VBD
+  (NP business/NN)
+  (NP fundamental/JJ analysis/NN)
+  explained/VBD
+  method/JJ
+  estimating/VBG
+  (NP security/NN)
+  involves/VBZ
+  attempting/VBG
+  evaluate/VB
+  (NP basic/JJ value/NN)
+  assessing/VBG
+  allied/VBD
+  (NP financial/JJ economic/JJ quantitative/NN)
+  (NP qualitative/JJ factor/NN)
+  (NP future/JJ value/NN)
+  refers/NNS
+  (NP value/NN)
+  (NP asset/NN)
+  (NP cash/NN)
+  (NP particular/JJ date/NN)
+  (NP future/NN)
+  (NP equivalent/JJ value/NN)
+  specified/VBN
+  sum/JJ
+  present/JJ
+  putting/VBG
+  (NP another/DT way/NN)
+  gearing/VBG
+  (NP ratio/NN)
+  used/VBN
+  mainly/RB
+  analyzing/VBG
+  (NP company/NN)
+  (NP capital/NN)
+  (NP structure/NN)
+  thus/RB
+  assessing/VBG
+  (NP company/NN)
+  (NP financial/JJ position/NN)
+  long/RB
+  (NP run/JJ horizontal/JJ analysis/NN)
+  allows/VBZ
+  (NP assessment/JJ relative/JJ change/NN)
+  (NP different/JJ item/NN)
+  (NP time/NN)
+  (NP idiosyncratic/JJ risk/NN)
+  defined/VBD
+  (NP risk/NN)
+  affect/VBP
+  (NP diminutive/JJ number/NN)
+  (NP asset/NN)
+  almost/RB
+  eradicated/VBN
+  (NP diversification/NN)
+  (NP implicit/NN)
+  (NP cost/NN)
+  economics/NNS
+  mean/VBP
+  (NP opportunity/NN)
+  (NP cost/NN)
+  equal/JJ
+  given/VBN
+  (NP firm/NN)
+  using/VBG
+  (NP factor/NN)
+  neither/CC
+  (NP hire/NN)
+  (NP purchase/NN)
+  (NP industry/NN)
+  (NP analysis/NN)
+  delineated/VBD
+  (NP market/NN)
+  (NP assessment/NN)
+  (NP tool/NN)
+  designed/VBN
+  provide/VBP
+  (NP business/NN)
+  (NP idea/NN)
+  (NP complexity/NN)
+  (NP specific/JJ industry/NN)
+  (NP benchmark/NN)
+  basically/RB
+  refers/VBZ
+  (NP standard/NN)
+  used/VBN
+  (NP measure/NN)
+  (NP performance/NN)
+  (NP mutual/JJ fund/NN)
+  (NP security/NN)
+  (NP investment/NN)
+  (NP manager/NN)
+  (NP internal/JJ rate/NN)
+  (NP return/NN)
+  defined/VBD
+  (NP return/NN)
+  (NP rate/NN)
+  make/VBP
+  (NP present/JJ value/NN)
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP addition/NN)
+  (NP final/JJ market/NN)
+  (NP value/NN)
+  (NP investment/NN)
+  thus/RB
+  bringing/VBG
+  (NP level/JJ current/JJ market/NN)
+  (NP price/NN)
+  also/RB
+  known/VBN
+  (NP study/NN)
+  past/IN
+  (NP decision/NN)
+  made/VBD
+  (NP particular/JJ investment/NN)
+  made/VBN
+  (NP investment/NN)
+  (NP banking/NN)
+  explained/VBD
+  (NP form/JJ banking/NN)
+  provides/VBZ
+  (NP fund/NN)
+  (NP meet/NN)
+  (NP capital/NN)
+  (NP requirement/NN)
+  (NP company/NN)
+  (NP investment/NN)
+  (NP management/NN)
+  refers/VBZ
+  (NP professional/JJ management/NN)
+  (NP different/JJ security/NN)
+  (NP asset/NN)
+  (NP meet/NN)
+  (NP specified/JJ investment/NN)
+  (NP goal/NN)
+  (NP investor/NN)
+  benefit/VBP
+  one/CD
+  best/JJS
+  reducedforms/NNS
+  (NP model/NN)
+  (NP help/NN)
+  ascertaining/VBG
+  (NP credit/NN)
+  (NP risk/NN)
+  kpis/VBD
+  (NP differ/JJ company/NN)
+  (NP industry/NN)
+  depending/VBG
+  (NP upon/JJ performance/NN)
+  (NP criterion/NN)
+  (NP priority/NN)
+  (NP order/NN)
+  understand/VBP
+  (NP labor/NN)
+  (NP efficiency/NN)
+  (NP variance/NN)
+  properly/RB
+  (NP understand/JJ concept/NN)
+  working/VBG
+  (NP standard/NN)
+  costing/VBG
+  (NP first/JJ leverage/NN)
+  (NP ratio/NN)
+  (NP financial/JJ ratio/NN)
+  (NP measure/NN)
+  (NP company/NN)
+  (NP level/NN)
+  (NP debt/NN)
+  (NP relation/NN)
+  (NP equity/NN)
+  (NP asset/NN)
+  generally/RB
+  leveraged/VBN
+  (NP buyout/NN)
+  involves/VBZ
+  use/VBP
+  (NP combination/NN)
+  (NP different/JJ debt/NN)
+  (NP instrument/NN)
+  (NP bank/NN)
+  (NP debt/NN)
+  (NP capital/NN)
+  (NP market/NN)
+  (NP liquid/JJ asset/NN)
+  referred/VBD
+  (NP asset/NN)
+  converted/VBN
+  (NP cash/NN)
+  quickly/RB
+  (NP minimal/JJ impact/NN)
+  (NP price/NN)
+  received/VBD
+  also/RB
+  (NP marginal/JJ analysis/NN)
+  generally/RB
+  used/VBN
+  microeconomics/NNS
+  analyzing/VBG
+  (NP complexity/NN)
+  (NP system/NN)
+  affected/VBD
+  (NP marginal/JJ manipulation/NN)
+  comprising/VBG
+  (NP variable/JJ many/JJ competitive/JJ firm/NN)
+  continue/VBP
+  produce/VB
+  (NP output/NN)
+  (NP marginal/JJ revenue/NN)
+  (NP equal/JJ marginal/JJ cost/NN)
+  (NP market/NN)
+  (NP capitalization/NN)
+  delineated/VBD
+  (NP total/JJ dollar/NN)
+  (NP market/NN)
+  (NP value/NN)
+  (NP outstanding/JJ share/NN)
+  (NP company/NN)
+  (NP market/NN)
+  (NP risk/NN)
+  also/RB
+  known/VBN
+  (NP systematic/JJ risk/NN)
+  (NP potential/JJ investor/NN)
+  (NP lose/JJ value/NN)
+  (NP factor/NN)
+  (NP experience/NN)
+  (NP decline/NN)
+  (NP due/JJ volatility/NN)
+  (NP market/NN)
+  (NP example/NN)
+  (NP structural/JJ change/NN)
+  occur/VBP
+  (NP market/NN)
+  (NP economy/NN)
+  (NP whole/JJ market/NN)
+  (NP risk/NN)
+  (NP premium/NN)
+  (NP equivalent/JJ incline/JJ security/NN)
+  (NP market/NN)
+  (NP line/NN)
+  (NP capital/NN)
+  (NP asset/NN)
+  (NP pricing/NN)
+  (NP model/NN)
+  (NP microeconomic/JJ pricing/NN)
+  (NP model/NN)
+  essentially/RB
+  (NP model/JJ wherein/JJ price/NN)
+  concerned/VBD
+  (NP good/JJ service/NN)
+  determined/VBD
+  within/IN
+  given/VBN
+  (NP market/NN)
+  (NP overhead/NN)
+  fixed/VBN
+  (NP total/JJ volume/NN)
+  (NP activity/NN)
+  variable/JJ
+  calculated/VBN
+  per/IN
+  (NP unit/NN)
+  called/VBN
+  fixed/VBN
+  (NP overhead/JJ monte/NN)
+  (NP carlo/NN)
+  (NP simulation/NN)
+  implies/NNS
+  (NP problem/NN)
+  solving/VBG
+  (NP technique/NN)
+  used/VBN
+  (NP estimate/NN)
+  (NP possibility/NN)
+  (NP certain/JJ outcome/NN)
+  running/VBG
+  (NP several/JJ trial/NN)
+  run/VB
+  known/VBN
+  (NP simulation/NN)
+  (NP use/NN)
+  (NP random/NN)
+  (NP variable/JJ cost/NN)
+  commonly/RB
+  top/JJ
+  five/CD
+  ratio/NNS
+  used/VBN
+  (NP financial/JJ field/NN)
+  include/VBP
+  moving/VBG
+  average/JJ
+  basically/RB
+  (NP indicator/NN)
+  required/VBD
+  purpose/JJ
+  conducting/VBG
+  (NP technical/JJ analysis/NN)
+  (NP display/NN)
+  (NP security/NN)
+  (NP price/NN)
+  (NP average/NN)
+  (NP value/NN)
+  (NP definite/JJ period/NN)
+  (NP negative/JJ equity/NN)
+  basically/RB
+  (NP name/JJ phenomenon/NN)
+  expressed/VBD
+  investopedia/JJ
+  one/CD
+  (NP important/JJ factor/NN)
+  require/VBP
+  (NP consideration/NN)
+  investing/VBG
+  (NP company/NN)
+  (NP amount/NN)
+  (NP debt/NN)
+  carried/VBN
+  (NP company/NN)
+  explained/VBD
+  (NP financial/JJ author/NN)
+  (NP net/NN)
+  (NP present/JJ value/NN)
+  (NP net/NN)
+  (NP present/JJ worth/NN)
+  defined/VBD
+  (NP present/JJ value/NN)
+  (NP individual/JJ cash/NN)
+  (NP flow/NN)
+  incoming/VBG
+  outgoing/VBG
+  (NP business/NN)
+  (NP entity/NN)
+  (NP net/JJ present/JJ value/NN)
+  (NP growth/NN)
+  (NP opportunity/NN)
+  determined/VBD
+  deducting/VBG
+  (NP purchase/NN)
+  (NP price/NN)
+  (NP present/JJ value/NN)
+  (NP growth/NN)
+  (NP opportunity/NN)
+  (NP nondiversifiable/JJ risk/NN)
+  also/RB
+  referred/VBD
+  (NP market/NN)
+  (NP risk/NN)
+  (NP systematic/JJ risk/NN)
+  therefore/RB
+  (NP individual/JJ business/NN)
+  (NP risk/NN)
+  related/VBD
+  underlying/VBG
+  (NP stock/NN)
+  (NP company/NN)
+  go/VB
+  bankrupt/RB
+  stated/VBN
+  (NP nonsystematic/JJ risk/NN)
+  (NP event/NN)
+  usually/RB
+  (NP little/JJ general/JJ recede/NN)
+  (NP flow/NN)
+  (NP entire/JJ market/NN)
+  (NP division/NN)
+  (NP distance/NN)
+  one/CD
+  (NP data/NN)
+  (NP point/NN)
+  (NP mean/JJ standard/JJ deviation/NN)
+  (NP distribution/NN)
+  known/VBN
+  (NP normal/JJ deviate/NN)
+  standardized/VBD
+  (NP value/NN)
+  (NP word/NN)
+  (NP opportunity/NN)
+  (NP cost/NN)
+  refers/NNS
+  (NP benefit/NN)
+  could/MD
+  received/VB
+  (NP alternative/JJ action/NN)
+  (NP optimal/JJ capital/NN)
+  (NP structure/NN)
+  indicates/VBZ
+  best/RBS
+  (NP debttoequity/NN)
+  (NP ratio/NN)
+  (NP firm/NN)
+  maximizes/VBZ
+  (NP value/NN)
+  (NP pareto/NN)
+  (NP principle/NN)
+  also/RB
+  known/VBN
+  (NP thetorule/NN)
+  created/VBD
+  (NP vilfredo/JJ pareto/NN)
+  (NP italian/JJ economist/NN)
+  (NP year/NN)
+  1906/CD
+  (NP passive/JJ management/NN)
+  (NP converse/NN)
+  (NP active/JJ management/NN)
+  includes/VBZ
+  (NP attempt/NN)
+  (NP fund/NN)
+  (NP manager/NN)
+  beat/VBP
+  (NP market/NN)
+  different/JJ
+  investing/VBG
+  (NP strategy/NN)
+  sellingbuying/VBG
+  (NP decision/NN)
+  (NP security/NN)
+  (NP portfolio/NN)
+  (NP simple/JJ term/NN)
+  (NP payback/NN)
+  (NP period/NN)
+  defined/VBD
+  (NP tool/JJ capital/NN)
+  (NP budgeting/NN)
+  calculates/NNS
+  length/VBP
+  (NP time/NN)
+  required/VBN
+  recover/RB
+  original/JJ
+  invested/VBD
+  amount/RB
+  (NP many/JJ time/NN)
+  (NP success/NN)
+  defined/VBD
+  (NP term/NN)
+  (NP progressing/NN)
+  towards/NNS
+  (NP strategic/JJ goal/NN)
+  often/RB
+  (NP success/NN)
+  simply/RB
+  referred/VBD
+  repeated/VBN
+  (NP achievement/JJ level/NN)
+  (NP operational/JJ goal/NN)
+  (NP describe/NN)
+  (NP detail/NN)
+  (NP perpetuity/NN)
+  (NP annuity/NN)
+  wherein/VBP
+  (NP periodic/JJ payment/NN)
+  (NP commence/NN)
+  (NP specific/JJ date/NN)
+  continue/VB
+  (NP indefinite/JJ time/NN)
+  (NP present/JJ value/NN)
+  (NP entity/NN)
+  defined/VBD
+  (NP present/JJ worth/JJ prospective/JJ amount/NN)
+  (NP money/NN)
+  (NP stream/NN)
+  (NP cash/NN)
+  (NP flow/NN)
+  specified/VBD
+  (NP return/JJ rate/NN)
+  (NP another/DT way/NN)
+  explaining/VBG
+  (NP price/NN)
+  (NP sensitivity/NN)
+  (NP consumer/NN)
+  (NP demand/NN)
+  (NP product/NN)
+  changed/VBD
+  (NP cost/NN)
+  (NP product/NN)
+  could/MD
+  (NP number/NN)
+  (NP reason/NN)
+  behind/IN
+  conducting/VBG
+  (NP analysis/NN)
+  may/MD
+  include/VB
+  (NP measurement/JJ progress/NN)
+  (NP performance/NN)
+  (NP evaluation/NN)
+  (NP prediction/NN)
+  related/VBN
+  (NP global/JJ event/NN)
+  (NP valuation/NN)
+  (NP financial/JJ instrument/NN)
+  (NP quantitative/JJ analysis/NN)
+  (NP business/NN)
+  (NP financial/JJ analysis/NN)
+  (NP technique/NN)
+  aim/VBP
+  understanding/VBG
+  (NP behavior/NN)
+  (NP use/NN)
+  complex/JJ
+  mathematical/JJ
+  statistical/JJ
+  modeling/VBG
+  (NP measurement/JJ research/NN)
+  rsquared/VBD
+  (NP security/NN)
+  (NP isit/NN)
+  denotes/VBZ
+  (NP movement/NN)
+  (NP security/NN)
+  completely/RB
+  ascertained/VBD
+  (NP standard/JJ movement/NN)
+  (NP market/NN)
+  (NP index/NN)
+  (NP resultant/JJ value/NN)
+  (NP indicator/NN)
+  (NP value/NN)
+  one/CD
+  (NP quantity/NN)
+  (NP quantity/NN)
+  (NP term/NN)
+  besides/IN
+  (NP ratio/NN)
+  (NP analysis/NN)
+  used/VBN
+  predominantly/RB
+  (NP proponent/JJ financial/JJ analysis/NN)
+  (NP value/NN)
+  (NP independent/JJ variable/JJ change/NN)
+  (NP process/NN)
+  (NP estimation/NN)
+  (NP present/JJ value/NN)
+  (NP cash/NN)
+  (NP high/JJ risk/NN)
+  (NP investment/NN)
+  known/VBN
+  (NP riskadjusted/JJ discount/NN)
+  (NP rate/NN)
+  (NP riskless/NN)
+  (NP rate/NN)
+  represents/VBZ
+  (NP interest/NN)
+  expected/VBN
+  (NP investor/NN)
+  completely/RB
+  (NP riskless/JJ investment/NN)
+  (NP certain/JJ time/NN)
+  (NP period/NN)
+  (NP saas/NN)
+  (NP rate/NN)
+  (NP adjustment/NN)
+  used/VBN
+  (NP economic/JJ business/NN)
+  data/NNS
+  (NP attempt/NN)
+  remove/VB
+  data/NNS
+  (NP seasonal/JJ variation/NN)
+  keeping/VBG
+  (NP track/JJ change/NN)
+  (NP external/JJ factor/NN)
+  (NP necessary/JJ action/NN)
+  taken/VBN
+  (NP prevent/JJ loss/NN)
+  (NP sharpe/NN)
+  derived/VBD
+  (NP formula/NN)
+  (NP help/NN)
+  (NP measure/NN)
+  (NP risk/NN)
+  adjusted/VBD
+  (NP performance/NN)
+  (NP finance/NN)
+  (NP solvency/NN)
+  refers/NNS
+  extent/VBP
+  (NP current/JJ asset/NN)
+  (NP business/NN)
+  (NP entity/NN)
+  exceed/VBP
+  (NP current/JJ liability/NN)
+  (NP solvency/NN)
+  ratio/VB
+  one/CD
+  (NP various/JJ ratio/NN)
+  used/VBN
+  (NP measure/NN)
+  (NP ability/NN)
+  (NP company/NN)
+  meet/VB
+  (NP long/JJ term/NN)
+  (NP debt/NN)
+  (NP general/JJ definition/NN)
+  (NP standard/NN)
+  (NP deviation/NN)
+  given/VBN
+  (NP measure/NN)
+  (NP dispersion/NN)
+  set/VBN
+  data/NNS
+  mean/RBR
+  (NP statistic/JJ standard/NN)
+  (NP deviation/NN)
+  sampling/VBG
+  (NP distribution/NN)
+  known/VBN
+  (NP standard/JJ error/NN)
+  generally/RB
+  (NP swot/JJ basic/JJ simple/JJ model/NN)
+  evaluates/VBZ
+  (NP capability/NN)
+  (NP organization/NN)
+  well/RB
+  (NP potential/JJ opportunity/NN)
+  (NP threat/NN)
+  (NP systematic/JJ risk/NN)
+  refers/NNS
+  risk/VBP
+  (NP intrinsic/JJ complete/JJ market/NN)
+  (NP complete/JJ market/NN)
+  (NP segment/NN)
+  (NP terminal/JJ value/NN)
+  (NP asset/NN)
+  (NP company/NN)
+  calculated/VBD
+  beyond/IN
+  (NP time/NN)
+  (NP period/NN)
+  discounted/VBN
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP projection/NN)
+  moreover/RB
+  concept/VBD
+  (NP time/NN)
+  (NP value/NN)
+  (NP money/NN)
+  also/RB
+  help/VBP
+  evaluating/VBG
+  (NP likely/JJ stream/JJ income/NN)
+  (NP future/NN)
+  (NP manner/NN)
+  (NP annual/JJ income/NN)
+  discounted/VBN
+  added/VBD
+  thereafter/RB
+  thereby/RB
+  providing/VBG
+  (NP lumpsum/JJ present/JJ value/NN)
+  (NP complete/JJ income/NN)
+  (NP stream/NN)
+  (NP trend/NN)
+  (NP analysis/NN)
+  (NP sale/NN)
+  (NP year/NN)
+  thetowill/RB
+  converted/VBD
+  (NP percentage/NN)
+  (NP form/NN)
+  (NP order/NN)
+  (NP compare/NN)
+  (NP ratio/JJ measure/NN)
+  (NP return/NN)
+  earned/VBN
+  (NP surplus/NN)
+  could/MD
+  earned/VB
+  (NP risk/NN)
+  (NP free/JJ speculation/NN)
+  per/IN
+  (NP unit/NN)
+  (NP market/NN)
+  (NP risk/NN)
+  (NP variable/JJ cost/NN)
+  calculated/VBD
+  (NP sum/JJ marginal/JJ cost/NN)
+  (NP unit/NN)
+  produced/VBD
+  (NP method/JJ compare/NN)
+  (NP different/JJ item/NN)
+  (NP single/JJ item/NN)
+  (NP accounting/NN)
+  (NP period/NN)
+  weighted/VBD
+  (NP average/JJ cost/NN)
+  (NP capital/NN)
+  explained/VBD
+  (NP rate/NN)
+  expected/VBN
+  provided/VBD
+  (NP company/NN)
+  (NP average/JJ security/NN)
+  (NP holder/NN)
+  (NP financing/NN)
+  (NP asset/NN)
+  (NP method/NN)
+  weighted/VBD
+  (NP average/JJ cost/NN)
+  (NP flow/NN)
+  (NP assumption/NN)
+  (NP periodic/JJ inventory/NN)
+  (NP method/NN)
+  used/VBN
+  employed/VBN
+  (NP compute/JJ value/NN)
+  (NP inventory/NN)
+  (NP addition/NN)
+  (NP cost/NN)
+  good/JJ
+  sold/VBN
+  (NP absorption/NN)
+  costing/VBG
+  (NP method/NN)
+  involves/VBZ
+  use/VBP
+  (NP total/JJ direct/JJ cost/NN)
+  (NP overhead/NN)
+  (NP cost/NN)
+  related/JJ
+  manufacturing/VBG
+  (NP product/NN)
+  (NP cost/NN)
+  (NP base/NN)
+  accelerated/VBD
+  (NP depreciation/NN)
+  refers/NNS
+  method/VBP
+  (NP depreciation/NN)
+  used/VBN
+  (NP income/NN)
+  (NP tax/NN)
+  (NP accounting/NN)
+  (NP purpose/NN)
+  allows/VBZ
+  higher/JJR
+  (NP deduction/NN)
+  (NP initial/JJ year/NN)
+  (NP asset/NN)
+  (NP life/NN)
+  (NP accounting/NN)
+  (NP analysis/NN)
+  also/RB
+  referred/VBD
+  (NP financial/JJ analysis/NN)
+  (NP financial/JJ statement/NN)
+  (NP analysis/NN)
+  explained/VBD
+  (NP assessment/JJ stability/NN)
+  (NP viability/NN)
+  (NP profitability/NN)
+  (NP business/NN)
+  (NP subbusiness/NN)
+  (NP project/NN)
+  accounting/VBG
+  (NP estimate/JJ approximation/NN)
+  (NP amount/NN)
+  debited/VBD
+  (NP credited/JJ item/NN)
+  (NP precise/JJ mean/JJ measurement/NN)
+  (NP available/JJ accounting/NN)
+  (NP policy/NN)
+  (NP specific/JJ principle/NN)
+  (NP base/NN)
+  (NP convention/NN)
+  (NP rule/NN)
+  (NP practice/NN)
+  applied/VBD
+  (NP entity/NN)
+  preparing/VBG
+  presenting/VBG
+  (NP financial/JJ statement/NN)
+  (NP accounting/NN)
+  (NP principle/NN)
+  (NP guideline/NN)
+  set/VBN
+  (NP accounting/NN)
+  (NP body/NN)
+  (NP every/DT entity/NN)
+  must/MD
+  follow/VB
+  preparing/VBG
+  (NP financial/JJ statement/NN)
+  (NP gaap/NN)
+  short/JJ
+  generally/RB
+  accepted/VBD
+  (NP accounting/NN)
+  (NP principle/NN)
+  common/JJ
+  set/VBD
+  (NP accounting/NN)
+  (NP principle/NN)
+  (NP procedure/NN)
+  (NP standard/NN)
+  used/VBN
+  (NP company/NN)
+  (NP compile/JJ financial/JJ statement/NN)
+  (NP seller/NN)
+  (NP supplier/NN)
+  called/VBN
+  (NP creditor/NN)
+  (NP credit/NN)
+  (NP sale/NN)
+  made/VBD
+  (NP cash/NN)
+  isnt/NNS
+  waged/VBD
+  (NP time/NN)
+  (NP sale/NN)
+  (NP business/NN)
+  (NP buyer/NN)
+  (NP augmentation/NN)
+  (NP debtor/NN)
+  take/VB
+  (NP room/NN)
+  (NP accrual/JJ accounting/NN)
+  refers/NNS
+  method/VBP
+  accounting/VBG
+  evaluates/NNS
+  (NP performance/NN)
+  (NP position/NN)
+  (NP company/NN)
+  recognizing/VBG
+  (NP economic/JJ activity/NN)
+  (NP irrespective/JJ occurrence/NN)
+  (NP cash/NN)
+  (NP transaction/NN)
+  alternatively/RB
+  referred/VBD
+  (NP book/NN)
+  (NP value/NN)
+  (NP cost/NN)
+  stated/VBD
+  (NP fixed/JJ asset/NN)
+  (NP section/NN)
+  (NP balance/NN)
+  (NP sheet/NN)
+  (NP activity/NN)
+  based/VBN
+  costing/VBG
+  (NP approach/NN)
+  determines/NNS
+  cost/VBD
+  (NP product/NN)
+  based/VBN
+  (NP activity/NN)
+  performed/VBN
+  (NP production/NN)
+  (NP accountancy/NN)
+  adjusting/VBG
+  (NP entry/NN)
+  explained/VBD
+  (NP journal/JJ entry/NN)
+  made/VBD
+  generally/RB
+  closing/VBG
+  accounting/VBG
+  (NP period/NN)
+  (NP apportion/JJ income/NN)
+  (NP expenditure/NN)
+  (NP period/NN)
+  occurred/VBD
+  actually/RB
+  (NP administrative/JJ expense/NN)
+  (NP refer/NN)
+  (NP cost/NN)
+  (NP operating/NN)
+  (NP business/NN)
+  directly/RB
+  (NP attributable/JJ production/NN)
+  (NP good/JJ service/NN)
+  (NP term/NN)
+  (NP affiliate/NN)
+  refers/NNS
+  type/VBP
+  (NP intercompany/JJ relationship/NN)
+  involves/VBZ
+  one/CD
+  (NP company/NN)
+  le/VBZ
+  (NP majority/NN)
+  (NP stock/NN)
+  held/VBD
+  (NP company/NN)
+  (NP accounting/NN)
+  (NP amortization/NN)
+  (NP similar/JJ depreciation/NN)
+  (NP method/NN)
+  (NP amount/NN)
+  (NP decrease/NN)
+  (NP period/NN)
+  obverse/IN
+  (NP part/NN)
+  (NP report/NN)
+  includes/VBZ
+  (NP exciting/JJ combination/NN)
+  (NP graphic/JJ photo/NN)
+  well/RB
+  accompany/RB
+  (NP narrative/JJ record/NN)
+  (NP activity/NN)
+  (NP company/NN)
+  (NP previous/JJ year/NN)
+  however/RB
+  (NP interim/JJ financial/JJ statement/NN)
+  generally/RB
+  (NP unaudited/JJ case/NN)
+  clearly/RB
+  labeled/VBD
+  unaudited/JJ
+  thus/RB
+  avoiding/VBG
+  misleading/VBG
+  (NP statement/NN)
+  (NP user/NN)
+  (NP asset/NN)
+  based/VBN
+  (NP financing/NN)
+  specialized/VBN
+  (NP technique/NN)
+  providing/VBG
+  structured/VBD
+  working/VBG
+  (NP capital/JJ term/NN)
+  (NP loan/NN)
+  (NP tenable/JJ account/NN)
+  (NP receivable/JJ machinery/NN)
+  (NP inventory/NN)
+  (NP equipment/NN)
+  (NP real/JJ estate/NN)
+  (NP word/NN)
+  (NP term/NN)
+  also/RB
+  referred/VBD
+  (NP authorized/JJ share/NN)
+  usually/RB
+  (NP number/NN)
+  (NP share/NN)
+  authorized/VBN
+  much/RB
+  actually/RB
+  required/VBN
+  (NP order/NN)
+  (NP provide/NN)
+  (NP company/NN)
+  (NP opportunity/NN)
+  (NP issue/NN)
+  (NP stock/NN)
+  required/VBN
+  usually/RB
+  (NP bad/JJ debt/NN)
+  (NP reserve/NN)
+  considered/VBN
+  (NP option/NN)
+  (NP debtor/NN)
+  (NP liable/JJ pay/NN)
+  (NP specific/JJ amount/NN)
+  (NP debt/NN)
+  (NP creditor/NN)
+  considered/VBN
+  (NP bankrupt/NN)
+  also/RB
+  called/VBD
+  (NP negative/JJ goodwill/NN)
+  (NP balance/NN)
+  (NP sheet/NN)
+  (NP snapshot/JJ company/NN)
+  (NP financial/JJ condition/NN)
+  (NP specific/JJ moment/NN)
+  (NP time/NN)
+  usually/RB
+  (NP close/JJ accounting/NN)
+  (NP period/NN)
+  (NP bill/NN)
+  (NP exchange/NN)
+  refers/NNS
+  written/VBN
+  (NP interest/NN)
+  (NP bear/NN)
+  (NP interest/NN)
+  international/JJ
+  accounting/VBG
+  standard/JJ
+  defines/NNS
+  (NP biological/JJ asset/NN)
+  (NP living/NN)
+  (NP animal/NN)
+  (NP plant/NN)
+  (NP bonus/NN)
+  (NP depreciation/NN)
+  refers/NNS
+  (NP additional/JJ amount/NN)
+  (NP deductible/JJ depreciation/NN)
+  awarded/VBD
+  (NP addition/NN)
+  usually/RB
+  (NP available/JJ book/NN)
+  (NP value/NN)
+  defined/VBN
+  (NP value/NN)
+  (NP asset/NN)
+  passed/VBD
+  (NP balance/NN)
+  (NP sheet/NN)
+  borrowing/VBG
+  (NP cost/NN)
+  defined/VBN
+  (NP interest/NN)
+  (NP cost/NN)
+  incurred/VBN
+  (NP enterprise/JJ relation/NN)
+  (NP borrowing/NN)
+  (NP fund/NN)
+  also/RB
+  cost/VBD
+  levied/JJ
+  borrowing/VBG
+  (NP longterm/NN)
+  like/IN
+  (NP real/JJ estate/NN)
+  (NP mortgage/NN)
+  (NP term/NN)
+  (NP loan/NN)
+  (NP actuality/NN)
+  (NP burden/JJ rate/NN)
+  (NP rate/NN)
+  (NP indirect/JJ cost/NN)
+  allocated/VBD
+  (NP direct/JJ cost/NN)
+  make/VBP
+  (NP indirect/JJ cost/NN)
+  (NP part/NN)
+  direct/VBP
+  (NP cost/NN)
+  incurred/VBN
+  (NP many/JJ case/NN)
+  preferred/VBD
+  (NP mean/JJ managing/NN)
+  (NP business/NN)
+  (NP combination/NN)
+  might/MD
+  acquiring/VBG
+  controlling/VBG
+  (NP amount/NN)
+  (NP stock/NN)
+  (NP general/JJ definition/NN)
+  (NP capital/NN)
+  (NP expenditure/NN)
+  given/VBN
+  (NP fund/NN)
+  (NP utilized/JJ company/NN)
+  acquiring/VBG
+  (NP upgrading/JJ physical/JJ asset/NN)
+  like/IN
+  (NP property/NN)
+  (NP equipment/NN)
+  (NP industrial/JJ building/NN)
+  capitalized/VBD
+  (NP cost/NN)
+  incurred/VBN
+  (NP financing/NN)
+  building/VBG
+  fixed/VBN
+  (NP asset/NN)
+  capped/VBN
+  (NP rate/NN)
+  also/RB
+  called/VBD
+  (NP capitalization/NN)
+  (NP rate/NN)
+  (NP cash/NN)
+  (NP accounting/NN)
+  explained/VBD
+  accounting/VBG
+  (NP method/NN)
+  involves/VBZ
+  recording/VBG
+  (NP receipt/JJ period/NN)
+  received/VBD
+  (NP expense/JJ recorded/JJ period/NN)
+  actually/RB
+  paid/VBD
+  (NP definition/NN)
+  (NP cash/NN)
+  (NP advance/NN)
+  (NP loan/NN)
+  taken/VBN
+  (NP credit/NN)
+  (NP card/NN)
+  (NP charge/NN)
+  (NP interest/NN)
+  (NP borrower/NN)
+  would/MD
+  charged/VB
+  (NP financing/NN)
+  (NP charge/NN)
+  (NP day/NN)
+  (NP cash/NN)
+  borrowed/VBD
+  (NP day/NN)
+  (NP amount/NN)
+  repaid/VBD
+  (NP full/JJ cash/NN)
+  equivalent/JJ
+  shortterm/JJ
+  highly/RB
+  (NP liquid/JJ investment/NN)
+  readily/RB
+  (NP convertible/JJ known/JJ amount/NN)
+  (NP cash/NN)
+  (NP subject/NN)
+  (NP insignificant/JJ risk/NN)
+  (NP change/NN)
+  (NP value/NN)
+  (NP ias7/NN)
+  defines/NNS
+  financing/VBG
+  (NP activity/NN)
+  (NP activity/NN)
+  (NP result/NN)
+  (NP change/NN)
+  (NP size/NN)
+  (NP composition/NN)
+  contributed/VBD
+  (NP equity/NN)
+  (NP borrowing/NN)
+  (NP entity/NN)
+  ias7/VBP
+  defines/NNS
+  investing/VBG
+  (NP activity/NN)
+  (NP activity/NN)
+  (NP acquisition/NN)
+  (NP disposal/NN)
+  longterm/VBZ
+  (NP asset/NN)
+  (NP investment/NN)
+  included/VBD
+  (NP cash/NN)
+  (NP equivalent/NN)
+  (NP ias7/NN)
+  defines/NNS
+  operating/VBG
+  (NP activity/NN)
+  (NP principal/JJ revenueproducing/NN)
+  (NP activity/NN)
+  (NP entity/NN)
+  (NP activity/NN)
+  investing/VBG
+  (NP financing/NN)
+  (NP activity/NN)
+  (NP example/NN)
+  operating/VBG
+  (NP expense/NN)
+  clearing/VBG
+  (NP account/NN)
+  maintained/VBD
+  (NP keep/JJ track/NN)
+  (NP entry/NN)
+  operating/VBG
+  (NP expense/NN)
+  close/RB
+  real/JJ
+  operating/VBG
+  (NP expense/NN)
+  (NP account/NN)
+  (NP definition/NN)
+  (NP commodity/NN)
+  (NP physical/JJ substance/NN)
+  like/IN
+  (NP grain/NN)
+  (NP metal/NN)
+  interchangeable/JJ
+  (NP another/DT product/NN)
+  (NP type/NN)
+  bought/VBD
+  sold/VBN
+  (NP investor/NN)
+  (NP sale/NN)
+  (NP purchase/NN)
+  (NP common/JJ share/NN)
+  aptly/RB
+  defined/VBN
+  (NP security/NN)
+  (NP lieu/NN)
+  (NP equity/NN)
+  (NP ownership/NN)
+  (NP corporation/NN)
+  (NP traditional/JJ financial/JJ statement/NN)
+  used/VBN
+  reporting/VBG
+  (NP purpose/JJ report/NN)
+  (NP monetary/JJ position/NN)
+  (NP company/NN)
+  (NP common/JJ size/NN)
+  (NP financial/JJ statement/NN)
+  used/VBN
+  decisionmaking/VBG
+  (NP purpose/JJ commonsize/JJ income/NN)
+  (NP statement/NN)
+  (NP type/JJ income/NN)
+  (NP statement/NN)
+  (NP item/NN)
+  reported/VBD
+  (NP reference/NN)
+  (NP revenue/NN)
+  (NP company/NN)
+  (NP method/NN)
+  (NP total/JJ contract/NN)
+  (NP revenue/NN)
+  related/VBD
+  (NP cost/NN)
+  incurred/VBN
+  (NP performance/NN)
+  (NP recognizable/JJ period/NN)
+  (NP contract/NN)
+  actually/RB
+  completed/VBN
+  according/VBG
+  (NP ias1/JJ presentation/NN)
+  (NP financial/JJ statement/NN)
+  (NP comprehensive/JJ income/NN)
+  (NP change/NN)
+  (NP equity/NN)
+  (NP period/NN)
+  resulting/VBG
+  (NP transaction/NN)
+  (NP event/NN)
+  (NP change/NN)
+  resulting/VBG
+  (NP transaction/NN)
+  (NP owner/NN)
+  (NP capacity/NN)
+  (NP owner/NN)
+  however/RB
+  (NP conglomerate/JJ diversification/NN)
+  (NP business/NN)
+  (NP company/NN)
+  (NP normal/JJ practice/NN)
+  usually/RB
+  (NP company/NN)
+  (NP depict/JJ multiindustry/NN)
+  (NP corporate/JJ structure/NN)
+  putting/VBG
+  (NP another/DT way/NN)
+  (NP consolidated/JJ financial/JJ statement/NN)
+  addressed/VBD
+  (NP combined/JJ financial/JJ statement/NN)
+  (NP parent/NN)
+  (NP company/NN)
+  (NP subsidiary/NN)
+  (NP construction/NN)
+  (NP contract/NN)
+  explained/VBD
+  (NP warranty/NN)
+  ensures/NNS
+  executed/VBD
+  (NP job/NN)
+  get/VB
+  (NP specific/JJ amount/NN)
+  (NP compensation/NN)
+  (NP way/NN)
+  (NP compensation/NN)
+  distributed/VBD
+  (NP contingent/JJ asset/NN)
+  (NP possible/JJ asset/NN)
+  arises/NNS
+  (NP past/JJ event/NN)
+  whose/WP$
+  (NP existence/NN)
+  confirmed/VBD
+  (NP occurrence/NN)
+  (NP nonoccurrence/NN)
+  one/CD
+  (NP uncertain/JJ future/JJ event/NN)
+  wholly/RB
+  within/IN
+  (NP control/NN)
+  (NP entity/NN)
+  continuing/VBG
+  (NP operation/NN)
+  refers/NNS
+  (NP business/NN)
+  (NP term/NN)
+  used/VBN
+  (NP define/JJ division/NN)
+  (NP business/NN)
+  (NP company/NN)
+  considered/VBD
+  (NP normal/JJ addition/NN)
+  expected/VBN
+  (NP operate/NN)
+  near/IN
+  (NP future/JJ common/JJ convertible/JJ security/NN)
+  includes/VBZ
+  (NP convertible/JJ preferred/JJ stock/NN)
+  (NP convertible/JJ bond/NN)
+  transformed/VBD
+  (NP common/JJ stock/NN)
+  (NP equity/NN)
+  (NP cost/NN)
+  (NP method/NN)
+  (NP method/NN)
+  (NP accounting/NN)
+  (NP investment/NN)
+  whereby/WRB
+  (NP investment/NN)
+  recognized/VBD
+  (NP cost/NN)
+  also/RB
+  commonly/RB
+  known/VBN
+  (NP cost/NN)
+  good/JJ
+  sold/VBN
+  (NP cost/NN)
+  (NP recovery/NN)
+  (NP method/NN)
+  basically/RB
+  method/VBD
+  recognizing/VBG
+  (NP revenue/NN)
+  per/IN
+  (NP gross/JJ profit/NN)
+  recognized/VBN
+  (NP till/JJ time/NN)
+  (NP entire/JJ merchandise/NN)
+  (NP cost/NN)
+  successfully/RB
+  recovered/VBD
+  (NP current/JJ asset/NN)
+  (NP asset/NN)
+  expected/VBN
+  used/JJ
+  withinmonths/NNS
+  (NP liability/NN)
+  (NP noncurrent/JJ liability/NN)
+  (NP term/NN)
+  equally/RB
+  (NP important/JJ finance/NN)
+  (NP taxation/NN)
+  (NP management/NN)
+  accounting/VBG
+  (NP debt/NN)
+  (NP management/NN)
+  refers/NNS
+  (NP unofficial/JJ agreement/NN)
+  (NP unsecured/JJ creditor/NN)
+  (NP repayment/NN)
+  (NP debt/NN)
+  (NP specific/JJ time/NN)
+  (NP period/NN)
+  generally/RB
+  extending/VBG
+  (NP amount/NN)
+  (NP time/NN)
+  (NP debt/NN)
+  paid/VBN
+  back/RB
+  (NP method/JJ depreciation/NN)
+  charged/VBN
+  (NP asset/NN)
+  (NP early/JJ year/NN)
+  (NP asset/NN)
+  (NP life/NN)
+  higher/RBR
+  gradually/RB
+  (NP decrease/JJ year/NN)
+  (NP pas/NN)
+  deferred/VBD
+  (NP tax/NN)
+  (NP liability/NN)
+  (NP amount/NN)
+  (NP income/NN)
+  (NP tax/NN)
+  (NP payable/JJ future/JJ period/NN)
+  (NP respect/NN)
+  (NP taxable/JJ temporary/JJ difference/NN)
+  besides/IN
+  (NP restriction/NN)
+  (NP regard/NN)
+  (NP employee/NN)
+  withdraw/VBP
+  (NP fund/NN)
+  without/IN
+  penalized/VBN
+  also/RB
+  exist/VBP
+  (NP plan/NN)
+  defined/VBN
+  (NP contribution/NN)
+  (NP plan/NN)
+  basically/RB
+  (NP plan/JJ retirement/NN)
+  certain/JJ
+  specified/VBN
+  (NP percentage/NN)
+  (NP amount/NN)
+  (NP money/NN)
+  kept/VBD
+  aside/RB
+  (NP every/DT year/NN)
+  (NP organization/NN)
+  (NP employee/NN)
+  benefit/VBP
+  (NP international/JJ accounting/NN)
+  (NP standard/NN)
+  defines/NNS
+  defined/VBN
+  (NP contribution/NN)
+  (NP plan/NN)
+  (NP postemployment/JJ benefit/NN)
+  (NP plan/NN)
+  (NP entity/NN)
+  pay/VBP
+  fixed/VBN
+  (NP contribution/NN)
+  (NP separate/JJ entity/NN)
+  (NP legal/JJ constructive/JJ obligation/NN)
+  (NP pay/NN)
+  (NP contribution/NN)
+  (NP fund/NN)
+  hold/VBP
+  (NP sufficient/JJ asset/NN)
+  (NP pay/NN)
+  (NP employee/NN)
+  (NP benefit/NN)
+  relating/VBG
+  (NP employee/NN)
+  (NP service/NN)
+  (NP current/JJ prior/JJ period/NN)
+  (NP method/NN)
+  (NP cost/NN)
+  (NP manufacturing/NN)
+  (NP service/NN)
+  (NP department/NN)
+  allocated/VBN
+  directly/RB
+  (NP production/NN)
+  (NP department/NN)
+  (NP company/NN)
+  (NP product/NN)
+  (NP word/NN)
+  (NP production/NN)
+  (NP process/NN)
+  (NP product/NN)
+  (NP cost/NN)
+  (NP labor/NN)
+  (NP material/NN)
+  (NP expense/NN)
+  related/VBN
+  (NP production/NN)
+  (NP call/NN)
+  (NP direct/JJ cost/NN)
+  (NP case/NN)
+  (NP service/NN)
+  (NP industry/NN)
+  (NP direct/JJ labor/NN)
+  (NP cost/NN)
+  referred/VBD
+  (NP labor/NN)
+  (NP cost/NN)
+  needed/VBD
+  providing/VBG
+  (NP particular/JJ service/NN)
+  discontinued/VBN
+  (NP operation/NN)
+  (NP refer/NN)
+  (NP operation/NN)
+  (NP business/NN)
+  abandoned/VBD
+  sold/VBN
+  else/RB
+  (NP wise/NN)
+  disposed/VBD
+  besides/IN
+  (NP disposable/JJ income/NN)
+  (NP amount/NN)
+  utilized/JJ
+  calculating/VBG
+  (NP person/NN)
+  (NP debt/NN)
+  (NP income/NN)
+  (NP ratio/NN)
+  (NP minimum/JJ value/NN)
+  (NP machine/NN)
+  sold/VBN
+  without/IN
+  (NP loss/NN)
+  called/VBN
+  (NP book/NN)
+  (NP disposal/NN)
+  (NP value/NN)
+  (NP distribution/NN)
+  (NP cost/NN)
+  usually/RB
+  defined/VBD
+  (NP cost/NN)
+  incurred/VBN
+  (NP deliver/JJ product/NN)
+  (NP production/NN)
+  (NP unit/NN)
+  (NP end/NN)
+  (NP user/NN)
+  (NP doubleentry/NN)
+  (NP accounting/NN)
+  (NP system/NN)
+  used/VBN
+  (NP record/NN)
+  (NP transaction/NN)
+  daybook/VBD
+  accounting/VBG
+  (NP purpose/JJ depreciation/NN)
+  (NP method/NN)
+  charged/VBD
+  (NP complete/JJ purchase/NN)
+  (NP price/NN)
+  (NP asset/NN)
+  rather/RB
+  (NP net/JJ salvage/NN)
+  (NP value/NN)
+  (NP price/NN)
+  straight/VBD
+  (NP line/NN)
+  (NP method/NN)
+  earnings/NNS
+  per/IN
+  (NP share/NN)
+  (NP portion/NN)
+  (NP company/NN)
+  (NP distributable/JJ profit/NN)
+  allocated/VBD
+  (NP outstanding/JJ equity/NN)
+  (NP share/NN)
+  (NP effective/JJ interest/NN)
+  (NP method/NN)
+  (NP method/NN)
+  calculating/VBG
+  amortized/VBN
+  (NP cost/NN)
+  (NP financial/JJ asset/NN)
+  (NP financial/JJ liability/NN)
+  allocating/VBG
+  (NP interest/NN)
+  (NP revenue/NN)
+  (NP interest/NN)
+  (NP expense/NN)
+  (NP relevant/JJ period/NN)
+  (NP employee/NN)
+  (NP benefit/NN)
+  explained/VBD
+  (NP different/JJ nonwage/JJ compensation/NN)
+  offered/VBN
+  (NP employee/NN)
+  (NP normal/JJ salary/JJ wage/NN)
+  (NP equity/NN)
+  (NP equal/JJ total/JJ asset/NN)
+  (NP minus/NN)
+  (NP liability/NN)
+  however/RB
+  necessary/JJ
+  issued/VBN
+  (NP equity/NN)
+  must/MD
+  return/VB
+  (NP dividend/NN)
+  based/VBN
+  (NP profit/JJ term/NN)
+  (NP business/NN)
+  (NP international/JJ accounting/NN)
+  (NP standard/NN)
+  defines/VBZ
+  (NP exchange/NN)
+  (NP difference/NN)
+  (NP difference/NN)
+  resulting/VBG
+  translating/VBG
+  given/VBN
+  (NP number/NN)
+  (NP unit/NN)
+  one/CD
+  (NP currency/NN)
+  (NP another/DT currency/NN)
+  (NP different/JJ exchange/NN)
+  (NP rate/NN)
+  (NP external/JJ reporting/NN)
+  requires/VBZ
+  (NP entity/NN)
+  provide/RB
+  well/RB
+  (NP documented/JJ report/NN)
+  circulated/VBD
+  amongst/JJ
+  public/JJ
+  stockholder/JJR
+  (NP income/NN)
+  (NP statement/NN)
+  (NP company/NN)
+  (NP event/NN)
+  (NP arise/NN)
+  (NP extraordinary/JJ nonrecurring/JJ necessary/JJ report/NN)
+  (NP international/JJ standard/JJ accounting/NN)
+  (NP define/NN)
+  (NP fair/JJ value/NN)
+  (NP amount/NN)
+  (NP asset/NN)
+  could/MD
+  exchanged/VB
+  (NP liability/NN)
+  settled/VBN
+  (NP knowledgeable/JJ willing/JJ party/NN)
+  (NP arm/NN)
+  (NP length/NN)
+  (NP transaction/NN)
+  fifo/VBD
+  (NP acronym/NN)
+  first/RB
+  first/RB
+  concept/VB
+  (NP way/NN)
+  organizing/VBG
+  (NP manipulation/NN)
+  data/NNS
+  (NP proportionate/NN)
+  (NP time/NN)
+  (NP prioritization/NN)
+  (NP international/JJ accounting/NN)
+  standarddefines/NNS
+  (NP finance/NN)
+  (NP cost/NN)
+  (NP interest/NN)
+  (NP cost/NN)
+  (NP entity/NN)
+  incurs/VBZ
+  (NP connection/NN)
+  borrowing/VBG
+  (NP fund/NN)
+  (NP financial/JJ accounting/NN)
+  refers/NNS
+  reporting/VBG
+  (NP financial/JJ position/NN)
+  (NP performance/NN)
+  (NP firm/NN)
+  (NP way/NN)
+  (NP financial/JJ statement/NN)
+  issued/VBD
+  (NP external/JJ user/JJ intervallic/JJ basis/NN)
+  (NP fasb/JJ standard/NN)
+  commonly/RB
+  known/VBN
+  (NP gaap/JJ manage/NN)
+  (NP preparation/NN)
+  (NP corporate/JJ financial/JJ report/NN)
+  identified/VBD
+  (NP authoritative/JJ security/NN)
+  (NP exchange/NN)
+  (NP commission/NN)
+  (NP financial/JJ instrument/NN)
+  (NP tradable/JJ asset/NN)
+  (NP kind/NN)
+  either/CC
+  (NP cash/NN)
+  (NP evidence/NN)
+  (NP ownership/NN)
+  (NP entity/NN)
+  prescribed/VBN
+  right/RB
+  receive/VB
+  (NP deliver/NN)
+  (NP money/NN)
+  (NP financial/JJ instrument/NN)
+  give/VB
+  (NP proper/JJ definition/NN)
+  expressed/VBD
+  (NP agreement/NN)
+  (NP wherein/NN)
+  (NP lessor/NN)
+  receives/VBZ
+  (NP lease/JJ payment/NN)
+  covering/VBG
+  (NP ownership/NN)
+  (NP cost/NN)
+  usually/RB
+  includes/VBZ
+  (NP summary/JJ accounting/NN)
+  data/NNS
+  (NP year/NN)
+  including/VBG
+  background/IN
+  (NP note/NN)
+  (NP form/NN)
+  related/VBN
+  (NP info/JJ financial/JJ statement/NN)
+  well/RB
+  defined/VBD
+  (NP formal/JJ record/NN)
+  (NP business/NN)
+  (NP individual/JJ entity/NN)
+  (NP financial/JJ activity/NN)
+  (NP transparency/NN)
+  (NP financial/JJ statement/NN)
+  (NP mean/NN)
+  (NP statement/NN)
+  user/RB
+  (NP friendly/JJ clear/JJ everything/NN)
+  properly/RB
+  disclosed/VBN
+  easily/RB
+  understandable/JJ
+  finished/VBN
+  (NP good/JJ part/NN)
+  manufacturing/VBG
+  (NP process/NN)
+  (NP work/NN)
+  (NP inventory/NN)
+  completed/VBN
+  turned/VBD
+  finished/RB
+  good/JJ
+  ready/JJ
+  sold/VBN
+  fixed/VBN
+  (NP asset/NN)
+  longterm/RBR
+  (NP tangible/JJ piece/NN)
+  (NP property/NN)
+  (NP firm/NN)
+  owns/VBZ
+  us/PRP
+  (NP production/NN)
+  (NP income/NN)
+  expected/VBN
+  consumed/RB
+  (NP converted/JJ cash/NN)
+  withinmonths/NNS
+  fixed/VBN
+  (NP asset/NN)
+  defined/VBN
+  longterm/RBR
+  (NP tangible/JJ property/NN)
+  (NP piece/NN)
+  owned/VBD
+  (NP firm/NN)
+  used/VBN
+  (NP purpose/JJ incomegeneration/NN)
+  fixed/VBN
+  (NP capital/NN)
+  clearly/RB
+  referred/VBD
+  (NP physical/JJ capital/NN)
+  (NP real/JJ capital/NN)
+  consumed/VBN
+  invested/VBN
+  (NP production/NN)
+  (NP real/JJ product/NN)
+  per/IN
+  (NP u/JJ gaap/NN)
+  (NP regulation/NN)
+  (NP item/NN)
+  (NP balance/NN)
+  (NP sheet/NN)
+  (NP converted/JJ exchange/NN)
+  (NP rate/NN)
+  existing/VBG
+  (NP balance/NN)
+  (NP sheet/NN)
+  (NP date/NN)
+  (NP meaning/NN)
+  (NP forensic/JJ suitable/JJ use/NN)
+  (NP court/NN)
+  (NP law/NN)
+  forensic/JJ
+  accountant/JJ
+  usually/RB
+  work/VBP
+  (NP potential/JJ standard/JJ outcome/NN)
+  (NP forward/NN)
+  (NP contract/NN)
+  (NP defined/JJ cash/NN)
+  (NP market/NN)
+  (NP transaction/NN)
+  involves/VBZ
+  (NP delivery/NN)
+  (NP commodity/NN)
+  deferred/VBN
+  (NP contract/NN)
+  created/VBN
+  forward/RB
+  (NP rate/NN)
+  defined/VBN
+  (NP rate/NN)
+  (NP applicable/JJ situation/NN)
+  (NP financial/JJ transaction/NN)
+  (NP another/DT reason/NN)
+  behind/IN
+  making/VBG
+  (NP financial/JJ statement/NN)
+  (NP untransparent/NN)
+  give/VBP
+  (NP fruitful/JJ view/NN)
+  (NP firm/NN)
+  (NP investor/NN)
+  aim/IN
+  attracting/VBG
+  may/MD
+  also/RB
+  known/VB
+  (NP operating/NN)
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP minus/NN)
+  (NP capital/NN)
+  (NP expenditure/NN)
+  generally/RB
+  accepted/VBD
+  accounting/VBG
+  (NP principle/NN)
+  refers/NNS
+  widely/RB
+  accepted/VBD
+  set/VBN
+  (NP rule/JJ standard/JJ convention/NN)
+  (NP procedure/NN)
+  reporting/VBG
+  (NP financial/JJ info/NN)
+  (NP company/NN)
+  going/VBG
+  (NP concern/NN)
+  indicates/VBZ
+  (NP company/NN)
+  gone/VBN
+  bankrupt/JJ
+  generally/RB
+  goodwill/VBP
+  represents/VBZ
+  (NP value/NN)
+  (NP intangible/JJ asset/NN)
+  like/IN
+  (NP good/JJ customer/NN)
+  (NP relation/NN)
+  (NP strong/JJ brand/NN)
+  (NP name/NN)
+  (NP good/JJ employee/NN)
+  (NP relation/NN)
+  (NP kind/NN)
+  (NP patent/NN)
+  (NP proprietary/JJ technology/NN)
+  (NP government/NN)
+  accounting/VBG
+  (NP standard/JJ board/NN)
+  (NP organization/NN)
+  aim/IN
+  improving/VBG
+  creating/VBG
+  accounting/VBG
+  (NP reporting/NN)
+  (NP related/JJ standard/NN)
+  (NP gaap/NN)
+  (NP framework/NN)
+  (NP international/JJ accounting/NN)
+  (NP standard/NN)
+  (NP board/NN)
+  defines/VBZ
+  (NP historical/JJ cost/NN)
+  (NP measurement/JJ basis/NN)
+  according/VBG
+  (NP asset/NN)
+  recorded/VBD
+  (NP amount/NN)
+  (NP cash/NN)
+  (NP cash/NN)
+  (NP equivalent/NN)
+  paid/VBD
+  (NP fair/JJ value/NN)
+  (NP consideration/NN)
+  given/VBN
+  acquire/VB
+  (NP time/NN)
+  (NP acquisition/NN)
+  ifrs/VBP
+  (NP financial/JJ statement/NN)
+  (NP form/NN)
+  include/VBP
+  following/VBG
+  (NP statement/NN)
+  (NP financial/JJ position/NN)
+  (NP statement/NN)
+  (NP comprehensive/JJ income/NN)
+  however/RB
+  (NP possible/JJ write/JJ impairment/JJ asset/NN)
+  (NP income/NN)
+  (NP statement/NN)
+  (NP measure/NN)
+  (NP company/NN)
+  (NP financial/JJ performance/NN)
+  (NP specific/JJ accounting/NN)
+  (NP period/NN)
+  also/RB
+  referred/VBD
+  (NP marginal/JJ cost/NN)
+  (NP numerous/JJ security/NN)
+  related/VBN
+  (NP law/NN)
+  enacted/VBN
+  (NP congress/NN)
+  managed/VBD
+  sec/NNS
+  (NP state/NN)
+  (NP credibility/NN)
+  (NP integrity/NN)
+  (NP finance/NN)
+  related/VBN
+  reporting/VBG
+  (NP procedure/NN)
+  (NP public/JJ entity/NN)
+  depends/VBZ
+  largely/RB
+  (NP auditor/JJ operate/NN)
+  independently/RB
+  auditing/VBG
+  (NP customer/NN)
+  (NP intangible/JJ asset/NN)
+  (NP identifiable/JJ nonmonetary/JJ asset/NN)
+  without/IN
+  (NP physical/JJ substance/NN)
+  (NP intercompany/NN)
+  (NP elimination/NN)
+  refers/NNS
+  process/VBP
+  (NP removal/JJ transaction/NN)
+  (NP company/NN)
+  included/VBD
+  (NP group/NN)
+  (NP preparation/NN)
+  consolidated/VBD
+  (NP account/NN)
+  (NP interim/JJ financial/JJ statement/NN)
+  applied/VBD
+  (NP order/NN)
+  (NP convey/NN)
+  (NP performance/NN)
+  (NP financial/JJ company/NN)
+  beginning/VBG
+  (NP fiscal/JJ year/NN)
+  (NP end/NN)
+  (NP fiscal/JJ year/NN)
+  moreover/RB
+  (NP iasb/NN)
+  also/RB
+  responsible/JJ
+  maintaining/VBG
+  (NP ifrs/JJ ifrs/JJ represent/NN)
+  set/VBN
+  internationally/RB
+  (NP accepted/JJ accounting/NN)
+  (NP principle/NN)
+  used/VBN
+  (NP company/NN)
+  (NP prepare/JJ financial/JJ statement/NN)
+  (NP standard/NN)
+  applied/VBN
+  annually/RB
+  (NP january2005/JJ inventory/NN)
+  (NP accounting/NN)
+  refers/NNS
+  (NP part/NN)
+  accounting/VBG
+  dealing/VBG
+  assessing/VBG
+  (NP accounting/NN)
+  (NP change/NN)
+  inventoried/VBN
+  (NP asset/NN)
+  (NP inventory/NN)
+  financing/VBG
+  refers/NNS
+  (NP line/NN)
+  (NP credit/NN)
+  (NP shortterm/NN)
+  (NP loan/NN)
+  made/VBN
+  (NP company/NN)
+  purchasing/VBG
+  (NP product/NN)
+  (NP sale/NN)
+  (NP face/NN)
+  (NP value/NN)
+  (NP share/NN)
+  issued/VBN
+  (NP shareholder/NN)
+  (NP justintime/NN)
+  (NP inventory/NN)
+  (NP strategy/NN)
+  referred/VBD
+  (NP production/NN)
+  (NP strategy/NN)
+  (NP employed/JJ increase/NN)
+  (NP level/NN)
+  (NP efficiency/NN)
+  reduce/VB
+  (NP waste/NN)
+  receiving/VBG
+  (NP good/JJ form/NN)
+  required/VBN
+  (NP production/NN)
+  (NP process/NN)
+  thus/RB
+  reducing/VBG
+  (NP inventory/NN)
+  (NP cost/NN)
+  (NP give/JJ legal/JJ definition/NN)
+  (NP lease/NN)
+  rightly/RB
+  stated/VBN
+  written/VBN
+  (NP agreement/NN)
+  (NP wherein/NN)
+  (NP owner/NN)
+  (NP property/NN)
+  allows/VBZ
+  (NP tenant/JJ use/NN)
+  (NP property/NN)
+  (NP specific/JJ time/NN)
+  (NP period/NN)
+  (NP certain/JJ amount/NN)
+  (NP rent/NN)
+  (NP short/JJ london/NN)
+  (NP interbank/NN)
+  (NP offer/NN)
+  (NP rate/NN)
+  (NP libor/NN)
+  defined/VBN
+  (NP interest/NN)
+  (NP rate/NN)
+  charged/VBN
+  one/CD
+  (NP bank/NN)
+  (NP another/DT loan/NN)
+  (NP acronym/NN)
+  (NP last/JJ first/JJ lifo/NN)
+  (NP method/NN)
+  presumes/NNS
+  (NP asset/NN)
+  acquired/VBD
+  produced/VBN
+  (NP last/JJ sold/NN)
+  used/VBD
+  disposed/VBN
+  (NP first/JJ liquidation/NN)
+  (NP value/NN)
+  defined/VBD
+  (NP estimated/JJ amount/NN)
+  (NP money/NN)
+  could/MD
+  received/VB
+  quickly/RB
+  (NP sale/NN)
+  (NP asset/NN)
+  (NP company/NN)
+  longterm/VBP
+  (NP liability/NN)
+  refer/VBP
+  (NP category/JJ debt/NN)
+  presented/VBN
+  (NP balance/NN)
+  (NP sheet/NN)
+  (NP company/NN)
+  required/VBN
+  repaid/VBD
+  (NP upcoming/JJ twelve/JJ month/NN)
+  instead/RB
+  required/VBD
+  paid/VBN
+  back/RB
+  within/IN
+  (NP year/NN)
+  (NP mark/NN)
+  (NP market/NN)
+  used/VBD
+  measuring/VBG
+  (NP fair/JJ value/NN)
+  (NP account/NN)
+  could/MD
+  alter/VB
+  (NP time/NN)
+  like/IN
+  (NP liability/NN)
+  (NP asset/NN)
+  (NP apt/JJ definition/NN)
+  (NP market/NN)
+  (NP value/NN)
+  current/JJ
+  quoted/VBN
+  (NP price/NN)
+  (NP share/NN)
+  (NP common/JJ stock/NN)
+  (NP bond/NN)
+  bought/VBD
+  sold/VBN
+  (NP investor/NN)
+  (NP specific/JJ time/NN)
+  (NP good/JJ arent/NN)
+  sold/VBD
+  (NP accounting/JJ cycle/NN)
+  (NP price/NN)
+  good/JJ
+  registered/VBD
+  (NP form/JJ current/JJ asset/NN)
+  (NP continue/NN)
+  (NP feature/NN)
+  (NP balance/NN)
+  (NP sheet/NN)
+  (NP till/JJ time/NN)
+  sold/VBN
+  (NP minimum/JJ lease/JJ payment/NN)
+  (NP payment/NN)
+  (NP lease/JJ term/NN)
+  (NP lessee/NN)
+  required/VBN
+  make/VBP
+  excluding/VBG
+  (NP contingent/NN)
+  (NP rent/NN)
+  (NP cost/NN)
+  (NP service/NN)
+  (NP tax/NN)
+  paid/VBN
+  reimbursed/VBN
+  (NP lessor/NN)
+  together/RB
+  also/RB
+  referred/VBD
+  (NP noncontrolling/JJ interest/NN)
+  (NP business/NN)
+  (NP minority/NN)
+  (NP interest/NN)
+  (NP accounting/NN)
+  (NP concept/NN)
+  (NP deal/JJ part/NN)
+  (NP subsidiary/NN)
+  (NP corporation/NN)
+  (NP stock/NN)
+  owned/VBD
+  (NP parent/JJ corporation/JJ term/NN)
+  (NP net/JJ asset/NN)
+  (NP alternative/JJ term/NN)
+  (NP equity/NN)
+  (NP net/NN)
+  (NP book/NN)
+  (NP value/NN)
+  defined/VBN
+  (NP simple/JJ word/NN)
+  (NP net/NN)
+  (NP value/NN)
+  (NP asset/NN)
+  generally/RB
+  (NP field/NN)
+  accounting/VBG
+  (NP net/JJ realizable/JJ value/NN)
+  (NP technique/NN)
+  used/VBN
+  (NP calculate/NN)
+  (NP worth/JJ asset/NN)
+  (NP inventory/NN)
+  (NP net/JJ sale/NN)
+  (NP refer/NN)
+  (NP amount/NN)
+  (NP sale/NN)
+  engendered/VBD
+  (NP business/NN)
+  deducting/VBG
+  (NP return/NN)
+  (NP tax/NN)
+  like/IN
+  (NP vat/NN)
+  (NP allowance/NN)
+  damaged/VBN
+  missing/VBG
+  (NP good/JJ discount/NN)
+  allowed/VBD
+  (NP net/JJ worth/NN)
+  (NP difference/NN)
+  (NP company/NN)
+  (NP total/JJ asset/NN)
+  (NP liability/NN)
+  (NP nominal/JJ value/NN)
+  refers/NNS
+  stated/VBD
+  (NP value/NN)
+  issued/VBN
+  (NP security/NN)
+  remains/VBZ
+  permanent/JJ
+  compared/VBN
+  (NP market/NN)
+  (NP value/NN)
+  fluctuating/VBG
+  (NP nature/JJ factor/NN)
+  like/IN
+  (NP inflation/NN)
+  (NP international/JJ accounting/NN)
+  (NP standard/NN)
+  defines/VBZ
+  noncontrolling/VBG
+  (NP interest/NN)
+  (NP equity/NN)
+  (NP subsidiary/NN)
+  attributable/JJ
+  directly/RB
+  indirectly/RB
+  (NP parent/JJ noncurrent/JJ asset/NN)
+  (NP asset/NN)
+  include/VBP
+  (NP amount/NN)
+  expected/VBN
+  recovered/JJ
+  thanmonths/NNS
+  reporting/VBG
+  (NP period/NN)
+  (NP noncurrent/JJ liability/NN)
+  (NP liability/NN)
+  due/JJ
+  paid/VBN
+  withinmonths/NNS
+  (NP normal/JJ course/NN)
+  (NP business/NN)
+  since/IN
+  normal/JJ
+  costing/VBG
+  (NP make/NN)
+  (NP use/NN)
+  (NP standard/JJ overhead/NN)
+  (NP rate/NN)
+  instead/RB
+  (NP actual/JJ overhead/JJ rate/NN)
+  (NP method/NN)
+  used/VBN
+  determining/VBG
+  (NP product/NN)
+  (NP cost/NN)
+  (NP sudden/JJ increase/NN)
+  (NP cost/NN)
+  (NP balance/NN)
+  (NP sheet/NN)
+  refers/NNS
+  (NP asset/NN)
+  (NP debt/NN)
+  (NP financing/NN)
+  (NP activity/NN)
+  presented/VBD
+  (NP balance/NN)
+  (NP sheet/NN)
+  (NP entity/NN)
+  (NP expense/NN)
+  (NP revenue/NN)
+  (NP nature/NN)
+  since/IN
+  incurred/VBN
+  (NP daytoday/JJ operation/NN)
+  (NP business/NN)
+  incur/VBP
+  (NP noncurrent/JJ asset/NN)
+  operating/VBG
+  (NP income/NN)
+  (NP income/NN)
+  reported/VBD
+  (NP income/NN)
+  (NP statement/NN)
+  (NP company/NN)
+  taking/VBG
+  (NP account/NN)
+  (NP interest/NN)
+  (NP taxation/NN)
+  operating/VBG
+  (NP lease/NN)
+  basically/RB
+  (NP lease/JJ contract/NN)
+  allows/VBZ
+  use/VBP
+  (NP asset/NN)
+  (NP right/NN)
+  (NP similar/JJ asset/NN)
+  (NP ownership/NN)
+  conveyed/VBD
+  (NP variable/JJ overhead/JJ cost/NN)
+  constant/JJ
+  calculated/VBN
+  per/IN
+  (NP unit/NN)
+  (NP become/NN)
+  variable/JJ
+  totaled/VBD
+  (NP volume/NN)
+  (NP output/NN)
+  (NP seminal/JJ contributor/NN)
+  (NP field/NN)
+  (NP accounting/NN)
+  although/IN
+  (NP accounting/NN)
+  labeled/VBN
+  (NP discipline/JJ time/NN)
+  (NP par/JJ value/NN)
+  defined/VBD
+  (NP face/NN)
+  (NP value/NN)
+  stated/VBN
+  (NP value/NN)
+  (NP bond/NN)
+  (NP percentageofcompletion/NN)
+  (NP method/NN)
+  (NP accounting/NN)
+  based/VBN
+  (NP revenue/NN)
+  (NP recognition/NN)
+  (NP principle/NN)
+  provides/VBZ
+  framework/VBP
+  recognize/VB
+  (NP revenue/NN)
+  (NP expense/NN)
+  (NP account/NN)
+  (NP company/NN)
+  (NP help/NN)
+  (NP business/NN)
+  updating/VBG
+  (NP inventory/NN)
+  altering/VBG
+  (NP level/NN)
+  (NP order/NN)
+  placed/VBN
+  (NP sale/NN)
+  made/VBN
+  (NP perpetual/JJ inventory/NN)
+  (NP system/NN)
+  defined/VBD
+  keeping/VBG
+  (NP record/NN)
+  (NP stock/NN)
+  preparing/VBG
+  (NP balance/NN)
+  (NP sheet/NN)
+  (NP inherent/JJ part/NN)
+  (NP accounting/NN)
+  (NP procedure/NN)
+  (NP international/JJ accounting/NN)
+  (NP standard/NN)
+  defines/VBZ
+  (NP postemployment/JJ benefit/NN)
+  (NP employee/NN)
+  (NP benefit/NN)
+  (NP payable/JJ completion/NN)
+  (NP employment/NN)
+  one/CD
+  (NP form/NN)
+  (NP retirement/NN)
+  (NP pension/NN)
+  paid/VBN
+  (NP employee/NN)
+  (NP retirement/NN)
+  (NP year/NN)
+  pro/FW
+  (NP forma/NN)
+  (NP invoice/NN)
+  used/VBN
+  (NP various/JJ business/NN)
+  almost/RB
+  (NP industry/NN)
+  (NP process/NN)
+  costing/VBG
+  (NP trace/NN)
+  accumulates/NNS
+  direct/VBP
+  (NP cost/NN)
+  allocates/NNS
+  indirect/VBP
+  (NP cost/NN)
+  (NP incurred/JJ manufacturing/NN)
+  (NP process/NN)
+  (NP cost/NN)
+  (NP production/NN)
+  refers/NNS
+  (NP total/JJ sum/JJ money/NN)
+  needed/VBN
+  (NP production/NN)
+  (NP particular/JJ quantity/NN)
+  (NP output/NN)
+  (NP profit/NN)
+  (NP center/NN)
+  (NP division/NN)
+  within/IN
+  (NP entity/NN)
+  treated/VBN
+  (NP separate/JJ corporation/NN)
+  (NP meant/NN)
+  (NP profit/NN)
+  (NP distribution/NN)
+  (NP international/JJ accounting/NN)
+  (NP standard/NN)
+  defines/VBZ
+  (NP provision/NN)
+  (NP liability/NN)
+  uncertain/VBP
+  timing/VBG
+  (NP amount/NN)
+  public/JJ
+  oversight/RB
+  (NP board/NN)
+  created/VBD
+  yearby/RB
+  (NP aicpa/JJ usa/JJ acquisition/NN)
+  (NP accounting/NN)
+  also/RB
+  popularly/RB
+  known/VBN
+  purchasing/VBG
+  (NP method/NN)
+  (NP accounting/NN)
+  used/VBN
+  accounting/VBG
+  (NP standard/JJ accounting/NN)
+  (NP entity/NN)
+  preparing/VBG
+  (NP account/NN)
+  (NP acquisition/NN)
+  (NP merger/NN)
+  (NP subsidiary/NN)
+  usually/RB
+  purchased/VBN
+  (NP purchase/NN)
+  (NP cost/NN)
+  rather/RB
+  (NP historical/JJ cost/NN)
+  qualifying/VBG
+  (NP asset/NN)
+  (NP asset/NN)
+  necessarily/RB
+  take/VB
+  (NP substantial/JJ period/NN)
+  (NP time/NN)
+  get/VB
+  ready/JJ
+  intended/VBN
+  (NP use/NN)
+  (NP sale/NN)
+  (NP raw/JJ material/NN)
+  explained/VBD
+  (NP substance/NN)
+  (NP material/NN)
+  used/VBN
+  (NP manufacturing/NN)
+  (NP primary/JJ production/NN)
+  (NP good/JJ daily/JJ profit/NN)
+  also/RB
+  known/VBN
+  (NP paper/NN)
+  (NP profit/NN)
+  (NP common/JJ parlance/NN)
+  (NP amount/NN)
+  (NP company/NN)
+  (NP business/NN)
+  (NP gain/NN)
+  daily/RB
+  subtracting/VBG
+  (NP amount/NN)
+  invested/VBD
+  (NP business/NN)
+  (NP term/NN)
+  also/RB
+  (NP synonymous/JJ term/NN)
+  (NP bank/NN)
+  (NP reconciliation/NN)
+  (NP statement/NN)
+  refers/NNS
+  balancing/VBG
+  two/CD
+  (NP account/NN)
+  sake/VB
+  checking/VBG
+  (NP much/JJ amount/NN)
+  (NP actual/JJ money/NN)
+  spent/VBN
+  (NP redemption/NN)
+  (NP value/NN)
+  considered/VBN
+  (NP value/NN)
+  (NP company/NN)
+  purchase/VB
+  (NP security/NN)
+  (NP much/JJ time/NN)
+  get/VB
+  (NP matured/JJ accountancy/NN)
+  (NP residual/JJ value/NN)
+  also/RB
+  called/VBD
+  (NP salvage/NN)
+  (NP value/NN)
+  fully/RB
+  depreciated/VBD
+  (NP worth/JJ asset/NN)
+  considering/VBG
+  (NP financial/JJ aspect/NN)
+  (NP particular/JJ company/NN)
+  (NP store/NN)
+  necessary/JJ
+  take/VB
+  (NP consideration/NN)
+  (NP procedure/NN)
+  accounting/VBG
+  (NP imperative/JJ estimate/NN)
+  (NP value/NN)
+  (NP merchandise/NN)
+  (NP store/NN)
+  retained/VBD
+  earnings/NNS
+  (NP sum/JJ profit/NN)
+  retained/VBD
+  (NP company/NN)
+  since/IN
+  (NP inception/NN)
+  (NP salvage/NN)
+  (NP value/NN)
+  projected/VBN
+  (NP resale/JJ value/NN)
+  (NP asset/NN)
+  (NP close/JJ useful/JJ life/NN)
+  (NP sec/NN)
+  hold/VB
+  (NP power/NN)
+  licensing/VBG
+  regulating/VBG
+  (NP stock/NN)
+  (NP exchange/NN)
+  (NP company/NN)
+  whose/WP$
+  (NP security/NN)
+  traded/VBD
+  (NP dealer/NN)
+  (NP broker/NN)
+  carried/VBD
+  (NP trading/NN)
+  (NP share/NN)
+  (NP premium/JJ amount/NN)
+  received/VBD
+  (NP company/NN)
+  (NP face/NN)
+  (NP value/NN)
+  (NP share/NN)
+  (NP shareholder/NN)
+  (NP equity/NN)
+  (NP amount/NN)
+  show/VBP
+  (NP company/NN)
+  financed/VBN
+  (NP help/NN)
+  (NP common/JJ share/NN)
+  (NP preferred/JJ share/NN)
+  (NP statement/NN)
+  (NP cash/NN)
+  (NP flow/NN)
+  explained/VBD
+  one/CD
+  (NP financial/JJ report/NN)
+  required/VBD
+  disclosed/VBN
+  according/VBG
+  (NP ifrs/JJ u/JJ gaap/NN)
+  (NP statement/NN)
+  (NP change/NN)
+  (NP equity/NN)
+  explained/VBD
+  (NP statement/NN)
+  (NP change/NN)
+  (NP equity/NN)
+  (NP corporation/NN)
+  (NP feature/NN)
+  created/VBD
+  (NP partnership/NN)
+  (NP sole/JJ proprietorship/NN)
+  (NP corporation/NN)
+  (NP comprehensive/JJ income/NN)
+  (NP change/NN)
+  (NP equity/NN)
+  (NP business/NN)
+  (NP enterprise/NN)
+  (NP period/NN)
+  (NP transaction/NN)
+  (NP event/NN)
+  (NP circumstance/NN)
+  (NP nonowner/NN)
+  (NP source/NN)
+  (NP statement/NN)
+  (NP financial/JJ position/NN)
+  (NP new/JJ name/JJ balance/NN)
+  (NP sheet/NN)
+  used/VBN
+  (NP ifrs/JJ shareholder/NN)
+  (NP stockholder/NN)
+  (NP company/NN)
+  (NP organization/NN)
+  (NP individual/NN)
+  (NP another/DT organization/NN)
+  legally/RB
+  owns/VBZ
+  (NP partial/JJ full/JJ stock/NN)
+  (NP public/JJ private/JJ corporation/NN)
+  (NP straightline/NN)
+  (NP method/NN)
+  (NP depreciation/NN)
+  (NP popular/JJ simple/JJ method/JJ depreciation/NN)
+  (NP subsidiary/NN)
+  (NP entity/NN)
+  (NP entity/NN)
+  controlled/VBD
+  (NP another/DT entity/NN)
+  (NP temporal/JJ method/NN)
+  defined/VBD
+  method/JJ
+  translating/VBG
+  (NP foreign/JJ currency/NN)
+  use/IN
+  (NP exchange/NN)
+  (NP rate/NN)
+  based/VBN
+  (NP time/NN)
+  (NP acquisition/NN)
+  (NP asset/NN)
+  (NP liability/NN)
+  (NP transaction/NN)
+  (NP cost/NN)
+  (NP term/NN)
+  refers/NNS
+  cost/VBP
+  (NP incurred/JJ process/NN)
+  carrying/VBG
+  (NP transaction/NN)
+  (NP treasury/NN)
+  (NP share/NN)
+  (NP share/NN)
+  bought/VBD
+  back/RP
+  issuing/VBG
+  (NP company/NN)
+  reducing/VBG
+  (NP number/NN)
+  (NP share/NN)
+  (NP outstanding/JJ open/JJ market/NN)
+  also/RB
+  referred/VBD
+  also/RB
+  refer/VBP
+  (NP real/JJ cost/NN)
+  issuing/VBG
+  (NP bond/NN)
+  (NP unit/NN)
+  (NP production/NN)
+  (NP depreciation/NN)
+  (NP name/NN)
+  suggests/VBZ
+  (NP depreciation/NN)
+  (NP asset/NN)
+  based/VBN
+  (NP number/NN)
+  (NP unit/NN)
+  produce/VBP
+  rather/RB
+  (NP number/NN)
+  (NP year/NN)
+  (NP useful/JJ life/NN)
+  left/VBD
+  (NP unrealized/JJ loss/NN)
+  exists/VBZ
+  (NP value/NN)
+  (NP stock/NN)
+  (NP decrease/NN)
+  purchased/VBD
+  (NP investor/NN)
+  (NP heshe/NN)
+  yet/RB
+  sold/VBN
+  usually/RB
+  occurs/VBZ
+  (NP case/NN)
+  (NP borrower/NN)
+  declared/VBD
+  (NP bankrupt/JJ fails/JJ meet/JJ term/NN)
+  (NP repayment/NN)
+  (NP loan/NN)
+  (NP debt/NN)
+  (NP term/NN)
+  confined/VBD
+  u/JJ
+  therefore/RB
+  generally/RB
+  abbreviated/VBN
+  (NP u/JJ gaap/NN)
+  (NP main/JJ point/NN)
+  (NP comparison/NN)
+  (NP u/JJ gaap/NN)
+  (NP ifrs/NN)
+  include/VBP
+  (NP work/NN)
+  (NP progress/JJ part/NN)
+  (NP inventory/NN)
+  currently/RB
+  worked/VBN
+  yet/RP
+  (NP production/NN)
+  (NP process/NN)
+  accelerated/VBD
+  (NP buy/NN)
+  back/RB
+  also/RB
+  called/VBN
+  accelerated/VBN
+  (NP share/NN)
+  (NP repurchase/NN)
+  (NP gimmick/NN)
+  used/VBN
+  (NP company/NN)
+  (NP desire/NN)
+  (NP way/NN)
+  generate/VB
+  (NP cash/NN)
+  (NP shareholder/NN)
+  without/IN
+  going/VBG
+  (NP formality/JJ traditional/JJ buyback/NN)
+  (NP program/NN)
+  without/IN
+  throwing/VBG
+  (NP balance/NN)
+  (NP sheet/NN)
+  (NP kilter/JJ example/NN)
+  (NP company/NN)
+  traded/VBD
+  sold/VBN
+  (NP subject/JJ matter/NN)
+  (NP sale/NN)
+  mean/VBP
+  (NP part/NN)
+  (NP sale/NN)
+  (NP acquirer/NN)
+  either/CC
+  (NP reject/JJ purchase/NN)
+  accept/VBD
+  placing/VBG
+  (NP money/NN)
+  (NP seller/NN)
+  (NP account/NN)
+  (NP bankruptcy/NN)
+  (NP act/NN)
+  also/RB
+  called/VBD
+  (NP insolvency/NN)
+  (NP act/NN)
+  defined/VBD
+  decree/JJ
+  according/VBG
+  (NP lawful/JJ practice/NN)
+  (NP bankruptcy/NN)
+  (NP law/NN)
+  (NP curb/NN)
+  (NP menace/NN)
+  especially/RB
+  (NP canada/JJ main/JJ figure/NN)
+  played/VBD
+  (NP positive/JJ productive/JJ role/NN)
+  (NP time/NN)
+  (NP scottish/JJ enlightenment/JJ term/NN)
+  (NP adhocracy/NN)
+  commonly/RB
+  defined/VBD
+  (NP form/JJ organization/NN)
+  operates/VBZ
+  differently/RB
+  (NP normal/JJ bureaucratic/JJ line/NN)
+  explore/IN
+  (NP opportunity/NN)
+  resolve/VBP
+  (NP issue/NN)
+  get/VBP
+  better/JJR
+  (NP outcome/NN)
+  (NP finance/NN)
+  (NP arbitrage/NN)
+  refers/NNS
+  (NP practice/NN)
+  taking/VBG
+  (NP advantage/NN)
+  (NP difference/NN)
+  (NP price/NN)
+  two/CD
+  (NP market/NN)
+  striking/VBG
+  (NP arrangement/NN)
+  matching/VBG
+  (NP deal/NN)
+  capitalize/VB
+  upon/IN
+  (NP difference/NN)
+  (NP profit/NN)
+  (NP difference/NN)
+  (NP market/NN)
+  (NP price/NN)
+  (NP different/JJ company/NN)
+  established/VBD
+  (NP asset/NN)
+  (NP reconstruction/NN)
+  restructuring/VBG
+  (NP authority/NN)
+  (NP organization/NN)
+  (NP several/JJ country/NN)
+  (NP balance/NN)
+  (NP theory/NN)
+  might/MD
+  two/CD
+  type/VB
+  (NP credit/NN)
+  (NP balance/NN)
+  (NP theory/JJ debit/NN)
+  (NP balance/NN)
+  (NP theory/NN)
+  (NP bare/JJ trust/NN)
+  defined/VBN
+  (NP basic/JJ trust/NN)
+  (NP beneficiary/JJ complete/JJ right/NN)
+  (NP asset/NN)
+  within/IN
+  (NP trust/NN)
+  along/IN
+  (NP income/NN)
+  generated/VBN
+  (NP asset/NN)
+  (NP barter/NN)
+  (NP system/NN)
+  generally/RB
+  bilateral/JJ
+  might/MD
+  also/RB
+  multilateral/VB
+  large/JJ
+  exists/NNS
+  parallel/VBP
+  (NP monetary/JJ system/NN)
+  developed/VBD
+  (NP country/NN)
+  although/IN
+  (NP limited/JJ extent/NN)
+  (NP various/JJ bank/NN)
+  (NP world/NN)
+  given/VBN
+  (NP benchmark/JJ rate/NN)
+  (NP interest/NN)
+  (NP trust/NN)
+  (NP law/NN)
+  known/VBN
+  (NP cestui/NN)
+  (NP que/NN)
+  (NP use/NN)
+  (NP beneficiary/JJ natural/JJ person/NN)
+  (NP entity/NN)
+  (NP legal/JJ stature/NN)
+  entitled/VBN
+  (NP receive/JJ money/NN)
+  (NP assistance/NN)
+  (NP another/DT person/NN)
+  known/VBN
+  (NP benefactor/NN)
+  (NP bond/NN)
+  refers/NNS
+  (NP debt/NN)
+  (NP investment/NN)
+  (NP wherein/NN)
+  (NP investor/NN)
+  lends/VBZ
+  (NP money/NN)
+  (NP business/NN)
+  (NP company/NN)
+  borrows/VBZ
+  (NP fund/NN)
+  (NP specific/JJ time/NN)
+  (NP period/NN)
+  fixed/VBN
+  (NP interest/NN)
+  (NP rate/NN)
+  (NP bribery/NN)
+  defined/VBD
+  (NP gift/NN)
+  granted/VBN
+  (NP individual/JJ community/NN)
+  (NP organization/NN)
+  (NP person/NN)
+  granted/VBD
+  (NP gift/NN)
+  (NP ask/NN)
+  (NP favor/NN)
+  basically/RB
+  (NP bridge/JJ loan/NN)
+  (NP interim/JJ financing/NN)
+  (NP strategy/NN)
+  based/VBN
+  (NP loan/NN)
+  (NP offer/NN)
+  financing/VBG
+  (NP individual/JJ business/NN)
+  (NP budget/NN)
+  (NP constraint/NN)
+  refers/NNS
+  combination/VBP
+  (NP good/JJ service/NN)
+  purchased/VBD
+  (NP consumer/NN)
+  (NP income/NN)
+  given/VBN
+  (NP price/NN)
+  (NP budgetary/JJ slack/NN)
+  (NP allowance/NN)
+  set/VBN
+  (NP extra/JJ expenditure/NN)
+  (NP entity/NN)
+  going/VBG
+  incur/JJ
+  fore/RB
+  (NP coming/JJ period/NN)
+  (NP burn/NN)
+  (NP rate/NN)
+  (NP term/NN)
+  used/VBN
+  (NP synonym/JJ cash/NN)
+  (NP flow/NN)
+  (NP negative/JJ opposite/JJ direction/NN)
+  (NP business/NN)
+  (NP plan/NN)
+  (NP decision/NN)
+  making/VBG
+  (NP tool/NN)
+  delineated/VBD
+  (NP formal/JJ statement/NN)
+  (NP set/NN)
+  (NP business/NN)
+  (NP goal/NN)
+  (NP reason/NN)
+  (NP achievable/JJ plan/NN)
+  achieving/VBG
+  (NP goal/NN)
+  (NP process/NN)
+  assessing/VBG
+  redesigning/VBG
+  (NP flow/JJ work/NN)
+  within/IN
+  (NP business/NN)
+  (NP business/NN)
+  (NP known/NN)
+  (NP business/NN)
+  (NP process/NN)
+  reengineering/VBG
+  (NP term/NN)
+  (NP capital/NN)
+  (NP account/NN)
+  used/VBN
+  frequently/RB
+  (NP field/NN)
+  macroeconomics/NNS
+  (NP international/JJ finance/NN)
+  (NP monetary/JJ matter/NN)
+  say/VBP
+  (NP investment/NN)
+  made/VBD
+  realizing/VBG
+  (NP financial/JJ profit/NN)
+  basically/RB
+  (NP unit/NN)
+  (NP account/NN)
+  subjected/VBD
+  testing/VBG
+  (NP annual/JJ impairment/NN)
+  exists/NNS
+  banking/VBG
+  (NP system/NN)
+  (NP account/JJ transaction/NN)
+  (NP element/NN)
+  fully/RB
+  (NP satisfied/JJ cash/NN)
+  (NP payment/NN)
+  (NP delivery/NN)
+  take/VB
+  (NP place/NN)
+  (NP time/NN)
+  (NP financier/NN)
+  looking/VBG
+  (NP low/JJ jeopardy/NN)
+  (NP investment/NN)
+  suppose/VBD
+  held/VBN
+  (NP development/NN)
+  (NP numerous/JJ cd/NN)
+  would/MD
+  yield/VB
+  (NP full/JJ quantity/NN)
+  (NP innovative/JJ speculation/NN)
+  even/RB
+  (NP organization/NN)
+  delivering/VBG
+  (NP certificate/JJ deposit/NN)
+  (NP breakdown/NN)
+  typical/JJ
+  one/CD
+  added/VBD
+  frequently/RB
+  (NP major/JJ employment/NN)
+  (NP contract/NN)
+  (NP firm/NN)
+  (NP company/NN)
+  basically/RB
+  (NP official/JJ term/NN)
+  cofinancing/VBG
+  concerned/VBN
+  designing/VBG
+  (NP certain/JJ arrangement/NN)
+  according/VBG
+  one/CD
+  (NP party/NN)
+  (NP collaborate/NN)
+  (NP contribute/NN)
+  towards/NNS
+  funding/VBG
+  (NP collateral/NN)
+  refers/NNS
+  (NP asset/NN)
+  (NP property/NN)
+  presented/VBN
+  (NP secure/NN)
+  (NP loan/NN)
+  (NP credit/NN)
+  (NP collateralized/JJ mortgage/NN)
+  (NP obligation/NN)
+  basically/RB
+  (NP kind/NN)
+  (NP security/NN)
+  (NP mortgage/NN)
+  backing/VBG
+  establishes/NNS
+  separated/VBD
+  (NP pool/JJ passthrough/NN)
+  (NP rate/NN)
+  (NP multiple/JJ bondholder/NN)
+  (NP class/NN)
+  (NP variety/NN)
+  (NP maturity/NN)
+  known/VBN
+  (NP tranche/NN)
+  (NP collection/NN)
+  (NP agency/NN)
+  (NP business/NN)
+  oriented/VBD
+  (NP agency/NN)
+  concerned/VBN
+  (NP collection/NN)
+  (NP money/NN)
+  (NP debt/NN)
+  (NP lender/NN)
+  (NP ad/NN)
+  (NP company/NN)
+  (NP commitment/NN)
+  (NP letter/NN)
+  (NP formal/JJ letter/NN)
+  issued/VBD
+  (NP lending/JJ authority/NN)
+  (NP order/NN)
+  (NP inform/NN)
+  (NP loan/NN)
+  (NP applicant/JJ term/NN)
+  (NP condition/NN)
+  getting/VBG
+  (NP loan/NN)
+  (NP credit/NN)
+  (NP commodity/NN)
+  (NP paper/NN)
+  defined/VBD
+  (NP loan/NN)
+  (NP advance/NN)
+  issued/VBD
+  borrower/JJR
+  lender/RBR
+  (NP part/NN)
+  (NP raw/JJ material/NN)
+  owned/VBD
+  borrower/JJR
+  (NP serve/JJ collateral/NN)
+  (NP body/NN)
+  people/NNS
+  (NP involvement/JJ commodity/NN)
+  (NP product/NN)
+  (NP spread/JJ purchase/NN)
+  given/VBN
+  (NP tangible/JJ intangible/JJ commodity/NN)
+  (NP result/NN)
+  (NP purchase/NN)
+  (NP subsequent/JJ sale/NN)
+  (NP product/NN)
+  (NP commodity/NN)
+  (NP product/NN)
+  (NP spread/NN)
+  (NP conversion/NN)
+  (NP cost/NN)
+  defined/VBD
+  (NP sum/JJ cost/NN)
+  incurred/VBD
+  carrying/VBG
+  (NP conversion/NN)
+  (NP article/NN)
+  intended/VBN
+  (NP output/NN)
+  (NP bond/NN)
+  (NP valuingwhich/NN)
+  (NP convertible/JJ intocommon/JJ stock/NN)
+  (NP share/NN)
+  (NP ofeach/NN)
+  sell/VB
+  (NP aconversion/NN)
+  (NP premium/NN)
+  of1500/CD
+  (NP corporate/JJ finance/NN)
+  (NP specialist/NN)
+  (NP assist/JJ firm/JJ evaluation/NN)
+  operating/VBG
+  data/NNS
+  (NP industry/NN)
+  (NP indicator/NN)
+  (NP addition/NN)
+  providing/VBG
+  (NP advice/JJ management/NN)
+  (NP budget/NN)
+  (NP adjustment/NN)
+  (NP decision/NN)
+  regarding/VBG
+  (NP general/JJ investment/NN)
+  (NP cost/NN)
+  (NP benefit/NN)
+  (NP analysis/NN)
+  refers/NNS
+  (NP systematic/JJ process/NN)
+  used/VBN
+  (NP calculate/NN)
+  (NP compare/NN)
+  (NP cost/NN)
+  (NP benefit/NN)
+  (NP project/NN)
+  (NP decision/NN)
+  (NP government/NN)
+  (NP policy/NN)
+  unlike/IN
+  (NP cost/NN)
+  (NP benefit/NN)
+  (NP analysis/NN)
+  (NP cost/NN)
+  (NP effectiveness/NN)
+  (NP analysis/NN)
+  (NP assign/NN)
+  (NP monetary/JJ value/NN)
+  measuring/VBG
+  (NP effect/NN)
+  (NP covenant/NN)
+  generally/RB
+  refers/NNS
+  promise/VBP
+  (NP agreement/NN)
+  (NP formal/JJ debt/NN)
+  (NP indenture/NN)
+  (NP certain/JJ activity/NN)
+  conducted/VBN
+  sanctioned/VBD
+  (NP cooperative/JJ union/NN)
+  enables/NNS
+  citizen/VBP
+  get/VB
+  (NP credit/NN)
+  may/MD
+  also/RB
+  defined/VB
+  (NP sudden/JJ restriction/NN)
+  tightening/VBG
+  (NP term/NN)
+  (NP condition/NN)
+  required/VBN
+  obtaining/VBG
+  (NP loan/NN)
+  (NP bank/NN)
+  (NP credit/NN)
+  (NP limit/NN)
+  defined/VBD
+  (NP maximum/JJ amount/NN)
+  (NP credit/NN)
+  (NP withdrawn/NN)
+  (NP debt/NN)
+  (NP financial/JJ institution/NN)
+  (NP bank/NN)
+  (NP common/JJ form/NN)
+  (NP credit/NN)
+  (NP line/NN)
+  (NP expansion/NN)
+  (NP restriction/NN)
+  include/VBP
+  (NP loan/NN)
+  (NP demand/NN)
+  (NP protection/NN)
+  (NP overdraft/NN)
+  (NP specific/JJ purpose/JJ export/NN)
+  packing/VBG
+  (NP credit/NN)
+  (NP many/JJ attribute/JJ different/JJ kind/NN)
+  (NP rating/NN)
+  included/VBD
+  regard/JJ
+  known/VBN
+  (NP cumulative/JJ preferred/JJ stock/NN)
+  (NP debenture/NN)
+  (NP instrument/NN)
+  backed/VBD
+  (NP credibility/NN)
+  (NP issuer/NN)
+  (NP market/NN)
+  (NP physical/JJ asset/NN)
+  (NP deflation/NN)
+  may/MD
+  also/RB
+  caused/VBD
+  (NP decrease/JJ spending/NN)
+  includes/VBZ
+  (NP government/NN)
+  (NP private/JJ sector/NN)
+  (NP spending/NN)
+  (NP discretionary/JJ trust/NN)
+  provides/VBZ
+  (NP trustee/NN)
+  (NP power/NN)
+  decide/IN
+  (NP come/JJ conclusion/NN)
+  (NP regard/NN)
+  (NP beneficiary/NN)
+  would/MD
+  receive/VB
+  (NP fund/NN)
+  (NP amount/NN)
+  (NP fund/NN)
+  (NP heshe/NN)
+  would/MD
+  get/VB
+  (NP process/NN)
+  carried/VBN
+  either/CC
+  (NP social/JJ financial/JJ goal/NN)
+  (NP bid/NN)
+  made/VBD
+  first/RB
+  considered/VBN
+  winning/VBG
+  (NP bid/NN)
+  transforms/NNS
+  (NP sale/NN)
+  (NP assumption/NN)
+  (NP bidding/NN)
+  (NP price/NN)
+  (NP reserve/NN)
+  (NP price/NN)
+  (NP escrow/NN)
+  basically/RB
+  (NP type/JJ arrangement/NN)
+  made/VBN
+  per/IN
+  (NP provision/NN)
+  laid/VBN
+  (NP contract/NN)
+  (NP party/NN)
+  transacting/VBG
+  wherein/JJ
+  independent/JJ
+  3rd/CD
+  (NP party/NN)
+  (NP get/NN)
+  disburses/VBZ
+  (NP fund/NN)
+  (NP orand/NN)
+  (NP document/NN)
+  (NP behalf/NN)
+  (NP party/NN)
+  transacting/VBG
+  disbursement/JJ
+  timing/VBG
+  3rd/CD
+  (NP party/NN)
+  depending/VBG
+  fulfilling/VBG
+  (NP condition/NN)
+  listed/VBN
+  (NP contract/NN)
+  (NP party/NN)
+  transacting/VBG
+  (NP exploration/NN)
+  (NP expenditure/NN)
+  comprises/VBZ
+  (NP expenditure/NN)
+  excluded/VBD
+  (NP expenditure/NN)
+  incurred/VBN
+  (NP taxpayer/JJ exploration/NN)
+  (NP petroleum/NN)
+  (NP eligible/JJ recovery/NN)
+  (NP exploration/NN)
+  (NP area/NN)
+  (NP relation/NN)
+  (NP petroleum/NN)
+  (NP project/NN)
+  (NP balance/NN)
+  (NP purchase/NN)
+  (NP price/NN)
+  along/IN
+  (NP net/JJ factor/NN)
+  (NP discount/NN)
+  (NP fee/NN)
+  (NP charge/NN)
+  paid/VBN
+  upon/IN
+  (NP collection/NN)
+  moreover/FW
+  (NP money/NN)
+  (NP surrogate/NN)
+  (NP way/NN)
+  (NP instrument/JJ capital/NN)
+  (NP account/NN)
+  (NP market/NN)
+  created/VBD
+  transacting/VBG
+  (NP trading/NN)
+  (NP asset/NN)
+  (NP liability/NN)
+  (NP risk/NN)
+  involves/VBZ
+  planning/VBG
+  organizing/VBG
+  directing/VBG
+  controlling/VBG
+  (NP financial/JJ activity/NN)
+  (NP business/NN)
+  (NP firm/NN)
+  like/IN
+  (NP procurement/JJ utilization/NN)
+  (NP fund/NN)
+  (NP business/NN)
+  (NP firm/NN)
+  (NP definition/NN)
+  franchise/RB
+  (NP form/NN)
+  (NP business/NN)
+  (NP organization/NN)
+  (NP firm/NN)
+  already/RB
+  (NP successful/JJ good/JJ product/NN)
+  (NP service/NN)
+  called/VBN
+  (NP franchisor/NN)
+  (NP get/NN)
+  (NP contract/NN)
+  based/VBN
+  (NP relationship/NN)
+  (NP another/DT business/NN)
+  called/VBD
+  (NP franchisee/NN)
+  operates/NNS
+  name/VBP
+  (NP franchisor/JJ fee/NN)
+  (NP franchisee/NN)
+  may/MD
+  operate/VB
+  franchisors/NNS
+  name/VBP
+  (NP carry/JJ separate/JJ business/NN)
+  within/IN
+  (NP perimeter/NN)
+  set/VBN
+  (NP franchisor/NN)
+  actually/RB
+  (NP tricky/JJ unlawful/JJ way/NN)
+  obtain/VB
+  (NP something/NN)
+  (NP term/NN)
+  (NP free/JJ price/NN)
+  (NP system/NN)
+  refers/VBZ
+  (NP economic/JJ system/NN)
+  (NP price/NN)
+  decided/VBD
+  (NP exchange/NN)
+  (NP demand/NN)
+  (NP supply/NN)
+  (NP price/NN)
+  resulting/VBG
+  taken/VBN
+  (NP signal/NN)
+  (NP communicated/JJ consumer/NN)
+  (NP producer/NN)
+  (NP help/NN)
+  guiding/VBG
+  (NP production/NN)
+  (NP distribution/NN)
+  (NP resource/NN)
+  (NP process/NN)
+  withholding/VBG
+  (NP remittance/NN)
+  (NP order/NN)
+  (NP court/NN)
+  known/VBN
+  (NP wage/NN)
+  (NP garnishment/NN)
+  (NP gemckinsey/NN)
+  (NP matrix/JJ form/NN)
+  (NP analysis/NN)
+  using/VBG
+  (NP portfolio/NN)
+  (NP outlay/NN)
+  (NP strategic/JJ unit/NN)
+  (NP business/NN)
+  (NP position/NN)
+  (NP sbu/NN)
+  (NP industry/NN)
+  (NP golden/JJ parachute/NN)
+  provided/VBD
+  mostly/RB
+  (NP executive/JJ employee/NN)
+  (NP benefit/NN)
+  (NP significant/JJ noteworthy/JJ word/NN)
+  (NP grace/NN)
+  (NP period/NN)
+  (NP extension/NN)
+  (NP period/NN)
+  provided/VBD
+  borrower/JJR
+  (NP good/JJ grey/NN)
+  (NP market/NN)
+  (NP similar/JJ term/NN)
+  (NP black/JJ market/NN)
+  (NP actual/JJ definition/NN)
+  (NP gross/JJ domestic/JJ product/NN)
+  given/VBN
+  (NP financial/JJ value/NN)
+  finished/VBD
+  (NP good/JJ service/NN)
+  generated/VBD
+  within/IN
+  (NP nation/NN)
+  (NP border/NN)
+  (NP certain/JJ time/NN)
+  (NP period/NN)
+  though/IN
+  gdp/JJ
+  generally/RB
+  evaluated/VBN
+  (NP yearly/JJ basis/NN)
+  explained/VBD
+  (NP investopedia/JJ gross/JJ national/JJ product/NN)
+  refers/NNS
+  quantification/VBP
+  (NP economic/JJ performance/NN)
+  (NP country/NN)
+  hedge/VBP
+  generally/RB
+  (NP investment/NN)
+  (NP position/NN)
+  projected/VBN
+  make/VBP
+  (NP potential/JJ loss/NN)
+  might/MD
+  incurred/VB
+  (NP cohort/NN)
+  (NP investment/NN)
+  (NP hibor/NN)
+  actually/RB
+  (NP rate/NN)
+  (NP bank/NN)
+  hong/IN
+  (NP kong/JJ deal/NN)
+  (NP inter/JJ bank/NN)
+  (NP market/NN)
+  (NP bank/NN)
+  (NP loan/NN)
+  given/VBN
+  (NP company/NN)
+  already/RB
+  (NP huge/JJ debt/NN)
+  (NP high/JJ leveraged/JJ transaction/NN)
+  explained/VBD
+  investopedia/JJ
+  essential/JJ
+  holding/VBG
+  (NP company/NN)
+  (NP minimum/JJ ofof/NN)
+  voting/VBG
+  (NP stock/NN)
+  obtain/VB
+  (NP tax/NN)
+  (NP consolidation/NN)
+  (NP benefit/NN)
+  like/IN
+  (NP taxfree/JJ dividend/NN)
+  said/VBD
+  (NP horizontal/JJ integration/NN)
+  refers/NNS
+  control/VBP
+  (NP ownership/NN)
+  (NP hostile/JJ takeover/NN)
+  take/VB
+  (NP place/NN)
+  (NP company/NN)
+  taken/VBN
+  without/IN
+  (NP choice/NN)
+  (NP management/NN)
+  especially/RB
+  (NP director/NN)
+  (NP human/JJ resource/NN)
+  (NP management/NN)
+  important/JJ
+  (NP every/DT company/NN)
+  (NP help/NN)
+  organizing/VBG
+  (NP recruitment/JJ process/NN)
+  within/IN
+  (NP company/NN)
+  (NP human/JJ resource/NN)
+  (NP collection/NN)
+  (NP individual/JJ work/NN)
+  (NP organization/NN)
+  (NP form/NN)
+  (NP workforce/NN)
+  (NP hyperinflation/NN)
+  (NP economy/NN)
+  (NP result/NN)
+  (NP decrease/NN)
+  (NP value/NN)
+  (NP money/NN)
+  (NP demand/NN)
+  (NP supply/NN)
+  formula/JJ
+  loses/VBZ
+  (NP original/JJ shape/NN)
+  (NP many/JJ benefit/NN)
+  (NP incorporation/NN)
+  (NP owner/NN)
+  (NP business/NN)
+  incoterms/NNS
+  (NP term/NN)
+  used/VBN
+  (NP international/JJ contract/NN)
+  published/VBN
+  (NP international/JJ chamber/NN)
+  (NP commerce/NN)
+  (NP inflation/NN)
+  (NP rise/NN)
+  (NP price/NN)
+  (NP product/NN)
+  (NP general/JJ consumer/NN)
+  (NP turn/NN)
+  (NP affect/JJ cost/NN)
+  (NP living/NN)
+  (NP normal/JJ consumer/NN)
+  however/RB
+  ipo/RB
+  also/RB
+  offered/VBN
+  (NP large/JJ private/JJ company/NN)
+  (NP wish/JJ trade/NN)
+  publicly/RB
+  inside/IN
+  (NP information/NN)
+  (NP material/NN)
+  (NP information/NN)
+  regarding/VBG
+  (NP entity/NN)
+  (NP board/NN)
+  (NP director/NN)
+  (NP management/NN)
+  (NP orand/NN)
+  (NP employee/NN)
+  (NP public/JJ aware/JJ imf/NN)
+  (NP abbreviation/NN)
+  (NP international/JJ monetary/JJ fund/NN)
+  largest/JJS
+  (NP financial/JJ economic/JJ organization/NN)
+  (NP world/NN)
+  (NP job/NN)
+  (NP analysis/NN)
+  (NP process/NN)
+  used/VBN
+  (NP collect/JJ information/NN)
+  relating/VBG
+  (NP responsibility/NN)
+  (NP duty/NN)
+  (NP skill/NN)
+  set/VBN
+  (NP conclusion/NN)
+  (NP work/NN)
+  (NP environment/NN)
+  given/VBN
+  (NP job/NN)
+  (NP joint/JJ stock/NN)
+  (NP company/NN)
+  (NP combination/NN)
+  (NP partnership/NN)
+  (NP corporation/NN)
+  moreover/RB
+  kickback/VB
+  (NP bribery/NN)
+  (NP impact/NN)
+  (NP welfare/NN)
+  (NP system/NN)
+  impact/VB
+  (NP overall/JJ economy/NN)
+  (NP labor/NN)
+  (NP theory/JJ value/NN)
+  different/JJ
+  accepted/VBD
+  (NP theory/JJ value/NN)
+  (NP state/NN)
+  (NP value/NN)
+  (NP commodity/NN)
+  (NP relation/NN)
+  (NP labor/NN)
+  required/VBN
+  obtaining/VBG
+  producing/VBG
+  (NP commodity/NN)
+  (NP related/JJ factor/NN)
+  (NP production/NN)
+  (NP person/NN)
+  lending/VBG
+  (NP property/NN)
+  (NP making/NN)
+  (NP agreement/NN)
+  (NP black/JJ white/JJ lessee/NN)
+  (NP lessor/NN)
+  defined/VBD
+  (NP owner/NN)
+  (NP property/NN)
+  (NP subject/JJ matter/NN)
+  leased/VBN
+  (NP agreement/NN)
+  (NP case/NN)
+  (NP buyer/NN)
+  unable/JJ
+  make/VB
+  (NP payment/NN)
+  (NP time/NN)
+  (NP purchase/NN)
+  required/VBD
+  (NP bank/NN)
+  (NP cover/NN)
+  full/JJ
+  pending/VBG
+  (NP amount/NN)
+  (NP payment/NN)
+  (NP life/NN)
+  (NP annuity/NN)
+  based/VBN
+  (NP predetermined/JJ amount/NN)
+  (NP annuitant/JJ wish/JJ pay/NN)
+  periodically/RB
+  (NP till/JJ retirement/NN)
+  (NP day/NN)
+  according/VBG
+  (NP definition/NN)
+  limited/VBD
+  (NP liability/NN)
+  (NP company/NN)
+  (NP corporate/JJ structure/NN)
+  (NP shareholder/NN)
+  (NP company/NN)
+  limited/VBD
+  (NP liability/NN)
+  (NP company/NN)
+  (NP action/NN)
+  limited/VBD
+  (NP liability/NN)
+  (NP partnership/NN)
+  basically/RB
+  (NP new/JJ kind/NN)
+  (NP corporate/JJ framework/NN)
+  combine/VBP
+  (NP flexibility/NN)
+  involved/VBN
+  (NP partnership/NN)
+  (NP benefit/NN)
+  (NP limited/JJ liability/NN)
+  (NP entity/NN)
+  (NP compliance/NN)
+  (NP price/NN)
+  (NP low/JJ management/NN)
+  (NP discussion/NN)
+  (NP analysis/NN)
+  basically/RB
+  (NP business/NN)
+  related/VBN
+  (NP information/NN)
+  mandated/VBN
+  (NP security/NN)
+  (NP exchange/NN)
+  (NP commission/NN)
+  must/MD
+  also/RB
+  come/VB
+  withyears/NNS
+  (NP financial/JJ statement/NN)
+  audited/VBD
+  (NP marginal/JJ utility/NN)
+  (NP concept/NN)
+  according/VBG
+  (NP customer/NN)
+  provided/VBD
+  (NP sense/NN)
+  (NP satisfaction/NN)
+  (NP gain/NN)
+  received/VBD
+  (NP consumer/NN)
+  getting/VBG
+  (NP good/JJ service/NN)
+  one/CD
+  (NP unit/NN)
+  (NP market/NN)
+  (NP economy/NN)
+  (NP decision/NN)
+  related/VBN
+  (NP production/NN)
+  (NP investment/NN)
+  (NP distribution/NN)
+  (NP dependent/JJ demand/NN)
+  (NP supply/NN)
+  (NP free/JJ price/NN)
+  (NP system/NN)
+  (NP free/JJ price/NN)
+  (NP mechanism/NN)
+  used/VBD
+  (NP determining/JJ price/NN)
+  (NP good/JJ service/NN)
+  (NP simple/JJ word/NN)
+  explained/VBD
+  (NP end/JJ security/NN)
+  (NP life/NN)
+  (NP microcredit/NN)
+  (NP scheme/NN)
+  introduced/VBD
+  (NP benefit/NN)
+  (NP small/JJ level/NN)
+  (NP borrower/NN)
+  thus/RB
+  general/JJ
+  microeconomics/NNS
+  pay/VBP
+  (NP attention/NN)
+  (NP pattern/JJ demand/NN)
+  (NP supply/NN)
+  determines/NNS
+  (NP output/NN)
+  (NP price/NN)
+  (NP different/JJ market/NN)
+  like/IN
+  (NP unemployed/JJ low/JJ income/NN)
+  (NP group/NN)
+  (NP economic/JJ system/NN)
+  exhibit/RBR
+  (NP characteristic/JJ market/NN)
+  (NP economy/NN)
+  planned/VBD
+  (NP economy/NN)
+  (NP money/NN)
+  (NP laundering/NN)
+  considered/VBN
+  (NP serious/JJ crime/NN)
+  (NP security/NN)
+  (NP money/NN)
+  (NP market/NN)
+  incorporates/VBZ
+  (NP certificate/JJ deposit/NN)
+  (NP negotiable/JJ u/JJ monopoly/NN)
+  (NP situation/NN)
+  wherein/WRB
+  (NP single/JJ entity/NN)
+  owns/VBZ
+  either/CC
+  nearly/RB
+  (NP market/NN)
+  (NP particular/JJ kind/NN)
+  (NP service/NN)
+  (NP product/NN)
+  (NP mortgage/NN)
+  refers/NNS
+  lien/VBP
+  (NP loan/NN)
+  (NP property/NN)
+  supposed/VBD
+  paid/VBN
+  (NP specific/JJ time/NN)
+  (NP period/NN)
+  (NP negotiable/JJ instrument/JJ document/NN)
+  provides/VBZ
+  (NP guarantee/JJ payment/NN)
+  (NP specific/JJ amount/NN)
+  (NP money/NN)
+  (NP noncumulative/JJ preferred/JJ stock/NN)
+  refers/NNS
+  preferred/VBD
+  (NP stock/NN)
+  (NP share/NN)
+  usually/RB
+  (NP dividend/NN)
+  starting/VBG
+  (NP every/DT year/NN)
+  (NP shoringis/NN)
+  (NP type/NN)
+  outsourcing/VBG
+  (NP company/NN)
+  outsources/VBZ
+  (NP function/NN)
+  done/VBN
+  (NP another/DT country/NN)
+  oligopoly/VBZ
+  refers/NNS
+  (NP market/NN)
+  (NP structure/NN)
+  hold/VBP
+  held/VBN
+  (NP hand/NN)
+  (NP firm/NN)
+  (NP example/NN)
+  (NP book/NN)
+  (NP several/JJ different/JJ story/NN)
+  (NP different/JJ author/NN)
+  called/VBN
+  omnibus/RB
+  (NP simple/JJ word/NN)
+  (NP overdraft/NN)
+  allows/VBZ
+  (NP individual/JJ continue/NN)
+  withdrawal/VBD
+  even/RB
+  zero/CD
+  (NP fund/NN)
+  (NP participative/JJ management/NN)
+  decentralized/VBD
+  (NP form/NN)
+  (NP management/NN)
+  basically/RB
+  (NP pension/NN)
+  (NP parachute/NN)
+  (NP pension/NN)
+  (NP agreement/NN)
+  (NP state/NN)
+  (NP case/NN)
+  (NP hostile/JJ take/NN)
+  (NP raiding/NN)
+  (NP firm/NN)
+  (NP able/JJ use/NN)
+  (NP pension/NN)
+  (NP asset/NN)
+  (NP finance/NN)
+  (NP acquisition/NN)
+  (NP pension/NN)
+  (NP plan/NN)
+  (NP asset/NN)
+  available/JJ
+  provide/VBP
+  (NP benefit/NN)
+  (NP participant/NN)
+  (NP plan/NN)
+  (NP performance/NN)
+  (NP management/NN)
+  (NP process/NN)
+  (NP focus/NN)
+  achieving/VBG
+  (NP target/NN)
+  (NP goal/NN)
+  (NP efficient/JJ effective/JJ manner/NN)
+  defined/VBD
+  (NP bond/NN)
+  (NP maturity/NN)
+  (NP date/NN)
+  personnel/NNS
+  (NP selection/NN)
+  (NP process/NN)
+  used/VBN
+  hiring/VBG
+  (NP individual/JJ pool/NN)
+  (NP job/NN)
+  (NP applicant/NN)
+  required/VBN
+  (NP qualification/NN)
+  (NP knowledge/NN)
+  (NP skill/NN)
+  (NP competence/NN)
+  (NP fill/NN)
+  (NP vacant/JJ position/NN)
+  (NP organization/NN)
+  (NP term/NN)
+  (NP petty/JJ corruption/NN)
+  used/VBN
+  (NP corruption/NN)
+  done/VBN
+  (NP small/JJ scale/NN)
+  (NP corruption/NN)
+  done/VBN
+  (NP lowlevel/JJ word/NN)
+  (NP pledge/NN)
+  mean/VBP
+  (NP promise/JJ thing/NN)
+  make/VBP
+  (NP bound/NN)
+  (NP something/NN)
+  (NP predatory/NN)
+  (NP lending/NN)
+  considered/VBN
+  (NP legal/JJ practice/NN)
+  (NP preemptive/JJ right/NN)
+  (NP refer/NN)
+  (NP shareholder/NN)
+  (NP posse/NN)
+  (NP right/NN)
+  (NP maintain/NN)
+  (NP share/NN)
+  (NP ownership/NN)
+  (NP organization/NN)
+  buying/VBG
+  (NP proportional/JJ number/NN)
+  (NP share/NN)
+  (NP percentage/NN)
+  (NP share/NN)
+  already/RB
+  (NP corporation/NN)
+  (NP preference/NN)
+  (NP share/NN)
+  refer/VBP
+  (NP stock/NN)
+  (NP proffer/NN)
+  (NP specific/JJ dividend/NN)
+  paid/VBD
+  (NP prior/JJ payment/NN)
+  (NP dividend/NN)
+  paid/VBD
+  (NP common/JJ shareholder/NN)
+  (NP borrower/NN)
+  normally/RB
+  repays/VBZ
+  (NP loan/NN)
+  (NP order/NN)
+  save/VBP
+  oneself/PRP
+  form/RB
+  (NP high/JJ interest/NN)
+  (NP rate/NN)
+  (NP repayment/NN)
+  observed/VBD
+  (NP case/NN)
+  refinancing/VBG
+  borrower/JJR
+  (NP ownership/NN)
+  (NP company/NN)
+  (NP private/JJ reason/NN)
+  required/VBN
+  (NP meet/NN)
+  (NP necessary/JJ rule/NN)
+  (NP public/JJ company/NN)
+  (NP private/JJ property/NN)
+  even/RB
+  (NP different/JJ collective/JJ property/NN)
+  owned/VBD
+  (NP group/NN)
+  (NP individual/JJ prospectus/NN)
+  (NP legal/JJ document/NN)
+  required/VBN
+  (NP every/DT company/NN)
+  filed/VBN
+  (NP security/NN)
+  (NP exchange/NN)
+  (NP commission/NN)
+  provide/VBP
+  (NP detail/NN)
+  (NP investment/NN)
+  offered/VBN
+  (NP public/JJ sale/NN)
+  (NP country/NN)
+  using/VBG
+  (NP protectionism/NN)
+  (NP feel/NN)
+  (NP industry/NN)
+  getting/VBG
+  (NP damage/NN)
+  (NP unfair/JJ global/JJ competition/NN)
+  (NP public/JJ company/NN)
+  also/RB
+  known/VBN
+  (NP public/JJ corporation/NN)
+  (NP company/NN)
+  whose/WP$
+  (NP share/NN)
+  traded/VBD
+  publicly/RB
+  (NP company/NN)
+  (NP plenty/JJ shareholder/NN)
+  (NP return/NN)
+  (NP favor/NN)
+  provided/VBD
+  (NP party/NN)
+  paying/VBG
+  (NP loan/NN)
+  (NP another/DT second/JJ party/NN)
+  agree/VBP
+  upon/IN
+  (NP reimbursement/NN)
+  (NP amount/NN)
+  later/RB
+  (NP date/NN)
+  keeping/VBG
+  (NP agreement/NN)
+  first/RB
+  foremost/VBN
+  (NP priority/NN)
+  (NP term/NN)
+  quasi/FW
+  rent/VB
+  (NP new/JJ economist/NN)
+  (NP accounting/NN)
+  (NP policy/NN)
+  seldom/RB
+  done/VBN
+  (NP form/NN)
+  (NP security/NN)
+  sell/VBP
+  like/IN
+  (NP stock/NN)
+  (NP major/JJ exchange/NN)
+  directly/RB
+  invested/VBN
+  (NP real/JJ estate/NN)
+  (NP either/DT help/NN)
+  (NP mortgage/NN)
+  (NP property/NN)
+  remic/VBP
+  (NP special/JJ purpose/JJ vehicle/NN)
+  (NP spv/NN)
+  (NP issuance/NN)
+  mortgagebacked/VBD
+  (NP security/NN)
+  (NP pool/NN)
+  (NP mortgage/NN)
+  (NP loan/NN)
+  (NP recapitalization/NN)
+  (NP term/NN)
+  used/VBN
+  (NP denote/NN)
+  (NP sort/NN)
+  (NP legal/JJ reorientation/NN)
+  (NP company/NN)
+  (NP capital/NN)
+  (NP structure/NN)
+  (NP word/NN)
+  (NP recession/NN)
+  mainly/RB
+  associated/VBD
+  (NP big/JJ decline/NN)
+  (NP economic/JJ activity/NN)
+  (NP country/NN)
+  (NP term/NN)
+  (NP industrialization/JJ employment/NN)
+  (NP activity/NN)
+  passed/VBD
+  (NP shareholder/NN)
+  highly/RB
+  (NP personal/JJ basis/NN)
+  one/CD
+  (NP avoid/NN)
+  (NP aspect/NN)
+  (NP double/JJ taxation/NN)
+  (NP certain/JJ extent/JJ matter/NN)
+  (NP economy/NN)
+  (NP first/JJ thing/NN)
+  (NP strike/NN)
+  (NP mind/NN)
+  people/NNS
+  (NP security/NN)
+  (NP risk/NN)
+  (NP management/NN)
+  (NP conduct/NN)
+  (NP long/JJ distance/NN)
+  (NP transaction/NN)
+  (NP system/NN)
+  come/VB
+  (NP wellorganized/JJ term/NN)
+  (NP condition/NN)
+  becomes/VBZ
+  (NP beneficial/JJ management/NN)
+  get/VB
+  (NP transaction/NN)
+  done/VBN
+  essentially/RB
+  (NP risk/JJ management/NN)
+  happens/NNS
+  (NP time/NN)
+  capitalist/VBP
+  (NP fund/NN)
+  (NP manager/NN)
+  examines/NNS
+  (NP effort/NN)
+  quantify/VBP
+  (NP possibility/NN)
+  (NP deprivation/NN)
+  (NP investment/NN)
+  (NP carry/NN)
+  precise/VB
+  (NP action/NN)
+  (NP inaction/NN)
+  given/VBN
+  (NP investment/NN)
+  (NP target/NN)
+  (NP risk/NN)
+  (NP margin/NN)
+  (NP saleleaseback/NN)
+  (NP arrangement/NN)
+  (NP owner/NN)
+  sell/VBP
+  belonging/VBG
+  (NP property/NN)
+  instantly/RB
+  lease/VBZ
+  back/RP
+  (NP buyer/NN)
+  (NP part/NN)
+  (NP transaction/NN)
+  self/VBD
+  (NP financing/NN)
+  (NP procedure/NN)
+  (NP company/NN)
+  individual/JJ
+  spends/VBZ
+  (NP money/NN)
+  (NP completion/NN)
+  ongoing/VBG
+  (NP project/NN)
+  (NP case/NN)
+  (NP unavailability/JJ funding/NN)
+  (NP source/NN)
+  (NP single/JJ premium/NN)
+  deferred/VBN
+  (NP annuity/NN)
+  (NP type/NN)
+  (NP annuity/NN)
+  (NP contract/NN)
+  recognized/VBN
+  (NP solitary/JJ lumpsum/JJ payment/NN)
+  (NP owner/NN)
+  businessmen/NNS
+  prefer/VBP
+  (NP sole/JJ proprietorship/NN)
+  would/MD
+  think/VB
+  (NP name/NN)
+  run/VBN
+  (NP company/NN)
+  named/VBN
+  (NP sole/JJ proprietor/NN)
+  (NP spot/NN)
+  (NP market/NN)
+  (NP commodity/NN)
+  (NP security/NN)
+  (NP market/NN)
+  good/JJ
+  perishable/JJ
+  nonperishable/JJ
+  sold/VBN
+  (NP money/NN)
+  delivered/VBN
+  immediately/RB
+  within/IN
+  (NP short/JJ span/NN)
+  (NP time/NN)
+  standard/JJ
+  4digit/CD
+  (NP code/NN)
+  used/VBN
+  (NP u/JJ government/NN)
+  (NP identify/NN)
+  (NP industry/NN)
+  according/VBG
+  (NP function/JJ product/NN)
+  (NP standard/JJ industrial/JJ classification/NN)
+  (NP startup/NN)
+  (NP cost/NN)
+  basically/RB
+  nonrecurring/VBG
+  (NP costswhich/NN)
+  associated/VBN
+  setting/VBG
+  (NP business/NN)
+  (NP fee/NN)
+  (NP accountant/JJ registration/NN)
+  (NP charge/NN)
+  (NP legal/JJ fee/NN)
+  (NP promotional/JJ advertising/NN)
+  (NP activity/NN)
+  well/RB
+  (NP employee/NN)
+  training/VBG
+  simple/JJ
+  putting/VBG
+  (NP strategic/JJ planning/NN)
+  (NP analysis/NN)
+  determines/NNS
+  (NP company/NN)
+  going/VBG
+  (NP next/JJ year/NN)
+  going/VBG
+  get/VB
+  (NP position/NN)
+  know/IN
+  getting/VBG
+  (NP specified/JJ goal/NN)
+  (NP word/NN)
+  asubordinated/VBD
+  (NP debt/NN)
+  (NP rank/NN)
+  (NP security/NN)
+  (NP loan/NN)
+  (NP phase/NN)
+  (NP loan/NN)
+  (NP repayment/NN)
+  occurs/VBZ
+  (NP many/JJ name/JJ term/NN)
+  (NP subprime/NN)
+  (NP lending/NN)
+  (NP concept/NN)
+  (NP surplus/NN)
+  (NP theory/NN)
+  developed/VBD
+  written/VBN
+  karl/NNP
+  marx/NNP
+  (NP term/NN)
+  invented/VBD
+  (NP recent/JJ time/NN)
+  swap/VBZ
+  (NP grown/JJ take/NN)
+  (NP account/NN)
+  (NP currency/NN)
+  (NP swap/NN)
+  (NP interest/NN)
+  (NP rate/NN)
+  (NP swap/NN)
+  (NP task/NN)
+  (NP analysis/NN)
+  (NP recognition/NN)
+  (NP prime/JJ element/NN)
+  given/VBN
+  (NP job/NN)
+  understanding/VBG
+  (NP skill/NN)
+  required/VBN
+  make/VBP
+  (NP sure/JJ job/NN)
+  done/VBN
+  (NP perfect/JJ outcome/NN)
+  (NP main/JJ goal/NN)
+  (NP taylorism/NN)
+  provide/VBP
+  (NP way/NN)
+  bettering/VBG
+  (NP economy/NN)
+  especially/RB
+  (NP field/NN)
+  (NP labor/NN)
+  (NP production/NN)
+  (NP technical/JJ analyst/NN)
+  (NP endeavor/NN)
+  (NP estimate/NN)
+  (NP intrinsic/JJ value/NN)
+  (NP security/NN)
+  (NP basic/JJ important/JJ question/NN)
+  (NP theory/NN)
+  economics/NNS
+  (NP price/NN)
+  (NP good/JJ service/NN)
+  priced/VBN
+  (NP price/NN)
+  (NP good/JJ service/NN)
+  considered/VBN
+  (NP correct/JJ price/NN)
+  (NP good/JJ service/NN)
+  calculated/VBD
+  (NP time/NN)
+  (NP management/NN)
+  (NP variety/NN)
+  (NP technique/NN)
+  (NP skill/JJ tool/NN)
+  may/MD
+  used/VBN
+  (NP managing/NN)
+  (NP time/NN)
+  (NP specific/JJ goal/NN)
+  (NP project/NN)
+  (NP task/NN)
+  needed/VBN
+  accomplished/VBD
+  within/IN
+  given/VBN
+  (NP due/JJ date/NN)
+  (NP trademark/NN)
+  registered/VBD
+  (NP symbol/NN)
+  represents/VBZ
+  (NP specific/JJ product/NN)
+  (NP intellectual/JJ property/NN)
+  (NP manufacturer/NN)
+  (NP distributor/NN)
+  (NP product/NN)
+  specified/VBN
+  personnel/NNS
+  (NP right/JJ manufacture/NN)
+  distribute/VB
+  (NP product/NN)
+  realize/VB
+  (NP profit/NN)
+  (NP transfer/NN)
+  (NP pricing/NN)
+  (NP business/NN)
+  (NP division/NN)
+  treated/VBD
+  (NP separate/JJ entity/NN)
+  (NP price/NN)
+  charged/VBD
+  one/CD
+  (NP part/NN)
+  (NP company/NN)
+  (NP another/DT part/NN)
+  (NP company/NN)
+  (NP order/NN)
+  provide/VBP
+  (NP certain/JJ service/NN)
+  known/VBN
+  (NP transfer/NN)
+  pricing/VBG
+  (NP term/NN)
+  holding/VBG
+  (NP trusteeship/JJ property/NN)
+  (NP possession/NN)
+  (NP underwriting/NN)
+  explained/VBD
+  (NP process/JJ investment/NN)
+  (NP banker/NN)
+  raise/VB
+  (NP investment/NN)
+  (NP capital/NN)
+  (NP investor/NN)
+  (NP behalf/JJ government/NN)
+  (NP corporation/NN)
+  issuing/VBG
+  (NP security/NN)
+  let/VB
+  start/VB
+  (NP basic/JJ question/NN)
+  (NP unique/NN)
+  selling/VBG
+  (NP proposition/NN)
+  (NP venture/NN)
+  (NP capital/NN)
+  (NP financial/JJ capital/NN)
+  provided/VBD
+  (NP investor/NN)
+  (NP high/JJ potential/JJ high/JJ risk/NN)
+  startup/VBP
+  (NP firm/NN)
+  (NP small/JJ company/NN)
+  (NP long/JJ term/NN)
+  (NP growth/NN)
+  (NP potential/JJ come/NN)
+  (NP point/NN)
+  (NP vertical/JJ integration/NN)
+  (NP play/NN)
+  (NP role/NN)
+  provide/VBP
+  (NP company/NN)
+  (NP edge/NN)
+  cutting/VBG
+  (NP extra/JJ cost/NN)
+  (NP show/NN)
+  (NP efficiency/NN)
+  cutting/VBG
+  (NP expense/JJ spend/JJ transportation/NN)
+  reducing/VBG
+  (NP duration/NN)
+  (NP work/NN)
+  well/RB
+  voucher/RB
+  (NP piece/JJ evidence/NN)
+  (NP prof/NN)
+  (NP certain/JJ event/NN)
+  (NP transaction/NN)
+  carried/VBD
+  warrant/JJ
+  refers/NNS
+  (NP derivative/JJ security/NN)
+  provides/VBZ
+  (NP holder/NN)
+  (NP right/JJ purchase/NN)
+  (NP security/NN)
+  (NP issuer/NN)
+  (NP particular/JJ price/NN)
+  within/IN
+  (NP specific/JJ period/NN)
+  (NP time/NN)
+  (NP form/NN)
+  (NP work/NN)
+  could/MD
+  (NP anything/NN)
+  like/IN
+  (NP product/NN)
+  data/NNS
+  (NP service/NN)
+  (NP yield/NN)
+  refers/VBZ
+  (NP income/NN)
+  (NP return/NN)
+  (NP investment/NN)
+  (NP specific/JJ audit/NN)
+  (NP engagement/NN)
+  referred/VBD
+  written/VBN
+  (NP letter/NN)
+  (NP auditor/NN)
+  us/PRP
+  notify/VBP
+  (NP client/NN)
+  (NP heshe/NN)
+  would/MD
+  engaging/VBG
+  auditing/VBG
+  (NP service/NN)
+  (NP audit/NN)
+  (NP evidence/NN)
+  generally/RB
+  refers/VBZ
+  (NP information/NN)
+  collected/VBD
+  reviewing/VBG
+  (NP financial/JJ transaction/NN)
+  (NP company/NN)
+  (NP addition/NN)
+  (NP internal/JJ control/NN)
+  (NP practice/NN)
+  (NP essential/JJ factor/NN)
+  required/VBN
+  (NP certification/NN)
+  (NP financial/JJ statement/NN)
+  (NP audit/NN)
+  (NP opinion/NN)
+  helpful/JJ
+  setting/VBG
+  (NP scope/NN)
+  (NP audit/NN)
+  (NP accountant/JJ opinion/NN)
+  (NP procedure/NN)
+  (NP record/NN)
+  used/VBN
+  creating/VBG
+  (NP statement/NN)
+  (NP accountant/JJ opinion/NN)
+  whether/IN
+  (NP financial/JJ statement/NN)
+  (NP present/NN)
+  (NP accurate/JJ reflection/NN)
+  (NP organization/NN)
+  (NP financial/JJ condition/NN)
+  basically/RB
+  (NP step/JJ step/NN)
+  (NP methodology/NN)
+  (NP audit/NN)
+  (NP control/NN)
+  review/VBP
+  (NP financial/JJ process/NN)
+  (NP internal/JJ environment/NN)
+  along/IN
+  (NP engagement/JJ preparation/NN)
+  (NP audit/NN)
+  (NP procedure/NN)
+  divided/VBD
+  two/CD
+  (NP category/NN)
+  (NP audit/NN)
+  (NP report/NN)
+  recorded/VBD
+  (NP annual/JJ report/NN)
+  examines/NNS
+  check/VB
+  (NP compliance/NN)
+  (NP company/NN)
+  (NP financial/JJ statement/NN)
+  (NP gaap/NN)
+  also/RB
+  referred/VBD
+  (NP residual/JJ risk/NN)
+  (NP audit/NN)
+  (NP risk/NN)
+  defined/VBD
+  (NP risk/NN)
+  (NP auditor/NN)
+  (NP discern/JJ error/NN)
+  (NP intentional/JJ miscalculation/NN)
+  (NP process/NN)
+  reviewing/VBG
+  (NP financial/JJ statement/NN)
+  (NP company/NN)
+  (NP individual/JJ audit/NN)
+  sampling/VBG
+  (NP defined/JJ process/NN)
+  applying/VBG
+  auditing/VBG
+  (NP procedure/NN)
+  (NP underof/JJ different/JJ item/NN)
+  (NP organization/NN)
+  (NP account/NN)
+  (NP balance/NN)
+  (NP way/NN)
+  (NP every/DT single/JJ unit/NN)
+  might/MD
+  (NP equal/JJ probability/NN)
+  selected/VBN
+  useful/JJ
+  tracking/VBG
+  (NP market/NN)
+  (NP activity/NN)
+  improper/IN
+  auditing/VBG
+  (NP standard/JJ board/NN)
+  produce/VBP
+  (NP statement/NN)
+  (NP standard/NN)
+  (NP guidance/NN)
+  certified/VBD
+  (NP public/JJ accountant/JJ nonpublic/JJ company/NN)
+  (NP audit/NN)
+  (NP spread/NN)
+  acrosscountries/NNS
+  baker/VBP
+  tilly/RB
+  international/JJ
+  overfirms/NNS
+  bdo/VBP
+  among/IN
+  top/JJ
+  ten/NNS
+  audit/VBP
+  (NP company/NN)
+  (NP world/NN)
+  presently/RB
+  sixth/JJ
+  preferred/VBN
+  (NP audit/NN)
+  (NP company/NN)
+  big/JJ
+  four/CD
+  includes/VBZ
+  four/CD
+  largest/JJS
+  (NP international/JJ professional/NN)
+  (NP service/NN)
+  (NP network/NN)
+  (NP accountancy/NN)
+  (NP professional/JJ service/NN)
+  auditing/VBG
+  (NP context/JJ comfort/NN)
+  (NP letter/NN)
+  (NP letter/NN)
+  (NP document/NN)
+  (NP independent/JJ auditor/NN)
+  included/VBD
+  (NP preliminary/JJ prospectus/NN)
+  (NP state/NN)
+  though/IN
+  (NP complete/JJ audit/NN)
+  done/VBN
+  (NP review/NN)
+  done/VBN
+  (NP auditor/NN)
+  sufficient/JJ
+  assuring/VBG
+  (NP information/NN)
+  (NP financial/JJ statement/NN)
+  (NP preliminary/NN)
+  (NP prospectus/NN)
+  prepared/VBD
+  properly/RB
+  best/JJS
+  (NP knowledge/NN)
+  (NP auditor/NN)
+  (NP conduct/NN)
+  (NP review/NN)
+  (NP security/NN)
+  (NP related/JJ policy/NN)
+  (NP procedure/NN)
+  pertaining/VBG
+  (NP risk/NN)
+  (NP management/NN)
+  (NP user/JJ access/NN)
+  (NP control/NN)
+  throughout/IN
+  (NP compliance/NN)
+  (NP audit/NN)
+  (NP course/NN)
+  (NP computer/NN)
+  assisted/VBD
+  (NP audit/NN)
+  (NP technique/NN)
+  (NP tool/NN)
+  used/VBN
+  (NP auditor/NN)
+  (NP computer/NN)
+  auditing/VBG
+  (NP tool/NN)
+  facilitates/NNS
+  (NP business/NN)
+  (NP regard/NN)
+  data/NNS
+  (NP processing/NN)
+  putting/VBG
+  (NP special/JJ concern/NN)
+  targeted/VBN
+  (NP operation/NN)
+  (NP conflict/NN)
+  (NP interest/NN)
+  believed/VBN
+  (NP occur/JJ organization/NN)
+  (NP individual/JJ caught/NN)
+  (NP multiple/JJ interest/NN)
+  (NP one/NN)
+  could/MD
+  probably/RB
+  distort/VB
+  (NP motivation/NN)
+  one/CD
+  (NP act/NN)
+  (NP company/NN)
+  hold/VBP
+  (NP headquarters/NN)
+  (NP paramount/NN)
+  (NP plaza/JJ new/JJ york/NN)
+  (NP city/NN)
+  (NP new/JJ york/NN)
+  (NP midtown/JJ manhattan/JJ detection/NN)
+  (NP risk/NN)
+  actually/RB
+  (NP risk/JJ procedure/NN)
+  applied/VBN
+  (NP auditor/NN)
+  (NP fail/NN)
+  detect/VBP
+  (NP material/JJ misstatement/NN)
+  (NP financial/JJ statement/NN)
+  (NP disclaimer/NN)
+  (NP opinion/NN)
+  basically/RB
+  (NP statement/NN)
+  provided/VBD
+  (NP auditor/NN)
+  (NP doesnt/NN)
+  lay/VBD
+  (NP sort/JJ opinion/NN)
+  (NP regard/NN)
+  (NP financial/JJ position/NN)
+  (NP condition/NN)
+  (NP company/NN)
+  besides/IN
+  (NP firm/NN)
+  ranked/VBD
+  9th/CD
+  largest/JJS
+  (NP private/JJ company/NN)
+  u/RB
+  (NP forbes/JJ magazine/NN)
+  financial/JJ
+  auditing/VBG
+  refers/NNS
+  accounting/VBG
+  (NP process/NN)
+  applied/VBD
+  (NP business/NN)
+  short/JJ
+  generally/RB
+  accepted/VBN
+  auditing/VBG
+  (NP standard/JJ gaas/NN)
+  refers/NNS
+  set/VBD
+  (NP systematic/JJ guideline/NN)
+  used/VBN
+  (NP auditor/NN)
+  performing/VBG
+  (NP audit/NN)
+  (NP company/NN)
+  (NP financial/JJ statement/NN)
+  thus/RB
+  ensuring/VBG
+  (NP consistency/NN)
+  (NP accuracy/NN)
+  (NP verifiability/NN)
+  (NP action/NN)
+  (NP report/NN)
+  produced/VBD
+  (NP auditor/JJ company/NN)
+  known/VBN
+  provide/RB
+  best/JJS
+  (NP audit/NN)
+  (NP tax/NN)
+  (NP consultative/NN)
+  (NP knowhow/NN)
+  promotes/VBZ
+  (NP importance/NN)
+  connecting/VBG
+  (NP client/NN)
+  (NP work/NN)
+  (NP every/DT company/NN)
+  apply/VB
+  (NP procedure/NN)
+  give/VB
+  (NP accurate/NN)
+  (NP result/NN)
+  (NP result/NN)
+  basically/RB
+  inherited/VBN
+  (NP risk/NN)
+  (NP factor/NN)
+  (NP procedure/NN)
+  applied/VBD
+  (NP small/JJ sample/JJ population/NN)
+  rather/RB
+  (NP whole/JJ population/NN)
+  (NP institute/NN)
+  (NP internal/JJ auditor/NN)
+  implies/NNS
+  guidancesetting/VBG
+  (NP organization/NN)
+  (NP internal/JJ audit/NN)
+  defined/VBN
+  (NP evaluation/NN)
+  monitoring/VBG
+  (NP analysis/NN)
+  (NP activity/NN)
+  associated/VBN
+  (NP operation/NN)
+  (NP company/NN)
+  also/RB
+  counting/VBG
+  (NP business/NN)
+  (NP structure/NN)
+  (NP information/NN)
+  (NP system/NN)
+  (NP employee/NN)
+  (NP behavior/NN)
+  although/IN
+  (NP difference/NN)
+  might/MD
+  affect/VB
+  (NP practice/NN)
+  (NP internal/JJ auditing/NN)
+  (NP every/DT environment/NN)
+  (NP conformance/NN)
+  (NP iias/JJ international/JJ standard/NN)
+  (NP professional/JJ practice/NN)
+  internal/JJ
+  auditing/VBG
+  important/JJ
+  congregating/VBG
+  (NP responsibility/NN)
+  (NP internal/JJ auditor/NN)
+  well/RB
+  (NP internal/JJ audit/NN)
+  (NP activity/NN)
+  (NP auditor/NN)
+  (NP obligatory/NN)
+  (NP knowledge/NN)
+  (NP whole/JJ text/NN)
+  (NP isa/NN)
+  counting/VBG
+  (NP application/NN)
+  (NP explanatory/JJ material/NN)
+  (NP aware/JJ objective/JJ apply/NN)
+  (NP requirement/NN)
+  aptly/RB
+  moreover/RB
+  firm/JJ
+  employ/RB
+  (NP aboutpeople/NN)
+  offer/VBP
+  three/CD
+  (NP basic/JJ service/NN)
+  (NP line/NN)
+  (NP tax/NN)
+  (NP audit/NN)
+  (NP advisory/JJ litigation/NN)
+  (NP risk/NN)
+  (NP analysis/NN)
+  provides/VBZ
+  (NP assessment/JJ determine/NN)
+  whether/IN
+  (NP chance/NN)
+  (NP legal/JJ action/NN)
+  taken/VBN
+  (NP company/NN)
+  (NP future/JJ materiality/NN)
+  (NP concept/NN)
+  auditing/VBG
+  accounting/VBG
+  refers/NNS
+  (NP truthfulness/JJ material/NN)
+  generally/RB
+  model/VBZ
+  (NP audit/NN)
+  appealed/VBD
+  (NP banking/NN)
+  (NP organization/NN)
+  (NP purpose/NN)
+  reassuring/VBG
+  (NP lender/NN)
+  (NP investor/NN)
+  alike/IN
+  (NP calculation/NN)
+  (NP assumption/NN)
+  contained/VBD
+  (NP model/NN)
+  (NP accurate/NN)
+  (NP result/NN)
+  obtained/VBN
+  model/RBR
+  (NP dependable/JJ information/NN)
+  (NP financial/JJ statement/NN)
+  materially/RB
+  (NP correct/JJ opinion/NN)
+  (NP auditor/NN)
+  (NP unmodified/JJ opinion/NN)
+  nonsampling/VBG
+  (NP risk/NN)
+  (NP risk/NN)
+  despite/IN
+  selected/VBN
+  (NP appropriate/JJ sample/NN)
+  (NP auditor/NN)
+  (NP arrive/JJ wrong/JJ conclusion/NN)
+  (NP pkf/NN)
+  globally/RB
+  spread/JJ
+  overcountries/NNS
+  one/CD
+  widest/JJS
+  (NP accounting/NN)
+  (NP network/NN)
+  providing/VBG
+  best/JJS
+  (NP financial/JJ service/NN)
+  (NP world/NN)
+  (NP trading/NN)
+  (NP name/NN)
+  thus/RB
+  shortened/VBD
+  pwc/JJ
+  septemberas/NNS
+  (NP part/NN)
+  (NP key/NN)
+  rebranding/VBG
+  (NP exercise/NN)
+  (NP suppose/JJ condition/NN)
+  (NP accountant/NN)
+  prepared/VBD
+  (NP financial/JJ statement/NN)
+  (NP auditor/NN)
+  (NP check/NN)
+  (NP information/NN)
+  (NP financial/JJ statement/NN)
+  true/JJ
+  flawed/VBD
+  (NP misstatement/JJ professional/JJ skepticism/NN)
+  (NP state/NN)
+  (NP mind/NN)
+  (NP ready/JJ situation/NN)
+  (NP grab/NN)
+  (NP error/NN)
+  (NP question/NN)
+  (NP financial/JJ event/NN)
+  (NP event/NN)
+  conducting/VBG
+  (NP assurance/NN)
+  (NP engagement/JJ circumstance/NN)
+  (NP qualified/JJ opinion/NN)
+  given/VBN
+  (NP ratio/JJ sample/JJ estimate/NN)
+  (NP population/NN)
+  (NP total/NN)
+  used/VBN
+  (NP adjust/JJ sample/NN)
+  (NP estimate/NN)
+  (NP variable/JJ interest/NN)
+  (NP risk/NN)
+  (NP material/NN)
+  (NP misstatement/NN)
+  refers/NNS
+  risk/VBP
+  (NP financial/JJ statement/NN)
+  materially/RB
+  misstated/VBD
+  (NP present/JJ true/JJ fair/JJ view/NN)
+  founded/VBD
+  (NP inand/NN)
+  headquartered/VBD
+  (NP london/JJ rsm/JJ professional/JJ financial/JJ company/NN)
+  provides/VBZ
+  (NP type/JJ financial/JJ service/NN)
+  (NP client/NN)
+  including/VBG
+  (NP risk/NN)
+  (NP management/NN)
+  (NP financial/JJ management/NN)
+  (NP tax/NN)
+  (NP advisory/NN)
+  however/RB
+  using/VBG
+  sampling/VBG
+  data/NNS
+  involves/NNS
+  risk/VBP
+  (NP result/NN)
+  found/VBN
+  (NP analysis/NN)
+  might/MD
+  represent/VB
+  (NP result/NN)
+  would/MD
+  acquired/VB
+  using/VBG
+  data/NNS
+  involving/VBG
+  (NP whole/JJ population/NN)
+  (NP sample/NN)
+  derived/VBD
+  sampling/VBG
+  (NP risk/NN)
+  (NP risk/NN)
+  (NP auditor/NN)
+  (NP opinion/NN)
+  would/MD
+  (NP different/JJ procedure/NN)
+  applied/VBN
+  (NP entire/JJ population/NN)
+  data/NNS
+  commonly/RB
+  known/VBN
+  (NP public/JJ company/NN)
+  (NP accounting/NN)
+  (NP reform/NN)
+  (NP investor/NN)
+  (NP protection/NN)
+  (NP act/NN)
+  (NP corporate/JJ auditing/JJ accountability/NN)
+  (NP responsibility/NN)
+  (NP act/NN)
+  sarbanesoxley/NNP
+  (NP act/NN)
+  implemented/VBD
+  (NP july2002/NN)
+  founded/VBD
+  (NP glasgow/NN)
+  (NP yearsmith/NN)
+  (NP williamson/NN)
+  catered/VBD
+  (NP various/JJ financial/JJ business/NN)
+  (NP need/NN)
+  (NP customer/NN)
+  providing/VBG
+  great/JJ
+  advisory/JJ
+  chartered/VBN
+  (NP accountant/JJ service/NN)
+  (NP client/NN)
+  (NP company/NN)
+  (NP auditor/NN)
+  provide/VBP
+  auditing/VBG
+  (NP report/NN)
+  submit/VBD
+  (NP report/NN)
+  annually/RB
+  semiannually/RB
+  (NP law/NN)
+  concerned/VBN
+  (NP municipal/JJ law/NN)
+  (NP authority/NN)
+  (NP statutory/JJ auditor/NN)
+  (NP country/NN)
+  referred/VBD
+  (NP external/JJ auditor/NN)
+  (NP external/JJ public/JJ accountant/NN)
+  certified/VBD
+  (NP judgment/JJ independent/JJ author/NN)
+  (NP financial/JJ record/NN)
+  (NP statement/NN)
+  (NP company/NN)
+  presented/VBD
+  appropriately/RB
+  fairly/RB
+  (NP accordance/NN)
+  generally/RB
+  accepted/VBD
+  (NP accounting/NN)
+  (NP principle/NN)
+  called/VBN
+  (NP unqualified/JJ opinion/NN)
+  (NP term/NN)
+  vouching/VBG
+  (NP core/JJ thing/NN)
+  auditing/VBG
+  refers/NNS
+  inspecting/VBG
+  (NP documentary/JJ evidence/NN)
+  (NP auditor/NN)
+  (NP support/NN)
+  (NP substantiate/JJ transaction/NN)
+  (NP work/NN)
+  towards/NNS
+  making/VBG
+  (NP appraisal/NN)
+  (NP system/NN)
+  (NP transparent/JJ support/NN)
+  (NP equal/JJ opportunity/NN)
+  (NP fairness/NN)
+  (NP profession/NN)
+  (NP appraisal/NN)
+  (NP main/JJ task/NN)
+  appraisal/JJ
+  standard/NNP
+  (NP board/NN)
+  performs/VBZ
+  developing/VBG
+  interpreting/VBG
+  amending/VBG
+  (NP uniform/JJ standard/JJ professional/NN)
+  (NP appraisal/NN)
+  (NP practice/NN)
+  done/VBN
+  (NP behalf/NN)
+  user/RBR
+  appraiser/RB
+  (NP appraisal/JJ service/NN)
+  appraiser/VBD
+  (NP professional/JJ certified/JJ estimate/NN)
+  worth/IN
+  (NP value/NN)
+  (NP item/JJ thing/NN)
+  (NP different/JJ property/NN)
+  (NP different/JJ approach/NN)
+  (NP value/NN)
+  used/VBN
+  (NP cost/NN)
+  (NP approach/NN)
+  (NP value/NN)
+  one/CD
+  (NP approach/NN)
+  (NP value/NN)
+  used/VBN
+  determining/VBG
+  (NP value/NN)
+  (NP property/NN)
+  (NP income/NN)
+  (NP approach/NN)
+  (NP value/NN)
+  also/RB
+  known/VBN
+  (NP income/NN)
+  (NP capitalization/NN)
+  (NP approach/NN)
+  used/VBN
+  (NP determine/JJ value/NN)
+  (NP income/NN)
+  generating/VBG
+  (NP property/NN)
+  deriving/VBG
+  (NP value/NN)
+  (NP indication/NN)
+  (NP conversion/NN)
+  expected/VBN
+  (NP benefit/NN)
+  like/IN
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP reversion/NN)
+  (NP value/NN)
+  (NP property/NN)
+  sincethe/VBD
+  (NP international/JJ valuation/NN)
+  (NP standard/NN)
+  published/VBN
+  (NP international/JJ valuation/NN)
+  (NP standard/NN)
+  (NP council/NN)
+  going/VBG
+  (NP concern/NN)
+  (NP valuation/NN)
+  mean/FW
+  (NP value/NN)
+  (NP business/NN)
+  expected/VBD
+  (NP close/JJ function/NN)
+  continuously/RB
+  (NP project/JJ appraisal/NN)
+  structured/VBD
+  (NP process/NN)
+  assessing/VBG
+  (NP viability/NN)
+  (NP project/NN)
+  (NP proposal/NN)
+  therefore/IN
+  (NP valuation/NN)
+  become/VBN
+  (NP special/JJ case/NN)
+  (NP effective/JJ insurable/JJ value/NN)
+  (NP property/NN)
+  estimated/VBD
+  (NP type/JJ appraisal/NN)
+  (NP market/NN)
+  (NP value/NN)
+  (NP property/NN)
+  usually/RB
+  required/VBN
+  (NP word/NN)
+  residual/JJ
+  refers/NNS
+  (NP opportunity/NN)
+  (NP cost/NN)
+  (NP excess/NN)
+  measured/VBD
+  compared/VBN
+  (NP book/NN)
+  (NP value/NN)
+  (NP shareholder/NN)
+  (NP equity/NN)
+  (NP income/NN)
+  (NP firm/NN)
+  generates/VBZ
+  accounting/VBG
+  (NP true/JJ cost/NN)
+  (NP capital/NN)
+  (NP residual/JJ income/NN)
+  (NP royal/NN)
+  (NP institution/NN)
+  chartered/VBD
+  (NP surveyor/JJ professional/JJ representative/NN)
+  (NP independent/JJ body/NN)
+  (NP work/NN)
+  (NP control/NN)
+  (NP surveyor/JJ property/NN)
+  (NP professional/JJ u/JJ sale/NN)
+  (NP comparison/NN)
+  (NP approach/NN)
+  determines/VBZ
+  (NP value/NN)
+  (NP property/NN)
+  comparing/VBG
+  (NP similar/JJ property/NN)
+  (NP vicinity/NN)
+  recently/RB
+  sold/VBN
+  along/IN
+  (NP proper/JJ adjustment/NN)
+  (NP acreage/NN)
+  (NP size/NN)
+  (NP amenity/NN)
+  (NP time/NN)
+  (NP etc/JJ formation/NN)
+  (NP appraisal/NN)
+  (NP foundation/NN)
+  (NP inwas/NN)
+  due/JJ
+  flux/RB
+  arising/VBG
+  (NP business/NN)
+  relating/VBG
+  (NP mortgage/NN)
+  (NP lending/JJ real/JJ estate/NN)
+  (NP uniform/JJ standard/JJ professional/NN)
+  (NP appraisal/NN)
+  (NP practice/NN)
+  (NP kind/NN)
+  (NP quality/NN)
+  (NP control/NN)
+  (NP standard/NN)
+  (NP u/JJ example/NN)
+  (NP intangible/JJ asset/NN)
+  (NP goodwill/NN)
+  trademark/VB
+  (NP patent/NN)
+  (NP valuation/NN)
+  using/VBG
+  multiple/JJ
+  often/RB
+  known/VBN
+  (NP relative/JJ valuation/NN)
+  (NP technique/NN)
+  used/VBN
+  making/VBG
+  (NP estimate/JJ value/NN)
+  (NP asset/NN)
+  done/VBN
+  making/VBG
+  (NP comparison/NN)
+  (NP asset/NN)
+  (NP value/NN)
+  (NP value/NN)
+  (NP similar/JJ asset/NN)
+  comparables/NNS
+  analyzing/VBG
+  (NP market/NN)
+  (NP valueinuse/NN)
+  (NP asset/NN)
+  (NP net/JJ present/JJ value/NN)
+  (NP cash/NN)
+  (NP flow/NN)
+  (NP benefit/NN)
+  generated/VBN
+  (NP asset/NN)
+  (NP certain/JJ use/NN)
+  (NP certain/JJ owner/NN))

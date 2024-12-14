@@ -9,6 +9,7 @@ sns.set(font="Times")
 sns.set_style("ticks")
 sns.set_context("poster", font_scale=0.75, rc={"grid.linewidth": 0.75})
 
+
 class DataVisualizer:
     """
     A class to visualize financial data for a given stock ticker using Yahoo Finance.
@@ -140,12 +141,24 @@ class DataVisualizer:
         self.data_visualization(item, freq)
         self.display_markdown_table(item, freq)
 
+
 if __name__ == "__main__":
     # Set up argument parsing for command line execution
     parser = argparse.ArgumentParser()
-    parser.add_argument('--stock_code', required=True, help='Stock ticker symbol (e.g., AAPL)')
-    parser.add_argument('--item', required=True, help='Financial item to visualize (e.g., "totalAssets")')
-    parser.add_argument('--freq', required=True, choices=['A', 'Q'], help='Frequency of the data: "A" for Annual, "Q" for Quarterly')
+    parser.add_argument(
+        "--stock_code", required=True, help="Stock ticker symbol (e.g., AAPL)"
+    )
+    parser.add_argument(
+        "--item",
+        required=True,
+        help='Financial item to visualize (e.g., "totalAssets")',
+    )
+    parser.add_argument(
+        "--freq",
+        required=True,
+        choices=["A", "Q"],
+        help='Frequency of the data: "A" for Annual, "Q" for Quarterly',
+    )
 
     # Parse command line arguments
     args = parser.parse_args()

@@ -5,6 +5,7 @@ import sys
 import logging
 import torch
 import os
+
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 sys.path.append(parent_dir)
@@ -14,6 +15,7 @@ import pandas as pd
 from tqdm import tqdm
 import glob
 from typing import List
+
 
 class DataGenerator:
     """
@@ -55,9 +57,7 @@ class DataGenerator:
             List[str]: A list of generated questions.
         """
         qa_list = self.qg.generate(
-            text,
-            num_questions=num_questions,
-            answer_style="sentences"
+            text, num_questions=num_questions, answer_style="sentences"
         )
 
         logging.info(f"{len(qa_list)} questions are generated")
@@ -94,7 +94,12 @@ class DataGenerator:
 if __name__ == "__main__":
     # Initialize the logger
     logger = logging.getLogger(__name__)
-    logging.basicConfig(filename='log/generator.log', encoding='utf-8', level=logging.DEBUG, filemode="w")
+    logging.basicConfig(
+        filename="log/generator.log",
+        encoding="utf-8",
+        level=logging.DEBUG,
+        filemode="w",
+    )
 
     # Create an instance of DataGenerator
     generator = DataGenerator()
