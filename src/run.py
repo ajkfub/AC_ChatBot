@@ -39,22 +39,22 @@ class Response:
         self.model = Llama.from_pretrained(
             repo_id=self._repo_id, filename=self._filename
         )
-        self._optimal_k = self._get_optimal_k()
+        self.X, self._optimal_k = self._get_optimal_k()
 
     def _get_optimal_k(self) -> int:
 
         nlp = spacy.load("en_core_web_sm")
 
         # Step 1: Text Vectorization
-        vectorizer = TfidfVectorizer(stop_words='english')
+        self.vectorizer = TfidfVectorizer(stop_words='english')
 
         data_path = os.path.join(data_directory, "enquiries.csv")
         self.enquiries = list(pd.read_csv(data_path)["enquiries"])
 
-        X = vectorizer.fit_transform(self.enquiries)
+        X = self.vectorizer.fit_transform(self.enquiries)
         optimal_k = find_optimal_k(X,1450, plot=False)
 
-        return optimal_k
+        return X, optimal_k
 
     def generate_text_from_prompt(
         self,
@@ -77,6 +77,8 @@ class Response:
         Returns:
             str: The generated text response.
         """
+
+
         model_output = self.model(
             user_prompt,
             max_tokens=max_tokens,
@@ -90,7 +92,7 @@ class Response:
         print(f"Prompt: {user_prompt}")
         print(f"Response: {result}")
 
-        suggestions = suggest_similar_questions(user_prompt, self.enquiries, self._optimal_k)
+        suggestions = suggest_similar_questions(self.vectorizer, user_prompt, self.enquiries, self._optimal_k, self.X)
 
         print(f"Suggested questions for '{user_prompt}':")
         for question in suggestions:
@@ -156,7 +158,6 @@ if __name__ == "__main__":
         else:
             prompt = args.prompt
             result = response.generate_text_from_prompt(prompt, max_tokens=30)
-            print(result)
     elif mode == "data":
         if stock_code is None or item is None or freq is None:
             raise Exception(
