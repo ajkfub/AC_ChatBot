@@ -16,6 +16,9 @@ import json
 import pandas as pd
 from datasets import Dataset
 
+import os
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
 
 def initialize_model_and_tokenizer(
     model_name: str, max_seq_length: int, load_in_4bit: bool = True
@@ -216,7 +219,7 @@ def main() -> None:
     eos_token = tokenizer.eos_token  # Must add EOS_TOKEN
 
     # Get dataset
-    dataset = get_dataset("../dataset/all.jsonl", eos_token)
+    dataset = get_dataset(f"{parent_dir}/dataset/chat/all.jsonl", eos_token)
 
     # Configure and train the model
     trainer = configure_trainer(model, tokenizer, dataset, max_seq_length)
